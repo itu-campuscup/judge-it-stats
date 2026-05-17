@@ -1,0 +1,15 @@
+{
+  "name": "judge-it-stats",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "bun run generate-stats.ts",
+    "generate:full": "bun run generate-stats.ts --full"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "^1.2.0",
+    "typescript": "^6.0.2"
+  }
+}
