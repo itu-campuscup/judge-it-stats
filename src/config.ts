@@ -26,5 +26,5 @@ export function isFullRun(): boolean {
 }
 
 export function getDocsDir(): string {
-  return resolve(import.meta.dir, "..", DOCS_DIR);
+  return resolve(import.meta.dir, "..", process.env.DOCS_DIR || DOCS_DIR);
 }

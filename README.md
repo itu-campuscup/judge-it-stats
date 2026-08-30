@@ -7,7 +7,7 @@ Generates static JSON statistics for the Judge-It Campus Cup application from Co
 Every 5 minutes (via GitHub Actions cron), this script:
 1. Fetches current year data from Convex via the `/stats` endpoint
 2. Computes rankings for Beer, Sail, and Spin events
-3. Generates JSON files for rankings, team profiles, and player profiles
+3. Generates JSON files for rankings, team profiles, player profiles, and the current-heat projection
 4. Commits and deploys to GitHub Pages
 
 Prior years are cached locally — only the current year and any uncached years are regenerated.
@@ -16,6 +16,7 @@ Prior years are cached locally — only the current year and any uncached years 
 
 ```
 docs/
+  current-heat.json                ← public current-heat projection (schema version 1)
   index.json                     ← manifest: last updated, years, current heat
   rankings/
     overall.json                 ← all-time top 5 per type
@@ -67,14 +68,16 @@ bun run generate        # incremental (current year + uncached)
 bun run generate:full   # regenerate all years
 ```
 
+For local isolation, `DOCS_DIR` is an optional output-directory override; omit it to write to `docs/`.
+
 ## GitHub Actions Setup
 
 1. Enable GitHub Pages in repo settings → Pages → Source: "GitHub Actions"
-2. Set secrets in repo settings → Actions:
-   - `CONVEX_URL`: Convex deployment URL
-   - `STATS_API_KEY`: Same key as configured in Convex
+2. In repo settings → Actions → Secrets and variables → Actions, add:
+   - `CONVEX_URL`: the Convex deployment URL
+   - `STATS_API_KEY`: same key configured in Convex
 
-The workflow runs automatically every 5 minutes, or can be triggered manually with "full" option.
+The workflow runs automatically every 5 minutes, or can be triggered manually with "full" option. The generated `current-heat.json` is public and contains no Show IT secret.
 
 ## Schema Submodule
 
@@ -110,5 +113,6 @@ Example:
 - All-time beer rankings: `/rankings/overall.json`
 - 2026 beer rankings: `/rankings/2026/beer.json`
 - Team profile: `/teams/{teamId}.json`
+- Current heat projection: `/current-heat.json`
 
 See `docs/index.json` for available years and current heat info.

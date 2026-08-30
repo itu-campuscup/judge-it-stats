@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync, readdirSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync, renameSync, unlinkSync, readdirSync } from "node:fs";
 import { resolve, join } from "node:path";
 import type { StatsData, RankingEntry, TeamProfile, PlayerProfile } from "./types";
 import {
@@ -12,12 +12,31 @@ import {
 } from "./rankings";
 import { getDocsDir } from "./config";
 
+import { createCurrentHeatSnapshot } from "./currentHeatSnapshot";
+
 function writeJson(path: string, data: unknown): void {
   const dir = resolve(path, "..");
   if (!existsSync(dir)) {
     mkdirSync(dir, { recursive: true });
   }
   writeFileSync(path, JSON.stringify(data, null, 2) + "\n");
+}
+
+function writeAtomicJson(path: string, data: unknown): void {
+  const dir = resolve(path, "..");
+  if (!existsSync(dir)) {
+    mkdirSync(dir, { recursive: true });
+  }
+
+  const tempPath = `${path}.tmp`;
+  try {
+    writeFileSync(tempPath, JSON.stringify(data, null, 2) + "\n");
+    renameSync(tempPath, path);
+  } catch (error) {
+    // Remove a failed temporary write so it cannot be mistaken for a published snapshot.
+    if (existsSync(tempPath)) unlinkSync(tempPath);
+    throw error;
+  }
 }
 
 function readJsonFile<T>(path: string): T | null {
@@ -120,6 +139,7 @@ function writeYearRankings(
   docsDir: string,
   year: number,
   rankingsByType: Record<string, RankingEntry[]>,
+  generatedAt: string,
 ): void {
   const yearDir = join(docsDir, "rankings", String(year));
 
@@ -128,14 +148,14 @@ function writeYearRankings(
     writeJson(join(yearDir, fileName), {
       timeType: type,
       year,
-      generatedAt: new Date().toISOString(),
+      generatedAt,
       rankings,
     });
   }
 
   writeJson(join(yearDir, "summary.json"), {
     year,
-    generatedAt: new Date().toISOString(),
+    generatedAt,
     top5: generateSummary(rankingsByType),
   });
 }
@@ -145,6 +165,7 @@ function writeHeatRankings(
   year: number,
   heatNumber: number,
   rankingsByType: Record<string, RankingEntry[]>,
+  generatedAt: string,
 ): void {
   const heatDir = join(docsDir, "rankings", String(year), `heat-${heatNumber}`);
 
@@ -153,7 +174,7 @@ function writeHeatRankings(
       timeType: type,
       year,
       heat: heatNumber,
-      generatedAt: new Date().toISOString(),
+      generatedAt,
       rankings,
     });
   }
@@ -161,7 +182,7 @@ function writeHeatRankings(
   writeJson(join(heatDir, "summary.json"), {
     year,
     heat: heatNumber,
-    generatedAt: new Date().toISOString(),
+    generatedAt,
     top5: generateSummary(rankingsByType),
   });
 }
@@ -169,6 +190,7 @@ function writeHeatRankings(
 function writeOverallRankings(
   docsDir: string,
   data: StatsData,
+  generatedAt: string,
 ): void {
   const allRankings: Record<string, RankingEntry[]> = {};
 
@@ -189,40 +211,40 @@ function writeOverallRankings(
   }
 
   writeJson(join(docsDir, "rankings", "overall.json"), {
-    generatedAt: new Date().toISOString(),
+    generatedAt,
     allTimeTop5: allRankings,
   });
 }
 
-function writeTeamProfiles(docsDir: string, data: StatsData): void {
+function writeTeamProfiles(docsDir: string, data: StatsData, generatedAt: string): void {
   const profiles = generateTeamProfiles(data);
   const teamsDir = join(docsDir, "teams");
 
   for (const profile of profiles) {
     writeJson(join(teamsDir, `${profile.teamId}.json`), {
       ...profile,
-      generatedAt: new Date().toISOString(),
+      generatedAt,
     });
   }
 }
 
-function writePlayerProfiles(docsDir: string, data: StatsData): void {
+function writePlayerProfiles(docsDir: string, data: StatsData, generatedAt: string): void {
   const profiles = generatePlayerProfiles(data);
   const playersDir = join(docsDir, "players");
 
   for (const profile of profiles) {
     writeJson(join(playersDir, `${profile.playerId}.json`), {
       ...profile,
-      generatedAt: new Date().toISOString(),
+      generatedAt,
     });
   }
 }
 
-function writeIndex(docsDir: string, data: StatsData): void {
+function writeIndex(docsDir: string, data: StatsData, generatedAt: string): void {
   const currentHeat = data.heats.find((h) => h.is_current) || null;
 
   writeJson(join(docsDir, "index.json"), {
-    lastUpdated: new Date().toISOString(),
+    lastUpdated: generatedAt,
     years: getAvailableYears(data.heats),
     timeTypes: data.timeTypes.map((tt) => tt.time_eng),
     currentHeat: currentHeat
@@ -235,10 +257,26 @@ function writeIndex(docsDir: string, data: StatsData): void {
   });
 }
 
+function writeCurrentHeatSnapshot(
+  docsDir: string,
+  data: StatsData,
+  generatedAt: string,
+  sourceFetchedAt: string,
+): void {
+  const snapshot = createCurrentHeatSnapshot(data, generatedAt, sourceFetchedAt);
+  writeAtomicJson(join(docsDir, "current-heat.json"), snapshot);
+}
+
 export async function generate(
   data: StatsData,
-  options: { full: boolean },
+  options: {
+    full: boolean;
+    generatedAt?: string;
+    sourceFetchedAt?: string;
+  },
 ): Promise<void> {
+  const generatedAt = options.generatedAt ?? new Date().toISOString();
+  const sourceFetchedAt = options.sourceFetchedAt ?? generatedAt;
   const docsDir = getDocsDir();
   const currentYear = getCurrentYear(data.heats);
   const allYears = getAvailableYears(data.heats);
@@ -260,31 +298,32 @@ export async function generate(
   for (const year of yearsToGenerate) {
     console.log(`\nGenerating rankings for ${year}...`);
     const rankingsByType = generateRankingsForYear(data, year);
-    writeYearRankings(docsDir, year, rankingsByType);
+    writeYearRankings(docsDir, year, rankingsByType, generatedAt);
 
     const yearHeats = data.heats.filter((h) => new Date(h.date).getFullYear() === year);
     for (const heat of yearHeats) {
       const heatRankings = generateRankingsForHeat(data, heat._id, year);
-      writeHeatRankings(docsDir, year, heat.heat, heatRankings);
+      writeHeatRankings(docsDir, year, heat.heat, heatRankings, generatedAt);
     }
   }
 
   if (options.full) {
     console.log("\nGenerating overall rankings...");
-    writeOverallRankings(docsDir, data);
+    writeOverallRankings(docsDir, data, generatedAt);
 
     console.log("Generating team profiles...");
-    writeTeamProfiles(docsDir, data);
+    writeTeamProfiles(docsDir, data, generatedAt);
 
     console.log("Generating player profiles...");
-    writePlayerProfiles(docsDir, data);
+    writePlayerProfiles(docsDir, data, generatedAt);
   } else {
     console.log("\nUpdating team/player profiles for current year data...");
-    writeTeamProfiles(docsDir, data);
-    writePlayerProfiles(docsDir, data);
-    writeOverallRankings(docsDir, data);
+    writeTeamProfiles(docsDir, data, generatedAt);
+    writePlayerProfiles(docsDir, data, generatedAt);
+    writeOverallRankings(docsDir, data, generatedAt);
   }
 
-  writeIndex(docsDir, data);
+  writeIndex(docsDir, data, generatedAt);
+  writeCurrentHeatSnapshot(docsDir, data, generatedAt, sourceFetchedAt);
   console.log("\nDone! Output written to docs/");
 }
