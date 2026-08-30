@@ -121,3 +121,65 @@ export const PERFORMANCE_SCALES = {
 } as const;
 
 export const REVOLUTIONS = 10;
+export type SnapshotActivity = "beer" | "spin" | "sail";
+
+export interface CurrentHeatResult {
+  id: string;
+  rank: number;
+  playerName: string;
+  teamName: string;
+  durationMs: number;
+  formattedTime: string;
+  displayLabel: string;
+  rpm?: number;
+  displayRpmLabel?: string;
+  imageUrl?: string;
+}
+
+export interface CurrentHeatActiveAttempt {
+  playerId: string;
+  playerName: string;
+  teamName?: string;
+  startedAt: string;
+  elapsedMsAtSnapshot: number;
+}
+
+export interface CurrentHeatSailTeam {
+  teamId: string;
+  teamName: string;
+  imageUrl?: string;
+  sailLogCount: number;
+  handoffCount: number;
+  completedLegCount: number;
+  status: "racing" | "finished" | "unknown";
+  currentPlayerName?: string;
+  startedAt: string;
+  elapsedMsAtSnapshot: number;
+  finishedAt?: string;
+}
+
+export interface CurrentHeatActivity {
+  completed: CurrentHeatResult[];
+  active: CurrentHeatActiveAttempt[];
+  attemptsStarted: number;
+  attemptsCompleted: number;
+}
+
+export interface CurrentHeatSnapshot {
+  schemaVersion: 1;
+  generatedAt: string;
+  sourceFetchedAt: string;
+  currentHeat: {
+    id: string;
+    number: number;
+    year: number;
+    date: string;
+    state: "running" | "completed" | "unknown";
+    activeActivity: SnapshotActivity | null;
+  };
+  activities: {
+    beer: CurrentHeatActivity;
+    spin: CurrentHeatActivity;
+    sail: { teams: CurrentHeatSailTeam[] };
+  };
+}

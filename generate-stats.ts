@@ -11,12 +11,13 @@ async function main() {
   console.log(`Fetching data from Convex...`);
 
   const data = await fetchAllData(convexUrl);
+  const sourceFetchedAt = new Date().toISOString();
 
   console.log(
     `Fetched: ${data.players.length} players, ${data.teams.length} teams, ${data.heats.length} heats, ${data.timeTypes.length} time types, ${data.timeLogs.length} time logs`,
   );
 
-  await generate(data, { full });
+  await generate(data, { full, sourceFetchedAt });
 }
 
 main().catch((err) => {

@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "generate": "bun run generate-stats.ts",
-    "generate:full": "bun run generate-stats.ts --full"
+    "generate:full": "bun run generate-stats.ts --full",
+    "test": "bun test"
   },
   "dependencies": {},
   "devDependencies": {
