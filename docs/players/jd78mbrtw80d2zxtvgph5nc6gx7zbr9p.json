@@ -1,0 +1,30 @@
+{
+  "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
+  "playerName": "Daniel Fich",
+  "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
+  "teamName": "The Early Birds",
+  "personalBests": {
+    "Sail": {
+      "duration": 20249,
+      "heat": 13,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 8955,
+      "heat": 15,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 7839,
+      "heat": 8,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 3,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

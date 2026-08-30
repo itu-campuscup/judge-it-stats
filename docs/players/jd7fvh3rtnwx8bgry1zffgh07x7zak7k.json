@@ -1,0 +1,25 @@
+{
+  "playerId": "jd7fvh3rtnwx8bgry1zffgh07x7zak7k",
+  "playerName": "Lucas Hanson",
+  "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
+  "teamName": "CampusCup Board",
+  "personalBests": {
+    "Sail": {
+      "duration": 22773,
+      "heat": 9,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 7032,
+      "heat": 9,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

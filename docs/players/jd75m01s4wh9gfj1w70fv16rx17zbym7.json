@@ -1,0 +1,30 @@
+{
+  "playerId": "jd75m01s4wh9gfj1w70fv16rx17zbym7",
+  "playerName": "Rasmus Nordquist",
+  "teamId": "jh7eg46czc17ps6n1wq2wffbd57zb5sc",
+  "teamName": "Smølferne",
+  "personalBests": {
+    "Sail": {
+      "duration": 27491,
+      "heat": 2,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 45972,
+      "heat": 2,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 15555,
+      "heat": 2,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

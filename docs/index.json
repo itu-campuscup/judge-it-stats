@@ -1,0 +1,20 @@
+{
+  "lastUpdated": "2026-08-30T07:55:49.732Z",
+  "years": [
+    2025
+  ],
+  "timeTypes": [
+    "Sail",
+    "Beer",
+    "Spin"
+  ],
+  "currentHeat": {
+    "id": "j975a518awpzrj24wnm65mx8n97zb5a9",
+    "heat": 16,
+    "date": "2025-09-12"
+  },
+  "totalPlayers": 61,
+  "totalTeams": 16,
+  "totalHeats": 16,
+  "totalTimeLogs": 883
+}

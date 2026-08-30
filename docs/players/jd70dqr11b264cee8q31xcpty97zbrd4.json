@@ -1,0 +1,30 @@
+{
+  "playerId": "jd70dqr11b264cee8q31xcpty97zbrd4",
+  "playerName": "Frederik Groth Termansen",
+  "teamId": "jh7ebsayaent4agr8a1phrnvq57zbctb",
+  "teamName": "Saftens bondegård",
+  "personalBests": {
+    "Sail": {
+      "duration": 20001,
+      "heat": 12,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 36025,
+      "heat": 12,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 7741,
+      "heat": 12,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

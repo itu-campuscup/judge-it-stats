@@ -1,0 +1,30 @@
+{
+  "playerId": "jd79c0qta4a26vg70mxepf8k6n7zarxp",
+  "playerName": "Emma Krause-Kjær",
+  "teamId": "jh75sd95kgdaca80k7j9mgwft97zb70b",
+  "teamName": "EM&MS",
+  "personalBests": {
+    "Sail": {
+      "duration": 30542,
+      "heat": 4,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 27139,
+      "heat": 4,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 13578,
+      "heat": 4,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

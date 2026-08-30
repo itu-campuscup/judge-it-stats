@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7fpya78hw0rsjr004skm2fe17zb67f",
+  "teamName": "Hellige Firenighed",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM3hRQzAqUajmmcrcM9wKhYU9XIdU395IOxMyQmbcM3EqDbwnj7juNU8tGeTeReMz2N5UCy7-EGD3Du11Je6600gdWvXZ1cqCml-17-3hnt74jjSqy19ePzz9W123iNpO6kDqpkW-SX9hT85-NiN6ma=w1536-h1024-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd7dv1egepc1a2prtn26ttx7yh7zbsx7",
+      "playerName": "Matteo Guglielmi"
+    },
+    {
+      "playerId": "jd76zf8dc75evzqsqhjjy7374s7zask8",
+      "playerName": "Adam Livoni"
+    },
+    {
+      "playerId": "jd745w4qfjj5maw4hr0v4fq27x7zbdyk",
+      "playerName": "Jens Fuglede"
+    },
+    {
+      "playerId": "jd7fnj4cn5zsem7abkb69x2bx97zaasq",
+      "playerName": "Magnus Vestergaard"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 18701.666666666668,
+    "Beer": 17320.666666666668,
+    "Spin": 10307.666666666666
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 16,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 51,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 65,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

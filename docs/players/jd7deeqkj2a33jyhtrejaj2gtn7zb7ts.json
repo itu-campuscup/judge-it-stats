@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7deeqkj2a33jyhtrejaj2gtn7zb7ts",
+  "playerName": "Mark Assejev",
+  "teamId": "jh7br1vcgnnmepn51fv3aszxtn7zbyh3",
+  "teamName": "I used to do rowing when I was 14",
+  "personalBests": {
+    "Sail": {
+      "duration": 19905,
+      "heat": 8,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 11762,
+      "heat": 8,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 8609,
+      "heat": 8,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

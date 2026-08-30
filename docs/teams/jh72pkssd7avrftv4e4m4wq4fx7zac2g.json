@@ -1,0 +1,43 @@
+{
+  "teamId": "jh72pkssd7avrftv4e4m4wq4fx7zac2g",
+  "teamName": "Xx_Gamerz_xX",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNgex_-dPG_RyJTH8F-4BuCfXqX4bAqd64_5lx89WqR2Jl-RjOK0ZSjRkEtKtGyZC8eWkwSzHwOoEeJP6Rr9gnKFmSX0c_fMC5OrKh9ijgXft-62-DoK4qTFu6wyk6gcAksG8vfoGOie1fMlb7k8cG1=w1600-h1200-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd76g84hh0j7jn74qqgvnww0c97zbj6c",
+      "playerName": "Karanbir Singh"
+    },
+    {
+      "playerId": "jd712zb0s5t7kt60kf006hv3vx7zap0r",
+      "playerName": "Pierpaolo Dileo"
+    },
+    {
+      "playerId": "jd7efcy7mwjfm4hr72p0b42tqs7za9kz",
+      "playerName": "Marco Lagiongada"
+    },
+    {
+      "playerId": "jd7ekt9t4gswcx6vs9xtrnzsf57zans6",
+      "playerName": "Eliza Niedzielska"
+    }
+  ],
+  "bestTimes": {},
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 0,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

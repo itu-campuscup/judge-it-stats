@@ -1,0 +1,30 @@
+{
+  "playerId": "jd72sqkzbgy9gggvz7r0q1k6817zapz6",
+  "playerName": "Bartłomiej Juszczyk",
+  "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
+  "teamName": "The Early Birds",
+  "personalBests": {
+    "Sail": {
+      "duration": 14748,
+      "heat": 15,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 10696,
+      "heat": 15,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 9889,
+      "heat": 15,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 3,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

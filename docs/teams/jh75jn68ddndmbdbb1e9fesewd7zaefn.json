@@ -1,0 +1,47 @@
+{
+  "teamId": "jh75jn68ddndmbdbb1e9fesewd7zaefn",
+  "teamName": "Mændfrøskorpset",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd70zkpe7yy6v453gckbnvvckd7zbh0m",
+      "playerName": "Noah Wagenen"
+    },
+    {
+      "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
+      "playerName": "Lukas Pedersen"
+    },
+    {
+      "playerId": "jd7cbfsdhvskx6kd3waqexz5r17zarx7",
+      "playerName": "Niels Laier"
+    },
+    {
+      "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+      "playerName": "Balder Møller"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 20395.5,
+    "Beer": 8291,
+    "Spin": 7844
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 69,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 44,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 81,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

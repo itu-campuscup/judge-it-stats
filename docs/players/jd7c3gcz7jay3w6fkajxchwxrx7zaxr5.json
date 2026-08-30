@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7c3gcz7jay3w6fkajxchwxrx7zaxr5",
+  "playerName": "Adrian Borup",
+  "teamId": "jh72xzt8qa9n1kycrh8s0j55397zazzk",
+  "teamName": "Alkohooligans",
+  "personalBests": {
+    "Sail": {
+      "duration": 22367,
+      "heat": 9,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 8677,
+      "heat": 13,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 7881,
+      "heat": 13,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 2,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

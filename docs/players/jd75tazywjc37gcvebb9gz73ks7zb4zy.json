@@ -1,0 +1,25 @@
+{
+  "playerId": "jd75tazywjc37gcvebb9gz73ks7zb4zy",
+  "playerName": "Thor Davis",
+  "teamId": "jh7c86cxt8e68pzb37cyg6x4y97zbgx1",
+  "teamName": "Team Slipsedrengene",
+  "personalBests": {
+    "Sail": {
+      "duration": 17648,
+      "heat": 2,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 8108,
+      "heat": 2,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 2,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

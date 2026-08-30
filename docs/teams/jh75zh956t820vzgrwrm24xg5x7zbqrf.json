@@ -1,0 +1,47 @@
+{
+  "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
+  "teamName": "The Early Birds",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7751rmfba1ht3rrr3yb81erx7zafwp",
+      "playerName": "Benedek Szabó"
+    },
+    {
+      "playerId": "jd72sqkzbgy9gggvz7r0q1k6817zapz6",
+      "playerName": "Bartłomiej Juszczyk"
+    },
+    {
+      "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
+      "playerName": "Daniel Fich"
+    },
+    {
+      "playerId": "jd7e6zfvhgh8t0sz9maf3fyfyx7zbn72",
+      "playerName": "Casper Frøding"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 18630.75,
+    "Beer": 8727.25,
+    "Spin": 9476
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 66,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 52,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 70,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

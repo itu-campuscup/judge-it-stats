@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
+  "playerName": "Sebastian Howard",
+  "teamId": "jh7d2e9x6bm8dhavaztdxh62357zbxdp",
+  "teamName": "Avengers from Temu",
+  "personalBests": {
+    "Sail": {
+      "duration": 21381,
+      "heat": 3,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 17118,
+      "heat": 3,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 11752,
+      "heat": 3,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7e6zfvhgh8t0sz9maf3fyfyx7zbn72",
+  "playerName": "Casper Frøding",
+  "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
+  "teamName": "The Early Birds",
+  "personalBests": {
+    "Sail": {
+      "duration": 18609,
+      "heat": 13,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 9337,
+      "heat": 8,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 9176,
+      "heat": 13,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 3,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,30 @@
+{
+  "playerId": "jd738cj02m9fb42z1msxhvnyp17zajnq",
+  "playerName": "Andreas Guldborg",
+  "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
+  "teamName": "CampusCup Board",
+  "personalBests": {
+    "Sail": {
+      "duration": 23666,
+      "heat": 9,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 6478,
+      "heat": 9,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 9060,
+      "heat": 9,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

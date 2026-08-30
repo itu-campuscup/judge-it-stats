@@ -1,0 +1,25 @@
+{
+  "playerId": "jd7c3hk4zx6ca15qb21qjzmd797zax2d",
+  "playerName": "Malthe Nielsen",
+  "teamId": "jh7eesykxkx6d1qk2p837bh3rh7zay8h",
+  "teamName": "The Wet Warriors of DRby River",
+  "personalBests": {
+    "Sail": {
+      "duration": 34179,
+      "heat": 7,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 13938,
+      "heat": 7,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

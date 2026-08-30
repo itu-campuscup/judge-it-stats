@@ -1,0 +1,30 @@
+{
+  "playerId": "jd77hyfw9t6whcs35s45hcpc5h7zb0zz",
+  "playerName": "Andreas John-Holaus",
+  "teamId": "jh7eg46czc17ps6n1wq2wffbd57zb5sc",
+  "teamName": "Smølferne",
+  "personalBests": {
+    "Sail": {
+      "duration": 31709,
+      "heat": 2,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 24423,
+      "heat": 2,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 9712,
+      "heat": 2,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

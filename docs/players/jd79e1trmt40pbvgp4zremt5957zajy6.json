@@ -1,0 +1,30 @@
+{
+  "playerId": "jd79e1trmt40pbvgp4zremt5957zajy6",
+  "playerName": "Rasmus Huge",
+  "teamId": "jh7e0fnk9kswcdme5ezvx21fpx7zbnqz",
+  "teamName": "(SWU) Sex With Urmama",
+  "personalBests": {
+    "Sail": {
+      "duration": 23744,
+      "heat": 4,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 8870,
+      "heat": 14,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 8817,
+      "heat": 11,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 3,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,92 @@
+{
+  "timeType": "Sail",
+  "year": 2025,
+  "heat": 13,
+  "generatedAt": "2026-08-30T07:55:49.732Z",
+  "rankings": [
+    {
+      "rank": 1,
+      "playerId": "jd72sqkzbgy9gggvz7r0q1k6817zapz6",
+      "playerName": "Bartłomiej Juszczyk",
+      "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
+      "teamName": "The Early Birds",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1",
+      "heatNumber": 13,
+      "heatId": "j977kw6v9hgzz9ef49w5c70wdh7za72h",
+      "duration": 16984,
+      "formattedTime": "00:16:984",
+      "displayLabel": "00:16:984",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1"
+    },
+    {
+      "rank": 2,
+      "playerId": "jd7e6zfvhgh8t0sz9maf3fyfyx7zbn72",
+      "playerName": "Casper Frøding",
+      "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
+      "teamName": "The Early Birds",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1",
+      "heatNumber": 13,
+      "heatId": "j977kw6v9hgzz9ef49w5c70wdh7za72h",
+      "duration": 18609,
+      "formattedTime": "00:18:609",
+      "displayLabel": "+1.625s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1"
+    },
+    {
+      "rank": 3,
+      "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
+      "playerName": "Daniel Fich",
+      "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
+      "teamName": "The Early Birds",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1",
+      "heatNumber": 13,
+      "heatId": "j977kw6v9hgzz9ef49w5c70wdh7za72h",
+      "duration": 20249,
+      "formattedTime": "00:20:248",
+      "displayLabel": "+3.265s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1"
+    },
+    {
+      "rank": 4,
+      "playerId": "jd7751rmfba1ht3rrr3yb81erx7zafwp",
+      "playerName": "Benedek Szabó",
+      "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
+      "teamName": "The Early Birds",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1",
+      "heatNumber": 13,
+      "heatId": "j977kw6v9hgzz9ef49w5c70wdh7za72h",
+      "duration": 21379,
+      "formattedTime": "00:21:379",
+      "displayLabel": "+4.395s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1"
+    },
+    {
+      "rank": 5,
+      "playerId": "jd70jbwx9w1c0vzqcc7vf9b73d7zbgaf",
+      "playerName": "Magnus Green",
+      "teamId": "jh72xzt8qa9n1kycrh8s0j55397zazzk",
+      "teamName": "Alkohooligans",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1",
+      "heatNumber": 13,
+      "heatId": "j977kw6v9hgzz9ef49w5c70wdh7za72h",
+      "duration": 21991,
+      "formattedTime": "00:21:990",
+      "displayLabel": "+5.007s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1"
+    },
+    {
+      "rank": 6,
+      "playerId": "jd7c3gcz7jay3w6fkajxchwxrx7zaxr5",
+      "playerName": "Adrian Borup",
+      "teamId": "jh72xzt8qa9n1kycrh8s0j55397zazzk",
+      "teamName": "Alkohooligans",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1",
+      "heatNumber": 13,
+      "heatId": "j977kw6v9hgzz9ef49w5c70wdh7za72h",
+      "duration": 28923,
+      "formattedTime": "00:28:922",
+      "displayLabel": "+11.939s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1"
+    }
+  ]
+}

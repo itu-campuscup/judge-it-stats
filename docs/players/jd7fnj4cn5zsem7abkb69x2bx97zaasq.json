@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7fnj4cn5zsem7abkb69x2bx97zaasq",
+  "playerName": "Magnus Vestergaard",
+  "teamId": "jh7fpya78hw0rsjr004skm2fe17zb67f",
+  "teamName": "Hellige Firenighed",
+  "personalBests": {
+    "Sail": {
+      "duration": 22883,
+      "heat": 1,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 10398,
+      "heat": 1,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 9601,
+      "heat": 1,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

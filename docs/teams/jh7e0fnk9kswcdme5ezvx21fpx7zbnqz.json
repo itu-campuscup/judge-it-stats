@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7e0fnk9kswcdme5ezvx21fpx7zbnqz",
+  "teamName": "(SWU) Sex With Urmama",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMA8u1O79FLglpfOnJmzfPjqdAsFz9S63ORvAdCJG4uVYmTdkfWicR5aSLuqURNBglUGYoPek6LwCBiCrRRyo3IBo4diVJfIqfwCKUr2fIYWVaW9tp0cKKkz9JPAyf4fZm8yIPXq9Oa7yZeTwexfmX-=w974-h1292-s-no?authuser=1",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd78he0stjh3ek2043ztqeg0y97zab91",
+      "playerName": "Viktor Andersen"
+    },
+    {
+      "playerId": "jd7e0qsk0fbzaj087pg9td42g57zasyh",
+      "playerName": "Frederik Buur"
+    },
+    {
+      "playerId": "jd79e1trmt40pbvgp4zremt5957zajy6",
+      "playerName": "Rasmus Huge"
+    },
+    {
+      "playerId": "jd783j8qe48f9m0na3rzt9j1nh7zaceh",
+      "playerName": "Bastian Poulsgaard"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 21846.5,
+    "Beer": 10723.75,
+    "Spin": 9687
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 55,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 37,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 69,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,30 @@
+{
+  "playerId": "jd75f7yz4ghb86szgb60d6s0817zb7c6",
+  "playerName": "Bertram Jensen",
+  "teamId": "jh7c86cxt8e68pzb37cyg6x4y97zbgx1",
+  "teamName": "Team Slipsedrengene",
+  "personalBests": {
+    "Sail": {
+      "duration": 20848,
+      "heat": 10,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 3911,
+      "heat": 10,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 6878,
+      "heat": 10,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 2,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

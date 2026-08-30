@@ -1,0 +1,30 @@
+{
+  "playerId": "jd79z4m8jw8w4h53cam40mv0ph7zbr4r",
+  "playerName": "Eik Jørgensen",
+  "teamId": "jh7eesykxkx6d1qk2p837bh3rh7zay8h",
+  "teamName": "The Wet Warriors of DRby River",
+  "personalBests": {
+    "Sail": {
+      "duration": 43619,
+      "heat": 7,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 26041,
+      "heat": 7,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 12109,
+      "heat": 7,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

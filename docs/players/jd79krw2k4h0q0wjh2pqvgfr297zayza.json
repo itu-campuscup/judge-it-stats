@@ -1,0 +1,30 @@
+{
+  "playerId": "jd79krw2k4h0q0wjh2pqvgfr297zayza",
+  "playerName": "Sebastian Wærling",
+  "teamId": "jh7c5k3ttvx641fcqeashgq2s57zb9jv",
+  "teamName": "Tequila Tides",
+  "personalBests": {
+    "Sail": {
+      "duration": 26596,
+      "heat": 3,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 28287,
+      "heat": 11,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 9780,
+      "heat": 11,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 2,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,30 @@
+{
+  "playerId": "jd70916xtxnc9e5kva0b4jdy817zakcm",
+  "playerName": "Jakub Kozanyi",
+  "teamId": "jh7br1vcgnnmepn51fv3aszxtn7zbyh3",
+  "teamName": "I used to do rowing when I was 14",
+  "personalBests": {
+    "Sail": {
+      "duration": 27275,
+      "heat": 8,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 34112,
+      "heat": 8,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 13681,
+      "heat": 8,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

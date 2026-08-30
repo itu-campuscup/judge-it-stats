@@ -1,0 +1,92 @@
+{
+  "timeType": "Sail",
+  "year": 2025,
+  "heat": 9,
+  "generatedAt": "2026-08-30T07:55:49.732Z",
+  "rankings": [
+    {
+      "rank": 1,
+      "playerId": "jd70jbwx9w1c0vzqcc7vf9b73d7zbgaf",
+      "playerName": "Magnus Green",
+      "teamId": "jh72xzt8qa9n1kycrh8s0j55397zazzk",
+      "teamName": "Alkohooligans",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1",
+      "heatNumber": 9,
+      "heatId": "j977pkgv8a53sy1qb1whwbnzv97zbxfs",
+      "duration": 21339,
+      "formattedTime": "00:21:338",
+      "displayLabel": "00:21:338",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1"
+    },
+    {
+      "rank": 2,
+      "playerId": "jd7fn9b8hwhxa0r1qr3p1mrh2n7zbnaa",
+      "playerName": "Carmen Nielsen",
+      "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
+      "teamName": "CampusCup Board",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1",
+      "heatNumber": 9,
+      "heatId": "j977pkgv8a53sy1qb1whwbnzv97zbxfs",
+      "duration": 22214,
+      "formattedTime": "00:22:213",
+      "displayLabel": "+0.875s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1"
+    },
+    {
+      "rank": 3,
+      "playerId": "jd7c3gcz7jay3w6fkajxchwxrx7zaxr5",
+      "playerName": "Adrian Borup",
+      "teamId": "jh72xzt8qa9n1kycrh8s0j55397zazzk",
+      "teamName": "Alkohooligans",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1",
+      "heatNumber": 9,
+      "heatId": "j977pkgv8a53sy1qb1whwbnzv97zbxfs",
+      "duration": 22367,
+      "formattedTime": "00:22:367",
+      "displayLabel": "+1.028s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1"
+    },
+    {
+      "rank": 4,
+      "playerId": "jd7fvh3rtnwx8bgry1zffgh07x7zak7k",
+      "playerName": "Lucas Hanson",
+      "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
+      "teamName": "CampusCup Board",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1",
+      "heatNumber": 9,
+      "heatId": "j977pkgv8a53sy1qb1whwbnzv97zbxfs",
+      "duration": 22773,
+      "formattedTime": "00:22:772",
+      "displayLabel": "+1.434s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1"
+    },
+    {
+      "rank": 5,
+      "playerId": "jd738cj02m9fb42z1msxhvnyp17zajnq",
+      "playerName": "Andreas Guldborg",
+      "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
+      "teamName": "CampusCup Board",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1",
+      "heatNumber": 9,
+      "heatId": "j977pkgv8a53sy1qb1whwbnzv97zbxfs",
+      "duration": 23666,
+      "formattedTime": "00:23:666",
+      "displayLabel": "+2.327s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1"
+    },
+    {
+      "rank": 6,
+      "playerId": "jd74smwzynz2sbxb7hw2e9n6ps7zaec6",
+      "playerName": "Natalie Petersen",
+      "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
+      "teamName": "CampusCup Board",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1",
+      "heatNumber": 9,
+      "heatId": "j977pkgv8a53sy1qb1whwbnzv97zbxfs",
+      "duration": 24655,
+      "formattedTime": "00:24:655",
+      "displayLabel": "+3.316s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1"
+    }
+  ]
+}

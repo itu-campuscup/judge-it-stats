@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7facbk135wrew45fb7srcyrx7zbqvy",
+  "playerName": "Mads-Christian",
+  "teamId": "jh7eg46czc17ps6n1wq2wffbd57zb5sc",
+  "teamName": "Smølferne",
+  "personalBests": {
+    "Sail": {
+      "duration": 30956,
+      "heat": 2,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 10965,
+      "heat": 2,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 8804,
+      "heat": 2,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

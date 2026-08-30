@@ -1,0 +1,30 @@
+{
+  "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
+  "playerName": "Lukas Pedersen",
+  "teamId": "jh75jn68ddndmbdbb1e9fesewd7zaefn",
+  "teamName": "Mændfrøskorpset",
+  "personalBests": {
+    "Sail": {
+      "duration": 17597,
+      "heat": 15,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 7621,
+      "heat": 15,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 7579,
+      "heat": 15,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 4,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

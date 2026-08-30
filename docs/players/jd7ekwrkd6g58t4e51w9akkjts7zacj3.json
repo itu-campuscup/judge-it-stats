@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7ekwrkd6g58t4e51w9akkjts7zacj3",
+  "playerName": "Hugo Hoydal",
+  "teamId": "jh7c5k3ttvx641fcqeashgq2s57zb9jv",
+  "teamName": "Tequila Tides",
+  "personalBests": {
+    "Sail": {
+      "duration": 21710,
+      "heat": 11,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 8576,
+      "heat": 11,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 12302,
+      "heat": 11,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 2,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7cbfsdhvskx6kd3waqexz5r17zarx7",
+  "playerName": "Niels Laier",
+  "teamId": "jh75jn68ddndmbdbb1e9fesewd7zaefn",
+  "teamName": "Mændfrøskorpset",
+  "personalBests": {
+    "Sail": {
+      "duration": 27718,
+      "heat": 16,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 8823,
+      "heat": 7,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 7463,
+      "heat": 7,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 4,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

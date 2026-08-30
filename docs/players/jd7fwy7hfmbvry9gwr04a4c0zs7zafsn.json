@@ -1,0 +1,25 @@
+{
+  "playerId": "jd7fwy7hfmbvry9gwr04a4c0zs7zafsn",
+  "playerName": "Nicklas Stefansen",
+  "teamId": "jh7ebsayaent4agr8a1phrnvq57zbctb",
+  "teamName": "Saftens bondegård",
+  "personalBests": {
+    "Sail": {
+      "duration": 23266,
+      "heat": 12,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 16629,
+      "heat": 12,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

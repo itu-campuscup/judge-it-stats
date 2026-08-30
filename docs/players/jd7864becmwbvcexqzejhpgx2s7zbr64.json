@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+  "playerName": "Balder Møller",
+  "teamId": "jh75jn68ddndmbdbb1e9fesewd7zaefn",
+  "teamName": "Mændfrøskorpset",
+  "personalBests": {
+    "Sail": {
+      "duration": 23352,
+      "heat": 15,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 10228,
+      "heat": 7,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 10428,
+      "heat": 12,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 4,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

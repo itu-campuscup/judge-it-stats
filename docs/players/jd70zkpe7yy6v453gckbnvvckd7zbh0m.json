@@ -1,0 +1,30 @@
+{
+  "playerId": "jd70zkpe7yy6v453gckbnvvckd7zbh0m",
+  "playerName": "Noah Wagenen",
+  "teamId": "jh75jn68ddndmbdbb1e9fesewd7zaefn",
+  "teamName": "Mændfrøskorpset",
+  "personalBests": {
+    "Sail": {
+      "duration": 12915,
+      "heat": 7,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 6492,
+      "heat": 12,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 5906,
+      "heat": 7,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 6,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

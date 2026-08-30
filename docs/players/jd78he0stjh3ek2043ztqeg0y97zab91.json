@@ -1,0 +1,30 @@
+{
+  "playerId": "jd78he0stjh3ek2043ztqeg0y97zab91",
+  "playerName": "Viktor Andersen",
+  "teamId": "jh7e0fnk9kswcdme5ezvx21fpx7zbnqz",
+  "teamName": "(SWU) Sex With Urmama",
+  "personalBests": {
+    "Sail": {
+      "duration": 18585,
+      "heat": 4,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 13586,
+      "heat": 4,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 10320,
+      "heat": 4,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 3,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

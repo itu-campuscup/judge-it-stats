@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7fn9b8hwhxa0r1qr3p1mrh2n7zbnaa",
+  "playerName": "Carmen Nielsen",
+  "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
+  "teamName": "CampusCup Board",
+  "personalBests": {
+    "Sail": {
+      "duration": 22214,
+      "heat": 9,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 15167,
+      "heat": 9,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 9637,
+      "heat": 9,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

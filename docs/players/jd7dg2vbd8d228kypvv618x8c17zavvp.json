@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7dg2vbd8d228kypvv618x8c17zavvp",
+  "playerName": "August Thomsen",
+  "teamId": "jh7c86cxt8e68pzb37cyg6x4y97zbgx1",
+  "teamName": "Team Slipsedrengene",
+  "personalBests": {
+    "Sail": {
+      "duration": 10381,
+      "heat": 2,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 7083,
+      "heat": 2,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 10081,
+      "heat": 2,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 2,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,30 @@
+{
+  "playerId": "jd70jbwx9w1c0vzqcc7vf9b73d7zbgaf",
+  "playerName": "Magnus Green",
+  "teamId": "jh72xzt8qa9n1kycrh8s0j55397zazzk",
+  "teamName": "Alkohooligans",
+  "personalBests": {
+    "Sail": {
+      "duration": 21339,
+      "heat": 9,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 8996,
+      "heat": 13,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 7380,
+      "heat": 13,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 2,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,30 @@
+{
+  "playerId": "jd78hxsg64fwm0dkksgzh5859h7zazzc",
+  "playerName": "Lucas Høgh-Larsen",
+  "teamId": "jh7eesykxkx6d1qk2p837bh3rh7zay8h",
+  "teamName": "The Wet Warriors of DRby River",
+  "personalBests": {
+    "Sail": {
+      "duration": 67063,
+      "heat": 7,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 9742,
+      "heat": 7,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 14003,
+      "heat": 7,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

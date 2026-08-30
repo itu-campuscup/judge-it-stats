@@ -1,0 +1,30 @@
+{
+  "playerId": "jd76zf8dc75evzqsqhjjy7374s7zask8",
+  "playerName": "Adam Livoni",
+  "teamId": "jh7fpya78hw0rsjr004skm2fe17zb67f",
+  "teamName": "Hellige Firenighed",
+  "personalBests": {
+    "Sail": {
+      "duration": 22888,
+      "heat": 1,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 32861,
+      "heat": 1,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 11144,
+      "heat": 1,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

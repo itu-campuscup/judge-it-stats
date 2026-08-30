@@ -1,0 +1,30 @@
+{
+  "playerId": "jd775z0hdkyv8jaa1aj7fwg1e17zbq0n",
+  "playerName": "Vitus Mega-Hulk",
+  "teamId": "jh7c86cxt8e68pzb37cyg6x4y97zbgx1",
+  "teamName": "Team Slipsedrengene",
+  "personalBests": {
+    "Sail": {
+      "duration": 25097,
+      "heat": 2,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 9281,
+      "heat": 10,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 6872,
+      "heat": 10,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 2,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

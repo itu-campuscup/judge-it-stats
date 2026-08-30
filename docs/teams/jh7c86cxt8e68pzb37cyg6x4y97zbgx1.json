@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7c86cxt8e68pzb37cyg6x4y97zbgx1",
+  "teamName": "Team Slipsedrengene",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPwVKakAMxz5eyvR4e0m0yDz6-c3llqjK7N0yul0qXheNhkLhiMlYDbhWJMmPoUR3JeQqFLCMBJO8VwsaLfRLsZwLsZq2s3BfmmrBQoLrb7nZCjGwRHUOrFF4TEbF3x6HGVUB150vkSi7ZrJgGC0_dW=w1080-h1080-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd7dg2vbd8d228kypvv618x8c17zavvp",
+      "playerName": "August Thomsen"
+    },
+    {
+      "playerId": "jd775z0hdkyv8jaa1aj7fwg1e17zbq0n",
+      "playerName": "Vitus Mega-Hulk"
+    },
+    {
+      "playerId": "jd75f7yz4ghb86szgb60d6s0817zb7c6",
+      "playerName": "Bertram Jensen"
+    },
+    {
+      "playerId": "jd75tazywjc37gcvebb9gz73ks7zb4zy",
+      "playerName": "Thor Davis"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 18493.5,
+    "Beer": 6758.333333333333,
+    "Spin": 7984.75
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 78,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 52,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 80,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

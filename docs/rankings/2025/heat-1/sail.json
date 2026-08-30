@@ -1,0 +1,92 @@
+{
+  "timeType": "Sail",
+  "year": 2025,
+  "heat": 1,
+  "generatedAt": "2026-08-30T07:55:49.732Z",
+  "rankings": [
+    {
+      "rank": 1,
+      "playerId": "jd7dv1egepc1a2prtn26ttx7yh7zbsx7",
+      "playerName": "Matteo Guglielmi",
+      "teamId": "jh7fpya78hw0rsjr004skm2fe17zb67f",
+      "teamName": "Hellige Firenighed",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM3hRQzAqUajmmcrcM9wKhYU9XIdU395IOxMyQmbcM3EqDbwnj7juNU8tGeTeReMz2N5UCy7-EGD3Du11Je6600gdWvXZ1cqCml-17-3hnt74jjSqy19ePzz9W123iNpO6kDqpkW-SX9hT85-NiN6ma=w1536-h1024-s-no?authuser=1",
+      "heatNumber": 1,
+      "heatId": "j97f955b7x76s1zky5bpbs9b617zbdwq",
+      "duration": 10334,
+      "formattedTime": "00:10:333",
+      "displayLabel": "00:10:333",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM3hRQzAqUajmmcrcM9wKhYU9XIdU395IOxMyQmbcM3EqDbwnj7juNU8tGeTeReMz2N5UCy7-EGD3Du11Je6600gdWvXZ1cqCml-17-3hnt74jjSqy19ePzz9W123iNpO6kDqpkW-SX9hT85-NiN6ma=w1536-h1024-s-no?authuser=1"
+    },
+    {
+      "rank": 2,
+      "playerId": "jd7d9wqvtwwdbp1nkbhywfdb397zah02",
+      "playerName": "Philip Quorning",
+      "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
+      "teamName": "Master Baiters",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1",
+      "heatNumber": 1,
+      "heatId": "j97f955b7x76s1zky5bpbs9b617zbdwq",
+      "duration": 13941,
+      "formattedTime": "00:13:941",
+      "displayLabel": "+3.607s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+    },
+    {
+      "rank": 3,
+      "playerId": "jd7fnj4cn5zsem7abkb69x2bx97zaasq",
+      "playerName": "Magnus Vestergaard",
+      "teamId": "jh7fpya78hw0rsjr004skm2fe17zb67f",
+      "teamName": "Hellige Firenighed",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM3hRQzAqUajmmcrcM9wKhYU9XIdU395IOxMyQmbcM3EqDbwnj7juNU8tGeTeReMz2N5UCy7-EGD3Du11Je6600gdWvXZ1cqCml-17-3hnt74jjSqy19ePzz9W123iNpO6kDqpkW-SX9hT85-NiN6ma=w1536-h1024-s-no?authuser=1",
+      "heatNumber": 1,
+      "heatId": "j97f955b7x76s1zky5bpbs9b617zbdwq",
+      "duration": 22883,
+      "formattedTime": "00:22:882",
+      "displayLabel": "+12.549s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM3hRQzAqUajmmcrcM9wKhYU9XIdU395IOxMyQmbcM3EqDbwnj7juNU8tGeTeReMz2N5UCy7-EGD3Du11Je6600gdWvXZ1cqCml-17-3hnt74jjSqy19ePzz9W123iNpO6kDqpkW-SX9hT85-NiN6ma=w1536-h1024-s-no?authuser=1"
+    },
+    {
+      "rank": 4,
+      "playerId": "jd76zf8dc75evzqsqhjjy7374s7zask8",
+      "playerName": "Adam Livoni",
+      "teamId": "jh7fpya78hw0rsjr004skm2fe17zb67f",
+      "teamName": "Hellige Firenighed",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM3hRQzAqUajmmcrcM9wKhYU9XIdU395IOxMyQmbcM3EqDbwnj7juNU8tGeTeReMz2N5UCy7-EGD3Du11Je6600gdWvXZ1cqCml-17-3hnt74jjSqy19ePzz9W123iNpO6kDqpkW-SX9hT85-NiN6ma=w1536-h1024-s-no?authuser=1",
+      "heatNumber": 1,
+      "heatId": "j97f955b7x76s1zky5bpbs9b617zbdwq",
+      "duration": 22888,
+      "formattedTime": "00:22:888",
+      "displayLabel": "+12.554s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM3hRQzAqUajmmcrcM9wKhYU9XIdU395IOxMyQmbcM3EqDbwnj7juNU8tGeTeReMz2N5UCy7-EGD3Du11Je6600gdWvXZ1cqCml-17-3hnt74jjSqy19ePzz9W123iNpO6kDqpkW-SX9hT85-NiN6ma=w1536-h1024-s-no?authuser=1"
+    },
+    {
+      "rank": 5,
+      "playerId": "jd74e6wenyg1zwxk3t5jrhp9ex7zb10d",
+      "playerName": "Andreas Dunk",
+      "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
+      "teamName": "Master Baiters",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1",
+      "heatNumber": 1,
+      "heatId": "j97f955b7x76s1zky5bpbs9b617zbdwq",
+      "duration": 23684,
+      "formattedTime": "00:23:684",
+      "displayLabel": "+13.350s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+    },
+    {
+      "rank": 6,
+      "playerId": "jd75z67brvqkg64gt682eaepax7zayqz",
+      "playerName": "Alfred Damgaard",
+      "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
+      "teamName": "Master Baiters",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1",
+      "heatNumber": 1,
+      "heatId": "j97f955b7x76s1zky5bpbs9b617zbdwq",
+      "duration": 74062,
+      "formattedTime": "01:14:061",
+      "displayLabel": "+63.728s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+    }
+  ]
+}

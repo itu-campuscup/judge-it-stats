@@ -1,0 +1,30 @@
+{
+  "playerId": "jd74e6wenyg1zwxk3t5jrhp9ex7zb10d",
+  "playerName": "Andreas Dunk",
+  "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
+  "teamName": "Master Baiters",
+  "personalBests": {
+    "Sail": {
+      "duration": 20729,
+      "heat": 14,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 16700,
+      "heat": 14,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 9005,
+      "heat": 10,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 4,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

@@ -1,0 +1,30 @@
+{
+  "playerId": "jd75z67brvqkg64gt682eaepax7zayqz",
+  "playerName": "Alfred Damgaard",
+  "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
+  "teamName": "Master Baiters",
+  "personalBests": {
+    "Sail": {
+      "duration": 12596,
+      "heat": 10,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 4230,
+      "heat": 16,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 8946,
+      "heat": 10,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 4,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}

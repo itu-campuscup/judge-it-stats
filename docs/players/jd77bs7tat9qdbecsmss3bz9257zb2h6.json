@@ -1,0 +1,30 @@
+{
+  "playerId": "jd77bs7tat9qdbecsmss3bz9257zb2h6",
+  "playerName": "Line Nissen",
+  "teamId": "jh7ebsayaent4agr8a1phrnvq57zbctb",
+  "teamName": "Saftens bondegård",
+  "personalBests": {
+    "Sail": {
+      "duration": 26825,
+      "heat": 12,
+      "year": 2025
+    },
+    "Beer": {
+      "duration": 33485,
+      "heat": 12,
+      "year": 2025
+    },
+    "Spin": {
+      "duration": 10434,
+      "heat": 12,
+      "year": 2025
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2025
+    ]
+  },
+  "generatedAt": "2026-08-30T07:55:49.732Z"
+}
