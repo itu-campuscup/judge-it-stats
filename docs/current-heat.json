@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T08:54:21.441Z",
-  "sourceFetchedAt": "2026-08-31T08:54:21.441Z",
+  "generatedAt": "2026-08-31T15:32:36.619Z",
+  "sourceFetchedAt": "2026-08-31T15:32:36.619Z",
   "currentHeat": {
     "id": "j975a518awpzrj24wnm65mx8n97zb5a9",
     "number": 16,
@@ -12,19 +12,231 @@
   },
   "activities": {
     "beer": {
-      "completed": [],
-      "active": [],
-      "attemptsStarted": 0,
-      "attemptsCompleted": 0
+      "completed": [
+        {
+          "id": "jn7bs2rcj8hshjrppp11gm0ans7zbzwt",
+          "rank": 1,
+          "playerName": "Alfred Damgaard",
+          "teamName": "Master Baiters",
+          "durationMs": 4230,
+          "formattedTime": "00:04:230",
+          "displayLabel": "00:04:230",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn71ny36hs3w6y4gth64zzgdj17zaj8a",
+          "rank": 2,
+          "playerName": "Andreas Schiøtt",
+          "teamName": "Master Baiters",
+          "durationMs": 4736,
+          "formattedTime": "00:04:735",
+          "displayLabel": "+0.506s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn7d9ddf8nht9nwn543y1vznzs7za2de",
+          "rank": 3,
+          "playerName": "Philip Quorning",
+          "teamName": "Master Baiters",
+          "durationMs": 6377,
+          "formattedTime": "00:06:376",
+          "displayLabel": "+2.147s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn7c4whc1fpdt6zspgf7nxk14d7zadb7",
+          "rank": 4,
+          "playerName": "Lukas Pedersen",
+          "teamName": "Mændfrøskorpset",
+          "durationMs": 8026,
+          "formattedTime": "00:08:025",
+          "displayLabel": "+3.796s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn778p2vc8f1fsxdd24qsss8gd7zay5a",
+          "rank": 5,
+          "playerName": "Niels Laier",
+          "teamName": "Mændfrøskorpset",
+          "durationMs": 9073,
+          "formattedTime": "00:09:073",
+          "displayLabel": "+4.843s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn71my8hze75r29fy4aaa9qp917zbxmw",
+          "rank": 6,
+          "playerName": "Andreas Dunk",
+          "teamName": "Master Baiters",
+          "durationMs": 24440,
+          "formattedTime": "00:24:440",
+          "displayLabel": "+20.210s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn7fsdwhh7hzbxvgzxsh4e27297zaj2b",
+          "rank": 7,
+          "playerName": "Balder Møller",
+          "teamName": "Mændfrøskorpset",
+          "durationMs": 251067,
+          "formattedTime": "04:11:067",
+          "displayLabel": "+246.837s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1"
+        }
+      ],
+      "active": [
+        {
+          "playerId": "jd70zkpe7yy6v453gckbnvvckd7zbh0m",
+          "playerName": "Noah Wagenen",
+          "teamName": "Mændfrøskorpset",
+          "startedAt": "2025-09-12T15:44:16.492Z",
+          "elapsedMsAtSnapshot": 30498500127
+        },
+        {
+          "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+          "playerName": "Balder Møller",
+          "teamName": "Mændfrøskorpset",
+          "startedAt": "2025-09-12T15:48:43.511Z",
+          "elapsedMsAtSnapshot": 30498233108
+        }
+      ],
+      "attemptsStarted": 9,
+      "attemptsCompleted": 7
     },
     "spin": {
-      "completed": [],
-      "active": [],
-      "attemptsStarted": 0,
-      "attemptsCompleted": 0
+      "completed": [
+        {
+          "id": "jn7c5y0rxm4azed5e5bx6dp6057zb4sc",
+          "rank": 1,
+          "playerName": "Andreas Schiøtt",
+          "teamName": "Master Baiters",
+          "durationMs": 9093,
+          "formattedTime": "00:09:092",
+          "displayLabel": "66 RPM",
+          "rpm": 65.98482349059717,
+          "displayRpmLabel": "66 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn71kdzfb7v3wvjs4dher1bpvs7za14k",
+          "rank": 2,
+          "playerName": "Alfred Damgaard",
+          "teamName": "Master Baiters",
+          "durationMs": 9413,
+          "formattedTime": "00:09:413",
+          "displayLabel": "-2 RPM",
+          "rpm": 63.74163391054923,
+          "displayRpmLabel": "64 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn75qvrehytjgqcezkgca0hnjn7zagr2",
+          "rank": 3,
+          "playerName": "Philip Quorning",
+          "teamName": "Master Baiters",
+          "durationMs": 9817,
+          "formattedTime": "00:09:817",
+          "displayLabel": "-5 RPM",
+          "rpm": 61.11846796373637,
+          "displayRpmLabel": "61 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn74c1htsyhw94gwx1becw7h517zafpe",
+          "rank": 4,
+          "playerName": "Lukas Pedersen",
+          "teamName": "Mændfrøskorpset",
+          "durationMs": 9897,
+          "formattedTime": "00:09:897",
+          "displayLabel": "-5 RPM",
+          "rpm": 60.62443164595331,
+          "displayRpmLabel": "61 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn70a4jkrvrprqecmz31vrpbkd7zbbx6",
+          "rank": 5,
+          "playerName": "Niels Laier",
+          "teamName": "Mændfrøskorpset",
+          "durationMs": 10354,
+          "formattedTime": "00:10:353",
+          "displayLabel": "-8 RPM",
+          "rpm": 57.94861889124976,
+          "displayRpmLabel": "58 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn764nqj7nvcfw0v5f4smgs6ts7za8zy",
+          "rank": 6,
+          "playerName": "Andreas Dunk",
+          "teamName": "Master Baiters",
+          "durationMs": 10832,
+          "formattedTime": "00:10:832",
+          "displayLabel": "-11 RPM",
+          "rpm": 55.39143279172821,
+          "displayRpmLabel": "55 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+        },
+        {
+          "id": "jn70ebr6m3797srgbpm02z8fgh7zaw9e",
+          "rank": 7,
+          "playerName": "Balder Møller",
+          "teamName": "Mændfrøskorpset",
+          "durationMs": 254783,
+          "formattedTime": "04:14:782",
+          "displayLabel": "-64 RPM",
+          "rpm": 2.3549451886507344,
+          "displayRpmLabel": "2 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1"
+        }
+      ],
+      "active": [
+        {
+          "playerId": "jd70zkpe7yy6v453gckbnvvckd7zbh0m",
+          "playerName": "Noah Wagenen",
+          "teamName": "Mændfrøskorpset",
+          "startedAt": "2025-09-12T15:44:25.499Z",
+          "elapsedMsAtSnapshot": 30498491120
+        },
+        {
+          "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+          "playerName": "Balder Møller",
+          "teamName": "Mændfrøskorpset",
+          "startedAt": "2025-09-12T15:48:53.293Z",
+          "elapsedMsAtSnapshot": 30498223326
+        }
+      ],
+      "attemptsStarted": 9,
+      "attemptsCompleted": 7
     },
     "sail": {
-      "teams": []
+      "teams": [
+        {
+          "teamId": "jh75jn68ddndmbdbb1e9fesewd7zaefn",
+          "teamName": "Mændfrøskorpset",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1",
+          "sailLogCount": 13,
+          "handoffCount": 6,
+          "completedLegCount": 6,
+          "status": "racing",
+          "currentPlayerName": "Balder Møller",
+          "startedAt": "2025-09-12T15:43:52.124Z",
+          "elapsedMsAtSnapshot": 30498524495
+        },
+        {
+          "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
+          "teamName": "Master Baiters",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1",
+          "sailLogCount": 17,
+          "handoffCount": 8,
+          "completedLegCount": 8,
+          "status": "finished",
+          "currentPlayerName": "Philip Quorning",
+          "startedAt": "2025-09-12T15:43:52.124Z",
+          "elapsedMsAtSnapshot": 30498524495,
+          "finishedAt": "2025-09-12T15:49:17.249Z"
+        }
+      ]
     }
   }
 }
