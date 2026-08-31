@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T15:32:36.619Z",
-  "sourceFetchedAt": "2026-08-31T15:32:36.619Z",
+  "generatedAt": "2026-08-31T15:53:35.647Z",
+  "sourceFetchedAt": "2026-08-31T15:53:35.647Z",
   "currentHeat": {
     "id": "j975a518awpzrj24wnm65mx8n97zb5a9",
     "number": 16,
@@ -90,14 +90,14 @@
           "playerName": "Noah Wagenen",
           "teamName": "Mændfrøskorpset",
           "startedAt": "2025-09-12T15:44:16.492Z",
-          "elapsedMsAtSnapshot": 30498500127
+          "elapsedMsAtSnapshot": 30499759155
         },
         {
           "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
           "playerName": "Balder Møller",
           "teamName": "Mændfrøskorpset",
           "startedAt": "2025-09-12T15:48:43.511Z",
-          "elapsedMsAtSnapshot": 30498233108
+          "elapsedMsAtSnapshot": 30499492136
         }
       ],
       "attemptsStarted": 9,
@@ -196,14 +196,14 @@
           "playerName": "Noah Wagenen",
           "teamName": "Mændfrøskorpset",
           "startedAt": "2025-09-12T15:44:25.499Z",
-          "elapsedMsAtSnapshot": 30498491120
+          "elapsedMsAtSnapshot": 30499750148
         },
         {
           "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
           "playerName": "Balder Møller",
           "teamName": "Mændfrøskorpset",
           "startedAt": "2025-09-12T15:48:53.293Z",
-          "elapsedMsAtSnapshot": 30498223326
+          "elapsedMsAtSnapshot": 30499482354
         }
       ],
       "attemptsStarted": 9,
@@ -221,7 +221,7 @@
           "status": "racing",
           "currentPlayerName": "Balder Møller",
           "startedAt": "2025-09-12T15:43:52.124Z",
-          "elapsedMsAtSnapshot": 30498524495
+          "elapsedMsAtSnapshot": 30499783523
         },
         {
           "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
@@ -233,7 +233,7 @@
           "status": "finished",
           "currentPlayerName": "Philip Quorning",
           "startedAt": "2025-09-12T15:43:52.124Z",
-          "elapsedMsAtSnapshot": 30498524495,
+          "elapsedMsAtSnapshot": 30499783523,
           "finishedAt": "2025-09-12T15:49:17.249Z"
         }
       ]
