@@ -216,7 +216,7 @@ function writeOverallRankings(
   });
 }
 
-function writeTeamProfiles(docsDir: string, data: StatsData, generatedAt: string): void {
+export function writeTeamProfiles(docsDir: string, data: StatsData, generatedAt: string): void {
   const profiles = generateTeamProfiles(data);
   const teamsDir = join(docsDir, "teams");
 
@@ -226,6 +226,12 @@ function writeTeamProfiles(docsDir: string, data: StatsData, generatedAt: string
       generatedAt,
     });
   }
+
+  writeJson(join(teamsDir, "index.json"), {
+    schemaVersion: 1,
+    generatedAt,
+    teams: profiles,
+  });
 }
 
 function writePlayerProfiles(docsDir: string, data: StatsData, generatedAt: string): void {

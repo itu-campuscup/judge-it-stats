@@ -16,7 +16,7 @@ Prior years are cached locally — only the current year and any uncached years 
 
 ```
 docs/
-  current-heat.json                ← public current-heat projection (schema version 1)
+  current-heat.json              ← public current-heat projection (schema version 1)
   index.json                     ← manifest: last updated, years, current heat
   rankings/
     overall.json                 ← all-time top 5 per type
@@ -30,8 +30,10 @@ docs/
         sail.json
         spin.json
         summary.json
-  teams/{teamId}.json           ← team radar data & best times
-  players/{playerId}.json       ← player personal bests & participation
+  teams/
+    index.json                   ← discoverable team comparison profiles
+    {teamId}.json                ← individual team radar data & best times
+  players/{playerId}.json        ← player personal bests & participation
 ```
 
 ## Setup
@@ -112,6 +114,7 @@ https://<org>.github.io/judge-it-stats/rankings/{year}/{type}.json
 Example:
 - All-time beer rankings: `/rankings/overall.json`
 - 2026 beer rankings: `/rankings/2026/beer.json`
+- Team comparison index: `/teams/index.json`
 - Team profile: `/teams/{teamId}.json`
 - Current heat projection: `/current-heat.json`
 
