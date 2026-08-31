@@ -44,7 +44,7 @@ function parseTimestamp(value: unknown, date?: string): ParsedTimestamp | null {
   if (!nonEmptyString(value)) return null;
   const source = value.trim();
   let milliseconds: number;
-  const timeOnly = /^(\d{2}):(\d{2}):(\d{2})(?:\.(\d{1,3}))?$/.exec(source);
+  const timeOnly = /^(\d{2}):(\d{2}):(\d{2})(?:\.(\d+))?$/.exec(source);
   if (timeOnly && date) {
     const dateOnly = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date.slice(0, 10));
     if (!dateOnly) return null;
@@ -54,7 +54,7 @@ function parseTimestamp(value: unknown, date?: string): ParsedTimestamp | null {
     const hours = Number(timeOnly[1]);
     const minutes = Number(timeOnly[2]);
     const seconds = Number(timeOnly[3]);
-    const millis = Number((timeOnly[4] || "").padEnd(3, "0"));
+    const millis = Number((timeOnly[4] || "").slice(0, 3).padEnd(3, "0"));
     if (hours > 23 || minutes > 59 || seconds > 59) return null;
     milliseconds = Date.UTC(year, month - 1, day, hours, minutes, seconds, millis);
     const calendar = new Date(milliseconds);
