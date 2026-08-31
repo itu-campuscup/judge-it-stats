@@ -254,16 +254,27 @@ export function generateTeamRadarData(
 
 export function generateTeamProfiles(
   data: { players: Player[]; teams: Team[]; heats: Heat[]; timeTypes: TimeType[]; timeLogs: TimeLog[] },
+  year: number,
 ): TeamProfile[] {
   const { players, teams, heats, timeTypes, timeLogs } = data;
+  const yearHeats = heats.filter((heat) => new Date(heat.date).getFullYear() === year);
+  const yearHeatIds = new Set(yearHeats.map((heat) => heat._id));
+  const yearTimeLogs = timeLogs.filter((log) => yearHeatIds.has(log.heat_id));
+  const participatingTeamIds = new Set(
+    yearTimeLogs
+      .map((log) => log.team_id)
+      .filter((teamId): teamId is string => Boolean(teamId)),
+  );
+  const yearTeams = teams.filter((team) => participatingTeamIds.has(team._id));
 
-  return teams.map((team) => {
+  return yearTeams.map((team) => {
     const teamPlayerIds = [
-      team.player_1_id,
-      team.player_2_id,
-      team.player_3_id,
-      team.player_4_id,
-    ].filter((id): id is string => Boolean(id));
+      ...new Set(
+        yearTimeLogs
+          .filter((log) => log.team_id === team._id)
+          .map((log) => log.player_id),
+      ),
+    ];
 
     const teamPlayers = teamPlayerIds.map((pId) => {
       const p = players.find((pl) => pl._id === pId);
@@ -279,10 +290,13 @@ export function generateTeamProfiles(
     for (const timeType of timeTypes) {
       const playerDurations: number[] = [];
       for (const pId of teamPlayerIds) {
-        const playerLogs = timeLogs.filter(
-          (tl) => tl.player_id === pId && tl.time_type_id === timeType._id,
+        const playerLogs = yearTimeLogs.filter(
+          (tl) =>
+            tl.team_id === team._id &&
+            tl.player_id === pId &&
+            tl.time_type_id === timeType._id,
         );
-        const best = getBestIntraHeatTime(playerLogs, heats);
+        const best = getBestIntraHeatTime(playerLogs, yearHeats);
         if (best?.duration) {
           playerDurations.push(best.duration);
         }
