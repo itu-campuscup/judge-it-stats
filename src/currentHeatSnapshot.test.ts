@@ -107,6 +107,20 @@ describe("createCurrentHeatSnapshot", () => {
     expect(snapshot.activities.spin.completed[0].rpm).toBeGreaterThan(snapshot.activities.spin.completed[1].rpm!);
     expect(snapshot.activities.spin.completed[0].displayRpmLabel).toBe("600 RPM");
   });
+  test("projects Convex timestamps with microsecond fractions", () => {
+    const snapshot = createCurrentHeatSnapshot(data([
+      log("microsecond-start", "tt-beer", "p-ada", "11:00:00.000001", "team-a"),
+      log("microsecond-stop", "tt-beer", "p-ada", "11:00:04.250999", "team-a"),
+    ]), generatedAt);
+
+    expect(snapshot.activities.beer).toMatchObject({
+      attemptsStarted: 1,
+      attemptsCompleted: 1,
+      completed: [expect.objectContaining({ id: "microsecond-stop", durationMs: 4250 })],
+    });
+  });
+
+
 
   test("keeps an unmatched valid start active and drops malformed timing", () => {
     const logs = [
