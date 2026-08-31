@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
+  "teamName": "Master Baiters",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd75z67brvqkg64gt682eaepax7zayqz",
+      "playerName": "Alfred Damgaard"
+    },
+    {
+      "playerId": "jd74e6wenyg1zwxk3t5jrhp9ex7zb10d",
+      "playerName": "Andreas Dunk"
+    },
+    {
+      "playerId": "jd7d9wqvtwwdbp1nkbhywfdb397zah02",
+      "playerName": "Philip Quorning"
+    },
+    {
+      "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
+      "playerName": "Andreas Schiøtt"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 17930,
+    "Beer": 7634,
+    "Spin": 8376.5
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 73,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 55,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 77,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}

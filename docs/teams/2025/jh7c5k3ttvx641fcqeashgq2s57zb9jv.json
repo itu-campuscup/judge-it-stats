@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7c5k3ttvx641fcqeashgq2s57zb9jv",
+  "teamName": "Tequila Tides",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOV1GAitykYbo4lRj4aJKcUGgILmE0tP92tb3953535M35DaeNMnI_xSebhZQ1po8DzEzgcTIQYxO0v1dxE4viM9ySzxwgVcayZ58aQ9aiWww_jVn4k4488qqN3HYagjkjzRhlfopiq1Tqw8-IiKuXa=w1652-h790-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd7ekwrkd6g58t4e51w9akkjts7zacj3",
+      "playerName": "Hugo Hoydal"
+    },
+    {
+      "playerId": "jd79krw2k4h0q0wjh2pqvgfr297zayza",
+      "playerName": "Sebastian Wærling"
+    },
+    {
+      "playerId": "jd7cwk494erb08xnf119qwk6vh7zbb2h",
+      "playerName": "Christian Fleischer"
+    },
+    {
+      "playerId": "jd78aj4yjvjgmsedbvg64epd297za00t",
+      "playerName": "Sander Thilo"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 25998,
+    "Beer": 15557.5,
+    "Spin": 11886.75
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 26,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 18,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 54,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}

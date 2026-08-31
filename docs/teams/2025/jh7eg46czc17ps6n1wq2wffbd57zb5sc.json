@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7eg46czc17ps6n1wq2wffbd57zb5sc",
+  "teamName": "Smølferne",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOIuqNpELtkOZ8wr1pTHGHFlLKtJlh77Mi1EVYYulmd_iP8BZGJnCna-uJWuEyv2T3F4CDoxq5qIB4FbgID8wmUm7fxIrk1loT6wq9hHYzPtgM1TMdacmHpuJxLej42CeQNiRqGyONSnzFa9XnFcwPn=w970-h1292-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd72pn8k4brqadca74m6gpkhen7za27t",
+      "playerName": "Morten Erlandsen"
+    },
+    {
+      "playerId": "jd7facbk135wrew45fb7srcyrx7zbqvy",
+      "playerName": "Mads-Christian"
+    },
+    {
+      "playerId": "jd77hyfw9t6whcs35s45hcpc5h7zb0zz",
+      "playerName": "Andreas John-Holaus"
+    },
+    {
+      "playerId": "jd75m01s4wh9gfj1w70fv16rx17zbym7",
+      "playerName": "Rasmus Nordquist"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 26732.75,
+    "Beer": 22540.25,
+    "Spin": 10857.75
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 15,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 61,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}

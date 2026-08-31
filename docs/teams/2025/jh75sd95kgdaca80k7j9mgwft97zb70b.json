@@ -1,0 +1,47 @@
+{
+  "teamId": "jh75sd95kgdaca80k7j9mgwft97zb70b",
+  "teamName": "EM&MS",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMcLYNGCU-xy4dv7OUSJNGpeibFM7wrbqfzZ7K8DLTi6ajoYTMjkEUU-fakNMILNHoPz7_kYw4OjdtAJ1wxSSH0YJi5sHMp8Xc7Qi5V7cx5fk9dXXTX3j18BBy9fOWxCJNPFpOdQ5ffF5F2mL8Hf5yn=w1722-h1292-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd78ehpfh3q19dypdkf8jn2ckd7zbspr",
+      "playerName": "Stine Helena"
+    },
+    {
+      "playerId": "jd7epyv6ppqq36fp1402nr487n7zabfb",
+      "playerName": "Mathias Larsen"
+    },
+    {
+      "playerId": "jd79c0qta4a26vg70mxepf8k6n7zarxp",
+      "playerName": "Emma Krause-Kjær"
+    },
+    {
+      "playerId": "jd727hqnf8m077ah4zf3x85a9x7zawq8",
+      "playerName": "Marcus Løfberg"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 29238,
+    "Beer": 21994.25,
+    "Spin": 13402.75
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 3,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 44,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}

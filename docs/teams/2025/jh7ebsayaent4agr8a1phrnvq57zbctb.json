@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7ebsayaent4agr8a1phrnvq57zbctb",
+  "teamName": "Saftens bondegård",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOdl_wMUuXik6gjQqFNX28sbyQhxq0ctRUbjmJAjOKimsKe7jIcifdJrSIen3ptbJNrwqPBkdBq78UNtYOYj8NvUyVf_xnHERj_d5sOlPOfgzb3YHH6NhfIyB3k4CNxfLVxMqeizdXFTVRT-0T2qV7e=w1080-h1350-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd77bs7tat9qdbecsmss3bz9257zb2h6",
+      "playerName": "Line Nissen"
+    },
+    {
+      "playerId": "jd7b07sy008yhxr6wsrfe19dk17zafwb",
+      "playerName": "Kirstine Elvira"
+    },
+    {
+      "playerId": "jd70dqr11b264cee8q31xcpty97zbrd4",
+      "playerName": "Frederik Groth Termansen"
+    },
+    {
+      "playerId": "jd7fwy7hfmbvry9gwr04a4c0zs7zafsn",
+      "playerName": "Nicklas Stefansen"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 24198,
+    "Beer": 25188.75,
+    "Spin": 10411.666666666666
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 26,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 64,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}

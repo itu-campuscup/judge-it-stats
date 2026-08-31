@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7d2e9x6bm8dhavaztdxh62357zbxdp",
+  "teamName": "Avengers from Temu",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPkMRjBsGj2q9pfvkMwdM022UBVbDf6wC1EGImEAbydmgFnrreQOzAYzAKJj0F9DtUON9zhHTdoUymX-Dko9BTebZxpQr80JQiBWmwSBn2XtdCn5bh5G8CoAis5CmSpD3do49JF0w7GDpz0OVme3Jge=w1219-h1219-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
+      "playerName": "Sebastian Howard"
+    },
+    {
+      "playerId": "jd7cjf029714tsbmb971554nk17zbp67",
+      "playerName": "Thias Kochen"
+    },
+    {
+      "playerId": "jd72s43akgvfxfv0xwgtzhrdbh7zaafb",
+      "playerName": "Anne Jørgensen"
+    },
+    {
+      "playerId": "jd79cfz18h3t3renva2mqag86h7zakdk",
+      "playerName": "Oline Krebs"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 30286,
+    "Beer": 21631.75,
+    "Spin": 10825.333333333334
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 61,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}

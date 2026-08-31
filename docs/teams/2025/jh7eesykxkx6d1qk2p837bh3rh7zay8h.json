@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7eesykxkx6d1qk2p837bh3rh7zay8h",
+  "teamName": "The Wet Warriors of DRby River",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMfNkS4iHUZQL3Ww8m7fEDQ5pdMbnpYv3W9TbOMfrewCSTq8Xb5NrnltWHiPVVMK7joKwM1Z_vnksrDlOlBcVxrnUMjJ4PSqaMwIUzMJH7fQItI8UA50toZN3S38jF3d6nBDC1R4Q8bGUmTD6lcDYT6=w1440-h2196-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd7ar0jqse4gfcc83adm1z1th17zawba",
+      "playerName": "Tobias Hoffmann"
+    },
+    {
+      "playerId": "jd7c3hk4zx6ca15qb21qjzmd797zax2d",
+      "playerName": "Malthe Nielsen"
+    },
+    {
+      "playerId": "jd78hxsg64fwm0dkksgzh5859h7zazzc",
+      "playerName": "Lucas Høgh-Larsen"
+    },
+    {
+      "playerId": "jd79z4m8jw8w4h53cam40mv0ph7zbr4r",
+      "playerName": "Eik Jørgensen"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 40171.5,
+    "Beer": 15678,
+    "Spin": 13114.5
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 25,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 46,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}

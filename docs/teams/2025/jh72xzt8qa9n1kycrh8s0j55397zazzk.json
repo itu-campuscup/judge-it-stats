@@ -1,0 +1,39 @@
+{
+  "teamId": "jh72xzt8qa9n1kycrh8s0j55397zazzk",
+  "teamName": "Alkohooligans",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM5xwRinuB1id0m5PT8VOwcd9AZVqBYAB-lGCthbGrFlRRiWbn2GA5sB1N8DwgKf3s1oAqCndF_6LK4oizcOrS8s6eLqH5waj4SEAJLreWmJoMbhzjqs-wMFGb8vJNVLt56bIDGmrPwcXxRzMsjvYlH=w1292-h1292-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd70jbwx9w1c0vzqcc7vf9b73d7zbgaf",
+      "playerName": "Magnus Green"
+    },
+    {
+      "playerId": "jd7c3gcz7jay3w6fkajxchwxrx7zaxr5",
+      "playerName": "Adrian Borup"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 21853,
+    "Beer": 8836.5,
+    "Spin": 7630.5
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 66,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 37,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 82,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}

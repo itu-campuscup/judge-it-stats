@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
+  "teamName": "CampusCup Board",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOHTALAJZG59cXoik9bxpZQcjWq8qOTE2Mu7msv_DK-1fNkJfNnrlG49Re3pdaZNeVPUDZuAvHudbLUXnamOOLsnCFhAyN3ADq_er3soIvFJ8vyvleGMSvm6GWJkmaCDiZ0vPvWLBmmDd2m-OZqtlhY=w1388-h1292-s-no?authuser=1",
+  "isOut": true,
+  "players": [
+    {
+      "playerId": "jd7fn9b8hwhxa0r1qr3p1mrh2n7zbnaa",
+      "playerName": "Carmen Nielsen"
+    },
+    {
+      "playerId": "jd738cj02m9fb42z1msxhvnyp17zajnq",
+      "playerName": "Andreas Guldborg"
+    },
+    {
+      "playerId": "jd74smwzynz2sbxb7hw2e9n6ps7zaec6",
+      "playerName": "Natalie Petersen"
+    },
+    {
+      "playerId": "jd7fvh3rtnwx8bgry1zffgh07x7zak7k",
+      "playerName": "Lucas Hanson"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 23327,
+    "Beer": 13846.666666666666,
+    "Spin": 8546
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 36,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 30,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 76,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-08-31T17:28:25.970Z"
+}
