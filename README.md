@@ -10,7 +10,7 @@ Every 5 minutes (via GitHub Actions cron), this script:
 3. Generates JSON files for rankings, team profiles, player profiles, and the current-heat projection
 4. Commits and deploys to GitHub Pages
 
-Prior years are cached locally — only the current year and any uncached years are regenerated.
+Ranking data for prior years is cached locally — only the current year and any uncached years are regenerated. Team indexes are refreshed for every available year on each run.
 
 ## Output Structure
 
@@ -31,8 +31,9 @@ docs/
         spin.json
         summary.json
   teams/
-    index.json                   ← discoverable team comparison profiles
-    {teamId}.json                ← individual team radar data & best times
+    {year}/
+      index.json               ← discoverable team comparison profiles for the year
+      {teamId}.json             ← individual team radar data & best times for the year
   players/{playerId}.json        ← player personal bests & participation
 ```
 
@@ -114,8 +115,8 @@ https://<org>.github.io/judge-it-stats/rankings/{year}/{type}.json
 Example:
 - All-time beer rankings: `/rankings/overall.json`
 - 2026 beer rankings: `/rankings/2026/beer.json`
-- Team comparison index: `/teams/index.json`
-- Team profile: `/teams/{teamId}.json`
+- Team comparison index: `/teams/{year}/index.json`
+- Team profile: `/teams/{year}/{teamId}.json`
 - Current heat projection: `/current-heat.json`
 
 See `docs/index.json` for available years and current heat info.

@@ -216,9 +216,14 @@ function writeOverallRankings(
   });
 }
 
-export function writeTeamProfiles(docsDir: string, data: StatsData, generatedAt: string): void {
-  const profiles = generateTeamProfiles(data);
-  const teamsDir = join(docsDir, "teams");
+export function writeTeamProfiles(
+  docsDir: string,
+  data: StatsData,
+  year: number,
+  generatedAt: string,
+): void {
+  const profiles = generateTeamProfiles(data, year);
+  const teamsDir = join(docsDir, "teams", String(year));
 
   for (const profile of profiles) {
     writeJson(join(teamsDir, `${profile.teamId}.json`), {
@@ -313,18 +318,19 @@ export async function generate(
     }
   }
 
+  console.log("\nRefreshing team profiles...");
+  for (const year of allYears) {
+    writeTeamProfiles(docsDir, data, year, generatedAt);
+  }
+
   if (options.full) {
     console.log("\nGenerating overall rankings...");
     writeOverallRankings(docsDir, data, generatedAt);
 
-    console.log("Generating team profiles...");
-    writeTeamProfiles(docsDir, data, generatedAt);
-
     console.log("Generating player profiles...");
     writePlayerProfiles(docsDir, data, generatedAt);
   } else {
-    console.log("\nUpdating team/player profiles for current year data...");
-    writeTeamProfiles(docsDir, data, generatedAt);
+    console.log("\nUpdating player profiles for current year data...");
     writePlayerProfiles(docsDir, data, generatedAt);
     writeOverallRankings(docsDir, data, generatedAt);
   }
