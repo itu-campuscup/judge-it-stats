@@ -152,7 +152,8 @@ describe("createCurrentHeatSnapshot", () => {
     expect(anchros).toEqual(expect.objectContaining({ teamId: "team-a", teamName: "Anchors", sailLogCount: 16, handoffCount: 7, completedLegCount: 7, status: "finished", currentPlayerName: "Ben", finishedAt: "2026-05-17T11:00:15.000Z" }));
     expect(anchros.elapsedMsAtSnapshot).toBe(3600000);
     expect(anchros.startedAt).toBe("2026-05-17T11:00:00.000Z");
-    expect(snapshot.currentHeat?.activeActivity).toBe("sail");
+    expect(snapshot.currentHeat?.state).toBe("completed");
+    expect(snapshot.currentHeat?.activeActivity).toBeNull();
   });
   test("rejects zero-duration Spin pairs instead of emitting infinite RPM", () => {
     const snapshot = createCurrentHeatSnapshot(data([
@@ -174,8 +175,10 @@ describe("createCurrentHeatSnapshot", () => {
       "team-a",
       index + 1,
     ));
+    const snapshot = createCurrentHeatSnapshot(data(sailLogs), generatedAt);
+    const racer = snapshot.activities.sail.teams[0];
 
-    const racer = createCurrentHeatSnapshot(data(sailLogs), generatedAt).activities.sail.teams[0];
+    expect(snapshot.currentHeat?.state).toBe("running");
 
     expect(racer).toEqual(expect.objectContaining({ status: "racing", sailLogCount: 15, handoffCount: 7, completedLegCount: 7 }));
     expect(racer.finishedAt).toBeUndefined();

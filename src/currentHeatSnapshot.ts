@@ -249,11 +249,19 @@ export function createCurrentHeatSnapshot(data: StatsData, generatedAt: string, 
   const beer = beerType ? projectActivity(validLogs(data, heat.id, beerType._id, heat.date), players, teams, snapshotTime, false) : EMPTY_ACTIVITY();
   const spin = spinType ? projectActivity(validLogs(data, heat.id, spinType._id, heat.date), players, teams, snapshotTime, true) : EMPTY_ACTIVITY();
   const sail = sailType ? projectSail(validLogs(data, heat.id, sailType._id, heat.date), players, teams, snapshotTime) : [];
+  const completed = sail.some((team) => team.status === "finished");
   return {
     schemaVersion: 1,
     generatedAt,
     sourceFetchedAt,
-    currentHeat: { id: heat.id, number: heat.number, year: heat.year, date: heat.date, state: "running", activeActivity: activeActivity(beer, spin, sail) },
+    currentHeat: {
+      id: heat.id,
+      number: heat.number,
+      year: heat.year,
+      date: heat.date,
+      state: completed ? "completed" : "running",
+      activeActivity: completed ? null : activeActivity(beer, spin, sail),
+    },
     activities: { beer, spin, sail: { teams: sail } },
   };
 }
