@@ -2,7 +2,7 @@
   "teamId": "jh7e0fnk9kswcdme5ezvx21fpx7zbnqz",
   "teamName": "(SWU) Sex With Urmama",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMA8u1O79FLglpfOnJmzfPjqdAsFz9S63ORvAdCJG4uVYmTdkfWicR5aSLuqURNBglUGYoPek6LwCBiCrRRyo3IBo4diVJfIqfwCKUr2fIYWVaW9tp0cKKkz9JPAyf4fZm8yIPXq9Oa7yZeTwexfmX-=w974-h1292-s-no?authuser=1",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd78he0stjh3ek2043ztqeg0y97zab91",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-08-31T17:28:25.970Z"
+  "generatedAt": "2026-09-06T16:13:29.560Z"
 }

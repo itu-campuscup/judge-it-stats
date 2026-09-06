@@ -2,7 +2,7 @@
   "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
   "teamName": "The Early Birds",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd7751rmfba1ht3rrr3yb81erx7zafwp",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-08-31T17:28:25.970Z"
+  "generatedAt": "2026-09-06T16:13:29.560Z"
 }

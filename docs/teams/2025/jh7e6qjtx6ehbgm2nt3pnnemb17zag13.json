@@ -2,7 +2,7 @@
   "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
   "teamName": "Master Baiters",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd75z67brvqkg64gt682eaepax7zayqz",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-08-31T17:28:25.970Z"
+  "generatedAt": "2026-09-06T16:13:29.560Z"
 }

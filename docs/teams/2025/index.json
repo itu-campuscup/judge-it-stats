@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T17:28:25.970Z",
+  "generatedAt": "2026-09-06T16:13:29.560Z",
   "teams": [
     {
       "teamId": "jh7bv0hdxth0qazjmpfdfeprdn7zbrsh",
@@ -90,7 +90,7 @@
       "teamId": "jh75zh956t820vzgrwrm24xg5x7zbqrf",
       "teamName": "The Early Birds",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO3q5wyfiJy18rGw6gZtQt5y-X2Are6yEGFt8w7_XpJItz_9mdJgWIzna2ZY5XLnKW0d72B8gfDwAHUtG_65qKjkMcE0ia1KDllfnifxY_ucy3iDhRh37UsztPbvZsEMIrGbkrcN17NEQMhe33dTtzR=w989-h657-s-no?authuser=1",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd7751rmfba1ht3rrr3yb81erx7zafwp",
@@ -182,7 +182,7 @@
       "teamId": "jh75jn68ddndmbdbb1e9fesewd7zaefn",
       "teamName": "Mændfrøskorpset",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPev_iWgj7Z_33IWO1bKNQS-Zt9YfFaSh1_1Mz4b_39rMdjRXmpw5DnXsJK3mSetGs0oEW7rImvMyDeHu6rJM3-ljst9Xy4kDnxnBY9SbWFnsuduzsSiNGrOwl1G8JhTfocGFxKPkh2aEQpjPJm6EE4=w1338-h1292-s-no?authuser=1",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd70zkpe7yy6v453gckbnvvckd7zbh0m",
@@ -320,7 +320,7 @@
       "teamId": "jh7e0fnk9kswcdme5ezvx21fpx7zbnqz",
       "teamName": "(SWU) Sex With Urmama",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMA8u1O79FLglpfOnJmzfPjqdAsFz9S63ORvAdCJG4uVYmTdkfWicR5aSLuqURNBglUGYoPek6LwCBiCrRRyo3IBo4diVJfIqfwCKUr2fIYWVaW9tp0cKKkz9JPAyf4fZm8yIPXq9Oa7yZeTwexfmX-=w974-h1292-s-no?authuser=1",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd78he0stjh3ek2043ztqeg0y97zab91",
@@ -500,7 +500,7 @@
       "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
       "teamName": "Master Baiters",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd75z67brvqkg64gt682eaepax7zayqz",
