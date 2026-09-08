@@ -3,10 +3,28 @@
   "playerName": "Person 2.2",
   "teamId": "jh72baxba02rtxs14j42zhkx958dwv4c",
   "teamName": "Team 2 2026 Test",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 26618,
+      "heat": 17,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 5310,
+      "heat": 17,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 5696,
+      "heat": 17,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-08T15:09:10.042Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-08T18:25:27.349Z"
 }

@@ -4,10 +4,28 @@
   "imageUrl": "https://http.cat/100",
   "teamId": "jh78w23a6ketvfbaqzbqszspb58dx5b2",
   "teamName": "Team 1 2026 Test",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 20046,
+      "heat": 17,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 8050,
+      "heat": 17,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 6116,
+      "heat": 17,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-08T15:09:10.042Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-08T18:25:27.349Z"
 }

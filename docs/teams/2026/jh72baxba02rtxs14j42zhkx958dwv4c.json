@@ -1,0 +1,39 @@
+{
+  "teamId": "jh72baxba02rtxs14j42zhkx958dwv4c",
+  "teamName": "Team 2 2026 Test",
+  "imageUrl": "https://http.cat/501",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd75bmq2eecatd4dgfh558qzax8dwg5w",
+      "playerName": "Person 2.2"
+    },
+    {
+      "playerId": "jd78xrgwndvxzvh443t3c379ps8dx8r2",
+      "playerName": "Person 2.3"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 26618,
+    "Beer": 5310,
+    "Spin": 5696
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 86,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 15,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 95,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-08T18:25:27.349Z"
+}

@@ -1,0 +1,35 @@
+{
+  "timeType": "Beer",
+  "year": 2026,
+  "generatedAt": "2026-09-08T18:25:27.349Z",
+  "rankings": [
+    {
+      "rank": 1,
+      "playerId": "jd75bmq2eecatd4dgfh558qzax8dwg5w",
+      "playerName": "Person 2.2",
+      "teamId": "jh72baxba02rtxs14j42zhkx958dwv4c",
+      "teamName": "Team 2 2026 Test",
+      "teamImageUrl": "https://http.cat/501",
+      "heatNumber": 17,
+      "heatId": "j97aq15y4vntnbmjrj6hyb6mws8e0km3",
+      "duration": 5310,
+      "formattedTime": "00:05:309",
+      "displayLabel": "00:05:309",
+      "imageUrl": "https://http.cat/501"
+    },
+    {
+      "rank": 2,
+      "playerId": "jd7dgazgy32m1rd22n29dwf9518dwtx8",
+      "playerName": "Person 4 Test",
+      "teamId": "jh78w23a6ketvfbaqzbqszspb58dx5b2",
+      "teamName": "Team 1 2026 Test",
+      "teamImageUrl": "https://http.cat/500",
+      "heatNumber": 17,
+      "heatId": "j97aq15y4vntnbmjrj6hyb6mws8e0km3",
+      "duration": 8050,
+      "formattedTime": "00:08:050",
+      "displayLabel": "+2.740s",
+      "imageUrl": "https://http.cat/100"
+    }
+  ]
+}

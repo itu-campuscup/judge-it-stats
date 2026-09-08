@@ -1,0 +1,41 @@
+{
+  "teamId": "jh78w23a6ketvfbaqzbqszspb58dx5b2",
+  "teamName": "Team 1 2026 Test",
+  "imageUrl": "https://http.cat/500",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7dgazgy32m1rd22n29dwf9518dwtx8",
+      "playerName": "Person 4 Test",
+      "imageUrl": "https://http.cat/100"
+    },
+    {
+      "playerId": "jd79qvxp5prbyhhz3wt0war9qd8dxg1w",
+      "playerName": "Person 1 Test",
+      "imageUrl": "https://http.cat/200"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 20046,
+    "Beer": 8050,
+    "Spin": 6116
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 70,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 45,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 93,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-08T18:25:27.349Z"
+}

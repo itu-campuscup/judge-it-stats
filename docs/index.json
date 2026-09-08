@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "2026-09-08T15:09:10.042Z",
+  "lastUpdated": "2026-09-08T18:25:27.349Z",
   "years": [
+    2026,
     2025
   ],
   "timeTypes": [
@@ -9,12 +10,12 @@
     "Spin"
   ],
   "currentHeat": {
-    "id": "j975a518awpzrj24wnm65mx8n97zb5a9",
-    "heat": 16,
-    "date": "2025-09-12"
+    "id": "j97aq15y4vntnbmjrj6hyb6mws8e0km3",
+    "heat": 17,
+    "date": "2026-09-08"
   },
   "totalPlayers": 68,
   "totalTeams": 18,
-  "totalHeats": 16,
-  "totalTimeLogs": 883
+  "totalHeats": 17,
+  "totalTimeLogs": 901
 }
