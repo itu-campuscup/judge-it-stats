@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T18:25:27.349Z",
+  "generatedAt": "2026-09-09T19:07:12.149Z",
   "teams": [
     {
       "teamId": "jh78w23a6ketvfbaqzbqszspb58dx5b2",
@@ -8,6 +8,11 @@
       "imageUrl": "https://http.cat/500",
       "isOut": false,
       "players": [
+        {
+          "playerId": "jd7cg3jyzwcs5h34dyfyx2kmv18dxsvr",
+          "playerName": "Person 3 Test",
+          "imageUrl": "https://http.cat/200"
+        },
         {
           "playerId": "jd7dgazgy32m1rd22n29dwf9518dwtx8",
           "playerName": "Person 4 Test",
@@ -17,27 +22,32 @@
           "playerId": "jd79qvxp5prbyhhz3wt0war9qd8dxg1w",
           "playerName": "Person 1 Test",
           "imageUrl": "https://http.cat/200"
+        },
+        {
+          "playerId": "jd78g09x7des7zhcy41zhc5sbx8dxqq9",
+          "playerName": "Person 2 Test",
+          "imageUrl": "https://http.cat/201"
         }
       ],
       "bestTimes": {
-        "Sail": 20046,
-        "Beer": 8050,
-        "Spin": 6116
+        "Sail": 5685.75,
+        "Beer": 2811,
+        "Spin": 1714
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 70,
+          "performance": 100,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 45,
+          "performance": 100,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 93,
+          "performance": 100,
           "fullMark": 100
         }
       ]
@@ -49,33 +59,37 @@
       "isOut": false,
       "players": [
         {
-          "playerId": "jd75bmq2eecatd4dgfh558qzax8dwg5w",
-          "playerName": "Person 2.2"
-        },
-        {
           "playerId": "jd78xrgwndvxzvh443t3c379ps8dx8r2",
           "playerName": "Person 2.3"
+        },
+        {
+          "playerId": "jd73m73tnhb9kzefnkkxa9b9418dwq6y",
+          "playerName": "Person 2.1"
+        },
+        {
+          "playerId": "jd75bmq2eecatd4dgfh558qzax8dwg5w",
+          "playerName": "Person 2.2"
         }
       ],
       "bestTimes": {
-        "Sail": 26618,
-        "Beer": 5310,
-        "Spin": 5696
+        "Sail": 3374,
+        "Beer": 1706.3333333333333,
+        "Spin": 1646
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 86,
+          "performance": 100,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 15,
+          "performance": 100,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 95,
+          "performance": 100,
           "fullMark": 100
         }
       ]

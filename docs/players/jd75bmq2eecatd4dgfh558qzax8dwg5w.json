@@ -5,18 +5,18 @@
   "teamName": "Team 2 2026 Test",
   "personalBests": {
     "Sail": {
-      "duration": 26618,
-      "heat": 17,
+      "duration": 1433,
+      "heat": 1,
       "year": 2026
     },
     "Beer": {
-      "duration": 5310,
-      "heat": 17,
+      "duration": 2483,
+      "heat": 1,
       "year": 2026
     },
     "Spin": {
-      "duration": 5696,
-      "heat": 17,
+      "duration": 1828,
+      "heat": 1,
       "year": 2026
     }
   },
@@ -26,5 +26,5 @@
       2026
     ]
   },
-  "generatedAt": "2026-09-08T18:25:27.349Z"
+  "generatedAt": "2026-09-09T19:07:12.149Z"
 }

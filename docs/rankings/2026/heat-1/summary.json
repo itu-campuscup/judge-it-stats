@@ -1,6 +1,8 @@
 {
+  "year": 2026,
+  "heat": 1,
   "generatedAt": "2026-09-09T19:07:12.149Z",
-  "allTimeTop5": {
+  "top5": {
     "Sail": [
       {
         "rank": 1,

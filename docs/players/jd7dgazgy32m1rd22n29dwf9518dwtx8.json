@@ -6,18 +6,18 @@
   "teamName": "Team 1 2026 Test",
   "personalBests": {
     "Sail": {
-      "duration": 20046,
-      "heat": 17,
+      "duration": 6744,
+      "heat": 1,
       "year": 2026
     },
     "Beer": {
-      "duration": 8050,
-      "heat": 17,
+      "duration": 1393,
+      "heat": 1,
       "year": 2026
     },
     "Spin": {
-      "duration": 6116,
-      "heat": 17,
+      "duration": 1403,
+      "heat": 1,
       "year": 2026
     }
   },
@@ -27,5 +27,5 @@
       2026
     ]
   },
-  "generatedAt": "2026-09-08T18:25:27.349Z"
+  "generatedAt": "2026-09-09T19:07:12.149Z"
 }

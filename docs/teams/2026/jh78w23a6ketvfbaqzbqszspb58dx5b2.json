@@ -5,6 +5,11 @@
   "isOut": false,
   "players": [
     {
+      "playerId": "jd7cg3jyzwcs5h34dyfyx2kmv18dxsvr",
+      "playerName": "Person 3 Test",
+      "imageUrl": "https://http.cat/200"
+    },
+    {
       "playerId": "jd7dgazgy32m1rd22n29dwf9518dwtx8",
       "playerName": "Person 4 Test",
       "imageUrl": "https://http.cat/100"
@@ -13,29 +18,34 @@
       "playerId": "jd79qvxp5prbyhhz3wt0war9qd8dxg1w",
       "playerName": "Person 1 Test",
       "imageUrl": "https://http.cat/200"
+    },
+    {
+      "playerId": "jd78g09x7des7zhcy41zhc5sbx8dxqq9",
+      "playerName": "Person 2 Test",
+      "imageUrl": "https://http.cat/201"
     }
   ],
   "bestTimes": {
-    "Sail": 20046,
-    "Beer": 8050,
-    "Spin": 6116
+    "Sail": 5685.75,
+    "Beer": 2811,
+    "Spin": 1714
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 70,
+      "performance": 100,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 45,
+      "performance": 100,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 93,
+      "performance": 100,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-08T18:25:27.349Z"
+  "generatedAt": "2026-09-09T19:07:12.149Z"
 }

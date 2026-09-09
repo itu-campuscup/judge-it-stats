@@ -1,73 +1,205 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T18:25:27.349Z",
-  "sourceFetchedAt": "2026-09-08T18:25:27.349Z",
+  "generatedAt": "2026-09-09T19:07:12.149Z",
+  "sourceFetchedAt": "2026-09-09T19:07:12.148Z",
   "currentHeat": {
-    "id": "j97aq15y4vntnbmjrj6hyb6mws8e0km3",
-    "number": 17,
+    "id": "j97bremgcz1tfpdzx2vf8t5n7s8e3v9y",
+    "number": 1,
     "year": 2026,
-    "date": "2026-09-08",
-    "state": "running",
-    "activeActivity": "sail"
+    "date": "2026-09-09",
+    "state": "completed",
+    "activeActivity": null
   },
   "activities": {
     "beer": {
       "completed": [
         {
-          "id": "jn7b0pb72aybx6qk5sr2536jnx8e0teh",
+          "id": "jn715acwg4sme1nzt7ygcyt7ps8e2xz5",
           "rank": 1,
-          "playerName": "Person 2.2",
+          "playerName": "Person 2.1",
           "teamName": "Team 2 2026 Test",
-          "durationMs": 5310,
-          "formattedTime": "00:05:309",
-          "displayLabel": "00:05:309",
+          "durationMs": 1289,
+          "formattedTime": "00:01:288",
+          "displayLabel": "00:01:288",
           "imageUrl": "https://http.cat/501"
         },
         {
-          "id": "jn75am2f3r333qk222hkbpnnsh8e1qse",
+          "id": "jn7fcggddrskx5g88ahxs1kfq18e2h0m",
           "rank": 2,
+          "playerName": "Person 2.3",
+          "teamName": "Team 2 2026 Test",
+          "durationMs": 1347,
+          "formattedTime": "00:01:347",
+          "displayLabel": "+0.058s",
+          "imageUrl": "https://http.cat/501"
+        },
+        {
+          "id": "jn7cyqxf6wrck52yk7qv62h1c98e3ptz",
+          "rank": 3,
+          "playerName": "Person 2 Test",
+          "teamName": "Team 1 2026 Test",
+          "durationMs": 1355,
+          "formattedTime": "00:01:355",
+          "displayLabel": "+0.066s",
+          "imageUrl": "https://http.cat/201"
+        },
+        {
+          "id": "jn72x1pbgyjegayg90gjqqtqan8e3g2x",
+          "rank": 4,
           "playerName": "Person 4 Test",
           "teamName": "Team 1 2026 Test",
-          "durationMs": 8050,
-          "formattedTime": "00:08:050",
-          "displayLabel": "+2.740s",
+          "durationMs": 1393,
+          "formattedTime": "00:01:393",
+          "displayLabel": "+0.104s",
           "imageUrl": "https://http.cat/100"
+        },
+        {
+          "id": "jn75qcn8z72jwh6sh09aravx5d8e3txd",
+          "rank": 5,
+          "playerName": "Person 1 Test",
+          "teamName": "Team 1 2026 Test",
+          "durationMs": 2470,
+          "formattedTime": "00:02:470",
+          "displayLabel": "+1.181s",
+          "imageUrl": "https://http.cat/200"
+        },
+        {
+          "id": "jn74a3nfwqjmm0r8w4xjfp5f2n8e254g",
+          "rank": 6,
+          "playerName": "Person 2.2",
+          "teamName": "Team 2 2026 Test",
+          "durationMs": 2483,
+          "formattedTime": "00:02:483",
+          "displayLabel": "+1.194s",
+          "imageUrl": "https://http.cat/501"
+        },
+        {
+          "id": "jn7fkp2ka1x5gc9zh92qncy7b58e3sjh",
+          "rank": 7,
+          "playerName": "Person 3 Test",
+          "teamName": "Team 1 2026 Test",
+          "durationMs": 6026,
+          "formattedTime": "00:06:025",
+          "displayLabel": "+4.737s",
+          "imageUrl": "https://http.cat/200"
+        },
+        {
+          "id": "jn77rweh11hnx23fyfsbhf18gn8e3654",
+          "rank": 8,
+          "playerName": "Person 2.3",
+          "teamName": "Team 2 2026 Test",
+          "durationMs": 6073,
+          "formattedTime": "00:06:073",
+          "displayLabel": "+4.784s",
+          "imageUrl": "https://http.cat/501"
         }
       ],
       "active": [],
-      "attemptsStarted": 2,
-      "attemptsCompleted": 2
+      "attemptsStarted": 8,
+      "attemptsCompleted": 8
     },
     "spin": {
       "completed": [
         {
-          "id": "jn7a0sptxbd7jbs7zjrd1f02pn8e0xfk",
+          "id": "jn74j4tybpxwc6g1y0hgzc9bf18e2fay",
           "rank": 1,
-          "playerName": "Person 2.2",
+          "playerName": "Person 4 Test",
+          "teamName": "Team 1 2026 Test",
+          "durationMs": 1403,
+          "formattedTime": "00:01:403",
+          "displayLabel": "428 RPM",
+          "rpm": 427.6550249465431,
+          "displayRpmLabel": "428 RPM",
+          "imageUrl": "https://http.cat/100"
+        },
+        {
+          "id": "jn79g9bh0kc7b1b0ds0yv3c8vx8e221j",
+          "rank": 2,
+          "playerName": "Person 2.1",
           "teamName": "Team 2 2026 Test",
-          "durationMs": 5696,
-          "formattedTime": "00:05:695",
-          "displayLabel": "105 RPM",
-          "rpm": 105.3370786516854,
-          "displayRpmLabel": "105 RPM",
+          "durationMs": 1529,
+          "formattedTime": "00:01:528",
+          "displayLabel": "-35 RPM",
+          "rpm": 392.41334205362983,
+          "displayRpmLabel": "392 RPM",
           "imageUrl": "https://http.cat/501"
         },
         {
-          "id": "jn71zyf29mpr6exe1v885tyyrh8e1r54",
-          "rank": 2,
-          "playerName": "Person 4 Test",
+          "id": "jn7734v8v3rfa8gram8s8q7kkx8e2qvx",
+          "rank": 3,
+          "playerName": "Person 3 Test",
           "teamName": "Team 1 2026 Test",
-          "durationMs": 6116,
-          "formattedTime": "00:06:115",
-          "displayLabel": "-7 RPM",
-          "rpm": 98.10333551340746,
-          "displayRpmLabel": "98 RPM",
-          "imageUrl": "https://http.cat/100"
+          "durationMs": 1569,
+          "formattedTime": "00:01:569",
+          "displayLabel": "-45 RPM",
+          "rpm": 382.4091778202677,
+          "displayRpmLabel": "382 RPM",
+          "imageUrl": "https://http.cat/200"
+        },
+        {
+          "id": "jn71qtf9kyqt3k2bqh2psq94y98e2srd",
+          "rank": 4,
+          "playerName": "Person 2.3",
+          "teamName": "Team 2 2026 Test",
+          "durationMs": 1581,
+          "formattedTime": "00:01:581",
+          "displayLabel": "-48 RPM",
+          "rpm": 379.5066413662239,
+          "displayRpmLabel": "380 RPM",
+          "imageUrl": "https://http.cat/501"
+        },
+        {
+          "id": "jn74rahbfentyze81gw1jdrkm58e25sb",
+          "rank": 5,
+          "playerName": "Person 2.2",
+          "teamName": "Team 2 2026 Test",
+          "durationMs": 1828,
+          "formattedTime": "00:01:828",
+          "displayLabel": "-99 RPM",
+          "rpm": 328.2275711159737,
+          "displayRpmLabel": "328 RPM",
+          "imageUrl": "https://http.cat/501"
+        },
+        {
+          "id": "jn70rhcbzg03bwvcc0kqpxtc9x8e352e",
+          "rank": 6,
+          "playerName": "Person 1 Test",
+          "teamName": "Team 1 2026 Test",
+          "durationMs": 1865,
+          "formattedTime": "00:01:865",
+          "displayLabel": "-106 RPM",
+          "rpm": 321.71581769437,
+          "displayRpmLabel": "322 RPM",
+          "imageUrl": "https://http.cat/200"
+        },
+        {
+          "id": "jn71m988y57w9a2ywtrx09hm6x8e2qds",
+          "rank": 7,
+          "playerName": "Person 2 Test",
+          "teamName": "Team 1 2026 Test",
+          "durationMs": 2019,
+          "formattedTime": "00:02:019",
+          "displayLabel": "-130 RPM",
+          "rpm": 297.17682020802374,
+          "displayRpmLabel": "297 RPM",
+          "imageUrl": "https://http.cat/201"
+        },
+        {
+          "id": "jn7821j8ds0pvkafpdyz803d8n8e3wev",
+          "rank": 8,
+          "playerName": "Person 2.3",
+          "teamName": "Team 2 2026 Test",
+          "durationMs": 2032,
+          "formattedTime": "00:02:032",
+          "displayLabel": "-132 RPM",
+          "rpm": 295.2755905511811,
+          "displayRpmLabel": "295 RPM",
+          "imageUrl": "https://http.cat/501"
         }
       ],
       "active": [],
-      "attemptsStarted": 2,
-      "attemptsCompleted": 2
+      "attemptsStarted": 8,
+      "attemptsCompleted": 8
     },
     "sail": {
       "teams": [
@@ -75,25 +207,26 @@
           "teamId": "jh72baxba02rtxs14j42zhkx958dwv4c",
           "teamName": "Team 2 2026 Test",
           "imageUrl": "https://http.cat/501",
-          "sailLogCount": 5,
-          "handoffCount": 2,
-          "completedLegCount": 2,
-          "status": "racing",
+          "sailLogCount": 16,
+          "handoffCount": 7,
+          "completedLegCount": 7,
+          "status": "finished",
           "currentPlayerName": "Person 2.3",
-          "startedAt": "2026-09-08T18:22:38.467Z",
-          "elapsedMsAtSnapshot": 168882
+          "startedAt": "2026-09-09T18:41:59.828Z",
+          "elapsedMsAtSnapshot": 1512321,
+          "finishedAt": "2026-09-09T18:44:21.609Z"
         },
         {
           "teamId": "jh78w23a6ketvfbaqzbqszspb58dx5b2",
           "teamName": "Team 1 2026 Test",
           "imageUrl": "https://http.cat/500",
-          "sailLogCount": 5,
-          "handoffCount": 2,
-          "completedLegCount": 2,
+          "sailLogCount": 16,
+          "handoffCount": 7,
+          "completedLegCount": 7,
           "status": "racing",
-          "currentPlayerName": "Person 1 Test",
-          "startedAt": "2026-09-08T18:22:38.467Z",
-          "elapsedMsAtSnapshot": 168882
+          "currentPlayerName": "Person 2 Test",
+          "startedAt": "2026-09-09T18:41:59.828Z",
+          "elapsedMsAtSnapshot": 1512321
         }
       ]
     }
