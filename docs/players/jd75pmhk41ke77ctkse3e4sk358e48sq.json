@@ -3,10 +3,28 @@
   "playerName": "Lauritz Jørgensen",
   "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
   "teamName": "Pimp-n-strip",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 4906,
+      "heat": 2,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 1494,
+      "heat": 2,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 1499,
+      "heat": 2,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-10T18:42:24.849Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-10T18:43:48.825Z"
 }

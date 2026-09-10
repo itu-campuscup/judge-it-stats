@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T18:42:24.849Z",
-  "sourceFetchedAt": "2026-09-10T18:42:24.848Z",
+  "generatedAt": "2026-09-10T18:43:48.825Z",
+  "sourceFetchedAt": "2026-09-10T18:43:48.824Z",
   "currentHeat": {
     "id": "j978ez5am686r0b0cktkeynefx8e5x53",
     "number": 2,
     "year": 2026,
     "date": "2026-09-10",
-    "state": "running",
+    "state": "completed",
     "activeActivity": null
   },
   "activities": {
@@ -34,8 +34,18 @@
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
         },
         {
-          "id": "jn7bbdxngrvf5hhba333q3ab4n8e48xw",
+          "id": "jn7e66szkamf1m9ka73ba0vqcs8e4d55",
           "rank": 3,
+          "playerName": "Lauritz Jørgensen",
+          "teamName": "Pimp-n-strip",
+          "durationMs": 1494,
+          "formattedTime": "00:01:494",
+          "displayLabel": "+0.318s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
+        },
+        {
+          "id": "jn7bbdxngrvf5hhba333q3ab4n8e48xw",
+          "rank": 4,
           "playerName": "Julie Pedersen",
           "teamName": "Pimp-n-strip",
           "durationMs": 1507,
@@ -45,7 +55,7 @@
         },
         {
           "id": "jn72w3a82chdgb9xfmhrjrn5ps8e5x9e",
-          "rank": 4,
+          "rank": 5,
           "playerName": "Hassel Lauritzen",
           "teamName": "Pimp-n-strip",
           "durationMs": 1538,
@@ -55,7 +65,7 @@
         },
         {
           "id": "jn7ax025009a1se7728agc89558e5e9d",
-          "rank": 5,
+          "rank": 6,
           "playerName": "Noah Tøttrup",
           "teamName": "WeLoveBier",
           "durationMs": 1569,
@@ -64,8 +74,18 @@
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
         },
         {
+          "id": "jn7e8ka71sqgknpwc4y3brrj6s8e5gkq",
+          "rank": 7,
+          "playerName": "Hannibal Søby",
+          "teamName": "WeLoveBier",
+          "durationMs": 1710,
+          "formattedTime": "00:01:710",
+          "displayLabel": "+0.534s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+        },
+        {
           "id": "jn7a64y85sbc5y11ynx6ngjz6s8e48jp",
-          "rank": 6,
+          "rank": 8,
           "playerName": "Hugo Nørløv",
           "teamName": "WeLoveBier",
           "durationMs": 2164,
@@ -75,78 +95,111 @@
         }
       ],
       "active": [],
-      "attemptsStarted": 6,
-      "attemptsCompleted": 6
+      "attemptsStarted": 8,
+      "attemptsCompleted": 8
     },
     "spin": {
       "completed": [
         {
-          "id": "jn764whn42hzt6fmb2cmkzgx4h8e4s0a",
+          "id": "jn733dbby5csgvjpr5sbfdj4bs8e4kgt",
           "rank": 1,
+          "playerName": "Hannibal Søby",
+          "teamName": "WeLoveBier",
+          "durationMs": 1482,
+          "formattedTime": "00:01:482",
+          "displayLabel": "405 RPM",
+          "rpm": 404.85829959514166,
+          "displayRpmLabel": "405 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+        },
+        {
+          "id": "jn7a2fz3n22y4d7p3rph8nzd758e5v9j",
+          "rank": 2,
+          "playerName": "Lauritz Jørgensen",
+          "teamName": "Pimp-n-strip",
+          "durationMs": 1499,
+          "formattedTime": "00:01:499",
+          "displayLabel": "-5 RPM",
+          "rpm": 400.266844563042,
+          "displayRpmLabel": "400 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
+        },
+        {
+          "id": "jn764whn42hzt6fmb2cmkzgx4h8e4s0a",
+          "rank": 3,
           "playerName": "Hugo Nørløv",
           "teamName": "WeLoveBier",
           "durationMs": 1721,
           "formattedTime": "00:01:721",
-          "displayLabel": "349 RPM",
+          "displayLabel": "-56 RPM",
           "rpm": 348.6345148169669,
           "displayRpmLabel": "349 RPM",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
         },
         {
           "id": "jn72ek4kyhbxg7ythkc5xvhkj18e5ajp",
-          "rank": 2,
+          "rank": 4,
           "playerName": "Jamie Rosenqvist",
           "teamName": "Pimp-n-strip",
           "durationMs": 1776,
           "formattedTime": "00:01:776",
-          "displayLabel": "-11 RPM",
+          "displayLabel": "-67 RPM",
           "rpm": 337.8378378378378,
           "displayRpmLabel": "338 RPM",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
         },
         {
           "id": "jn70p4qy2hk0s53nvpeafvb9zd8e4c2d",
-          "rank": 3,
+          "rank": 5,
           "playerName": "Sebastian Hasselström",
           "teamName": "WeLoveBier",
           "durationMs": 1850,
           "formattedTime": "00:01:850",
-          "displayLabel": "-24 RPM",
+          "displayLabel": "-81 RPM",
           "rpm": 324.3243243243243,
           "displayRpmLabel": "324 RPM",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
         },
         {
           "id": "jn70n2hdv954zsqedyp1424jyx8e5pwc",
-          "rank": 4,
+          "rank": 6,
           "playerName": "Hassel Lauritzen",
           "teamName": "Pimp-n-strip",
           "durationMs": 1958,
           "formattedTime": "00:01:958",
-          "displayLabel": "-42 RPM",
+          "displayLabel": "-98 RPM",
           "rpm": 306.4351378958121,
           "displayRpmLabel": "306 RPM",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
-        }
-      ],
-      "active": [
-        {
-          "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
-          "playerName": "Julie Pedersen",
-          "teamName": "Pimp-n-strip",
-          "startedAt": "2026-09-10T18:41:55.710Z",
-          "elapsedMsAtSnapshot": 29139
         },
         {
-          "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
+          "id": "jn7f4nsacex0c2vctvakp0cxz98e581p",
+          "rank": 7,
           "playerName": "Noah Tøttrup",
           "teamName": "WeLoveBier",
-          "startedAt": "2026-09-10T18:41:56.046Z",
-          "elapsedMsAtSnapshot": 28803
+          "durationMs": 34606,
+          "formattedTime": "00:34:606",
+          "displayLabel": "-388 RPM",
+          "rpm": 17.338033866959485,
+          "displayRpmLabel": "17 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+        },
+        {
+          "id": "jn759cf8dk40mzzkhf91j7jw198e5b0m",
+          "rank": 8,
+          "playerName": "Julie Pedersen",
+          "teamName": "Pimp-n-strip",
+          "durationMs": 34652,
+          "formattedTime": "00:34:652",
+          "displayLabel": "-388 RPM",
+          "rpm": 17.315017892185153,
+          "displayRpmLabel": "17 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
         }
       ],
-      "attemptsStarted": 6,
-      "attemptsCompleted": 4
+      "active": [],
+      "attemptsStarted": 8,
+      "attemptsCompleted": 8
     },
     "sail": {
       "teams": [
@@ -154,25 +207,26 @@
           "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
           "teamName": "Pimp-n-strip",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
-          "sailLogCount": 10,
-          "handoffCount": 4,
-          "completedLegCount": 4,
+          "sailLogCount": 16,
+          "handoffCount": 7,
+          "completedLegCount": 7,
           "status": "racing",
-          "currentPlayerName": "Julie Pedersen",
+          "currentPlayerName": "Lauritz Jørgensen",
           "startedAt": "2026-09-10T18:40:37.567Z",
-          "elapsedMsAtSnapshot": 107282
+          "elapsedMsAtSnapshot": 191258
         },
         {
           "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
           "teamName": "WeLoveBier",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
-          "sailLogCount": 10,
-          "handoffCount": 4,
-          "completedLegCount": 4,
-          "status": "racing",
-          "currentPlayerName": "Noah Tøttrup",
+          "sailLogCount": 16,
+          "handoffCount": 7,
+          "completedLegCount": 7,
+          "status": "finished",
+          "currentPlayerName": "Hannibal Søby",
           "startedAt": "2026-09-10T18:40:37.567Z",
-          "elapsedMsAtSnapshot": 107282
+          "elapsedMsAtSnapshot": 191258,
+          "finishedAt": "2026-09-10T18:43:17.061Z"
         }
       ]
     }

@@ -3,10 +3,28 @@
   "playerName": "Hannibal Søby",
   "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
   "teamName": "WeLoveBier",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 4591,
+      "heat": 2,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 1710,
+      "heat": 2,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 1482,
+      "heat": 2,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-10T18:42:24.849Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-10T18:43:48.825Z"
 }

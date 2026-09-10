@@ -1,7 +1,7 @@
 {
   "timeType": "Sail",
   "year": 2026,
-  "generatedAt": "2026-09-10T18:42:24.849Z",
+  "generatedAt": "2026-09-10T18:43:48.825Z",
   "rankings": [
     {
       "rank": 1,
@@ -61,6 +61,48 @@
     },
     {
       "rank": 5,
+      "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
+      "playerName": "Julie Pedersen",
+      "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
+      "teamName": "Pimp-n-strip",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 4465,
+      "formattedTime": "00:04:464",
+      "displayLabel": "+1.848s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
+    },
+    {
+      "rank": 6,
+      "playerId": "jd7aap4karfyyd06hj7qzxjf0h8e491p",
+      "playerName": "Hannibal Søby",
+      "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
+      "teamName": "WeLoveBier",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 4591,
+      "formattedTime": "00:04:591",
+      "displayLabel": "+1.974s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+    },
+    {
+      "rank": 7,
+      "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
+      "playerName": "Lauritz Jørgensen",
+      "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
+      "teamName": "Pimp-n-strip",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 4906,
+      "formattedTime": "00:04:905",
+      "displayLabel": "+2.289s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
+    },
+    {
+      "rank": 8,
       "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
       "playerName": "Hassel Lauritzen",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -74,7 +116,21 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
+      "playerName": "Noah Tøttrup",
+      "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
+      "teamName": "WeLoveBier",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 5875,
+      "formattedTime": "00:05:875",
+      "displayLabel": "+3.258s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+    },
+    {
+      "rank": 10,
       "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
       "playerName": "Hugo Nørløv",
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
@@ -88,7 +144,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
-      "rank": 7,
+      "rank": 11,
       "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
       "playerName": "Daniel Fich",
       "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
@@ -102,35 +158,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
     },
     {
-      "rank": 8,
-      "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
-      "playerName": "Noah Tøttrup",
-      "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
-      "teamName": "WeLoveBier",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
-      "heatNumber": 2,
-      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
-      "duration": 8485,
-      "formattedTime": "00:08:484",
-      "displayLabel": "+5.868s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
-    },
-    {
-      "rank": 9,
-      "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
-      "playerName": "Julie Pedersen",
-      "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
-      "teamName": "Pimp-n-strip",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
-      "heatNumber": 2,
-      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
-      "duration": 9146,
-      "formattedTime": "00:09:146",
-      "displayLabel": "+6.529s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
-    },
-    {
-      "rank": 10,
+      "rank": 12,
       "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
       "playerName": "Balder Møller",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -144,7 +172,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "playerId": "jd7d9wqvtwwdbp1nkbhywfdb397zah02",
       "playerName": "Philip Quorning",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -158,7 +186,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "playerId": "jd7akq8ttckxec451xqmg43spn8e4fee",
       "playerName": "Daniel Gottschalk",
       "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
@@ -172,7 +200,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
       "playerName": "Andreas Schiøtt",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",

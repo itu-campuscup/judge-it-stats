@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:42:24.849Z",
+  "generatedAt": "2026-09-10T18:43:48.825Z",
   "allTimeTop5": {
     "Sail": [
       {
@@ -60,16 +60,16 @@
       },
       {
         "rank": 5,
-        "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
-        "playerName": "Hassel Lauritzen",
+        "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
+        "playerName": "Julie Pedersen",
         "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
         "teamName": "Pimp-n-strip",
         "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
         "heatNumber": 2,
         "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
-        "duration": 5841,
-        "formattedTime": "00:05:841",
-        "displayLabel": "+3.224s",
+        "duration": 4465,
+        "formattedTime": "00:04:464",
+        "displayLabel": "+1.848s",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
       }
     ],
@@ -104,6 +104,20 @@
       },
       {
         "rank": 3,
+        "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
+        "playerName": "Lauritz Jørgensen",
+        "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
+        "teamName": "Pimp-n-strip",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+        "heatNumber": 2,
+        "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+        "duration": 1494,
+        "formattedTime": "00:01:494",
+        "displayLabel": "+0.318s",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
+      },
+      {
+        "rank": 4,
         "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
         "playerName": "Julie Pedersen",
         "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -117,7 +131,7 @@
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
         "playerName": "Balder Møller",
         "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -129,25 +143,43 @@
         "formattedTime": "00:01:518",
         "displayLabel": "+0.343s",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
-      },
-      {
-        "rank": 5,
-        "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
-        "playerName": "Hassel Lauritzen",
-        "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
-        "teamName": "Pimp-n-strip",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
-        "heatNumber": 2,
-        "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
-        "duration": 1538,
-        "formattedTime": "00:01:538",
-        "displayLabel": "+0.362s",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
       }
     ],
     "Spin": [
       {
         "rank": 1,
+        "playerId": "jd7aap4karfyyd06hj7qzxjf0h8e491p",
+        "playerName": "Hannibal Søby",
+        "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
+        "teamName": "WeLoveBier",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+        "heatNumber": 2,
+        "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+        "duration": 1482,
+        "formattedTime": "00:01:482",
+        "displayLabel": "405 RPM",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+        "rpm": 404.85829959514166,
+        "displayRpmLabel": "405 RPM"
+      },
+      {
+        "rank": 2,
+        "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
+        "playerName": "Lauritz Jørgensen",
+        "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
+        "teamName": "Pimp-n-strip",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+        "heatNumber": 2,
+        "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+        "duration": 1499,
+        "formattedTime": "00:01:499",
+        "displayLabel": "-5 RPM",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+        "rpm": 400.266844563042,
+        "displayRpmLabel": "-5 RPM"
+      },
+      {
+        "rank": 3,
         "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
         "playerName": "Daniel Fich",
         "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
@@ -157,13 +189,13 @@
         "heatId": "j974ttg760bsv3cjg7e9a0sjks8e563y",
         "duration": 1560,
         "formattedTime": "00:01:560",
-        "displayLabel": "385 RPM",
+        "displayLabel": "-20 RPM",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0",
         "rpm": 384.6153846153846,
-        "displayRpmLabel": "385 RPM"
+        "displayRpmLabel": "-20 RPM"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
         "playerName": "Balder Møller",
         "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -173,13 +205,13 @@
         "heatId": "j974ttg760bsv3cjg7e9a0sjks8e563y",
         "duration": 1570,
         "formattedTime": "00:01:570",
-        "displayLabel": "-2 RPM",
+        "displayLabel": "-23 RPM",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
         "rpm": 382.16560509554137,
-        "displayRpmLabel": "-2 RPM"
+        "displayRpmLabel": "-23 RPM"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "playerId": "jd7ehsq6t581mfk7jff0x6b75x8e4n9y",
         "playerName": "Daniel Larsen",
         "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
@@ -189,41 +221,9 @@
         "heatId": "j974ttg760bsv3cjg7e9a0sjks8e563y",
         "duration": 1628,
         "formattedTime": "00:01:627",
-        "displayLabel": "-16 RPM",
+        "displayLabel": "-36 RPM",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0",
         "rpm": 368.5503685503686,
-        "displayRpmLabel": "-16 RPM"
-      },
-      {
-        "rank": 4,
-        "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
-        "playerName": "Lukas Pedersen",
-        "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
-        "teamName": "Pol-IT",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-        "heatNumber": 1,
-        "heatId": "j974ttg760bsv3cjg7e9a0sjks8e563y",
-        "duration": 1684,
-        "formattedTime": "00:01:683",
-        "displayLabel": "-28 RPM",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-        "rpm": 356.29453681710214,
-        "displayRpmLabel": "-28 RPM"
-      },
-      {
-        "rank": 5,
-        "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
-        "playerName": "Hugo Nørløv",
-        "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
-        "teamName": "WeLoveBier",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
-        "heatNumber": 2,
-        "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
-        "duration": 1721,
-        "formattedTime": "00:01:721",
-        "displayLabel": "-36 RPM",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
-        "rpm": 348.6345148169669,
         "displayRpmLabel": "-36 RPM"
       }
     ]

@@ -5,12 +5,17 @@
   "teamName": "WeLoveBier",
   "personalBests": {
     "Sail": {
-      "duration": 8485,
+      "duration": 5875,
       "heat": 2,
       "year": 2026
     },
     "Beer": {
       "duration": 1569,
+      "heat": 2,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 34606,
       "heat": 2,
       "year": 2026
     }
@@ -21,5 +26,5 @@
       2026
     ]
   },
-  "generatedAt": "2026-09-10T18:42:24.849Z"
+  "generatedAt": "2026-09-10T18:43:48.825Z"
 }

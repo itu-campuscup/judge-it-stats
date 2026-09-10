@@ -15,12 +15,16 @@
     {
       "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
       "playerName": "Julie Pedersen"
+    },
+    {
+      "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
+      "playerName": "Lauritz Jørgensen"
     }
   ],
   "bestTimes": {
-    "Sail": 6315.666666666667,
-    "Beer": 1499,
-    "Spin": 1867
+    "Sail": 4793,
+    "Beer": 1497.75,
+    "Spin": 9971.25
   },
   "radarData": [
     {
@@ -35,9 +39,9 @@
     },
     {
       "subject": "Spin",
-      "performance": 100,
+      "performance": 67,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-10T18:42:24.849Z"
+  "generatedAt": "2026-09-10T18:43:48.825Z"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T18:42:24.849Z",
+  "generatedAt": "2026-09-10T18:43:48.825Z",
   "teams": [
     {
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -19,12 +19,16 @@
         {
           "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
           "playerName": "Julie Pedersen"
+        },
+        {
+          "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
+          "playerName": "Lauritz Jørgensen"
         }
       ],
       "bestTimes": {
-        "Sail": 6315.666666666667,
-        "Beer": 1499,
-        "Spin": 1867
+        "Sail": 4793,
+        "Beer": 1497.75,
+        "Spin": 9971.25
       },
       "radarData": [
         {
@@ -39,7 +43,7 @@
         },
         {
           "subject": "Spin",
-          "performance": 100,
+          "performance": 67,
           "fullMark": 100
         }
       ]
@@ -61,12 +65,16 @@
         {
           "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
           "playerName": "Noah Tøttrup"
+        },
+        {
+          "playerId": "jd7aap4karfyyd06hj7qzxjf0h8e491p",
+          "playerName": "Hannibal Søby"
         }
       ],
       "bestTimes": {
-        "Sail": 6014.666666666667,
-        "Beer": 1636.3333333333333,
-        "Spin": 1785.5
+        "Sail": 5006.25,
+        "Beer": 1654.75,
+        "Spin": 9914.75
       },
       "radarData": [
         {
@@ -81,7 +89,7 @@
         },
         {
           "subject": "Spin",
-          "performance": 100,
+          "performance": 67,
           "fullMark": 100
         }
       ]

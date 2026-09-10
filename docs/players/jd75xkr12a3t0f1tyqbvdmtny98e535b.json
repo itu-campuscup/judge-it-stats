@@ -5,12 +5,17 @@
   "teamName": "Pimp-n-strip",
   "personalBests": {
     "Sail": {
-      "duration": 9146,
+      "duration": 4465,
       "heat": 2,
       "year": 2026
     },
     "Beer": {
       "duration": 1507,
+      "heat": 2,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 34652,
       "heat": 2,
       "year": 2026
     }
@@ -21,5 +26,5 @@
       2026
     ]
   },
-  "generatedAt": "2026-09-10T18:42:24.849Z"
+  "generatedAt": "2026-09-10T18:43:48.825Z"
 }
