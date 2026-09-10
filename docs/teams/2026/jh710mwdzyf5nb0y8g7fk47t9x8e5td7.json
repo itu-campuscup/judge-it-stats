@@ -1,0 +1,43 @@
+{
+  "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
+  "teamName": "Pimp-n-strip",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
+      "playerName": "Hassel Lauritzen"
+    },
+    {
+      "playerId": "jd72163197hg2zxe06qv4pzz2d8e4ndd",
+      "playerName": "Jamie Rosenqvist"
+    },
+    {
+      "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
+      "playerName": "Julie Pedersen"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 6315.666666666667,
+    "Beer": 1499,
+    "Spin": 1867
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 100,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 100,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 100,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-10T18:42:24.849Z"
+}

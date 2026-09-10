@@ -3,10 +3,23 @@
   "playerName": "Noah Tøttrup",
   "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
   "teamName": "WeLoveBier",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 8485,
+      "heat": 2,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 1569,
+      "heat": 2,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-10T18:16:17.252Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-10T18:42:24.849Z"
 }

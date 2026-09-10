@@ -1,0 +1,43 @@
+{
+  "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
+  "teamName": "WeLoveBier",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
+      "playerName": "Hugo Nørløv"
+    },
+    {
+      "playerId": "jd7ckfnvz5r8ddbc9h6sbr61f58e5b9z",
+      "playerName": "Sebastian Hasselström"
+    },
+    {
+      "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
+      "playerName": "Noah Tøttrup"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 6014.666666666667,
+    "Beer": 1636.3333333333333,
+    "Spin": 1785.5
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 100,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 100,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 100,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-10T18:42:24.849Z"
+}

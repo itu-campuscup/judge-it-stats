@@ -3,10 +3,28 @@
   "playerName": "Hassel Lauritzen",
   "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
   "teamName": "Pimp-n-strip",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 5841,
+      "heat": 2,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 1538,
+      "heat": 2,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 1958,
+      "heat": 2,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-10T18:16:17.252Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-10T18:42:24.849Z"
 }

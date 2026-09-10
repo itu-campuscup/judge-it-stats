@@ -1,0 +1,92 @@
+{
+  "timeType": "Sail",
+  "year": 2026,
+  "heat": 2,
+  "generatedAt": "2026-09-10T18:42:24.849Z",
+  "rankings": [
+    {
+      "rank": 1,
+      "playerId": "jd7ckfnvz5r8ddbc9h6sbr61f58e5b9z",
+      "playerName": "Sebastian Hasselström",
+      "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
+      "teamName": "WeLoveBier",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 3320,
+      "formattedTime": "00:03:319",
+      "displayLabel": "00:03:319",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+    },
+    {
+      "rank": 2,
+      "playerId": "jd72163197hg2zxe06qv4pzz2d8e4ndd",
+      "playerName": "Jamie Rosenqvist",
+      "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
+      "teamName": "Pimp-n-strip",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 3960,
+      "formattedTime": "00:03:960",
+      "displayLabel": "+0.640s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
+    },
+    {
+      "rank": 3,
+      "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
+      "playerName": "Hassel Lauritzen",
+      "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
+      "teamName": "Pimp-n-strip",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 5841,
+      "formattedTime": "00:05:841",
+      "displayLabel": "+2.521s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
+    },
+    {
+      "rank": 4,
+      "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
+      "playerName": "Hugo Nørløv",
+      "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
+      "teamName": "WeLoveBier",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 6239,
+      "formattedTime": "00:06:238",
+      "displayLabel": "+2.919s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+    },
+    {
+      "rank": 5,
+      "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
+      "playerName": "Noah Tøttrup",
+      "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
+      "teamName": "WeLoveBier",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 8485,
+      "formattedTime": "00:08:484",
+      "displayLabel": "+5.165s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+    },
+    {
+      "rank": 6,
+      "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
+      "playerName": "Julie Pedersen",
+      "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
+      "teamName": "Pimp-n-strip",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j978ez5am686r0b0cktkeynefx8e5x53",
+      "duration": 9146,
+      "formattedTime": "00:09:146",
+      "displayLabel": "+5.826s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
+    }
+  ]
+}
