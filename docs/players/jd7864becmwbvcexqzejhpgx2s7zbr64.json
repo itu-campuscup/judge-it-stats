@@ -5,26 +5,27 @@
   "teamName": "Mændfrøskorpset",
   "personalBests": {
     "Sail": {
-      "duration": 23352,
-      "heat": 15,
-      "year": 2025
+      "duration": 20673,
+      "heat": 1,
+      "year": 2026
     },
     "Beer": {
-      "duration": 10228,
-      "heat": 7,
-      "year": 2025
+      "duration": 1519,
+      "heat": 1,
+      "year": 2026
     },
     "Spin": {
-      "duration": 10428,
-      "heat": 12,
-      "year": 2025
+      "duration": 1570,
+      "heat": 1,
+      "year": 2026
     }
   },
   "participation": {
-    "totalHeats": 4,
+    "totalHeats": 5,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-09T19:07:12.149Z"
+  "generatedAt": "2026-09-10T16:43:12.615Z"
 }

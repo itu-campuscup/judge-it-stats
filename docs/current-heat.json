@@ -1,232 +1,187 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T19:07:12.149Z",
-  "sourceFetchedAt": "2026-09-09T19:07:12.148Z",
+  "generatedAt": "2026-09-10T16:43:12.615Z",
+  "sourceFetchedAt": "2026-09-10T16:43:12.614Z",
   "currentHeat": {
-    "id": "j97bremgcz1tfpdzx2vf8t5n7s8e3v9y",
+    "id": "j974ttg760bsv3cjg7e9a0sjks8e563y",
     "number": 1,
     "year": 2026,
-    "date": "2026-09-09",
-    "state": "completed",
-    "activeActivity": null
+    "date": "2026-09-10",
+    "state": "running",
+    "activeActivity": "sail"
   },
   "activities": {
     "beer": {
       "completed": [
         {
-          "id": "jn715acwg4sme1nzt7ygcyt7ps8e2xz5",
+          "id": "jn7dyrwr6q8e5j69t6r927fwxd8e4z9z",
           "rank": 1,
-          "playerName": "Person 2.1",
-          "teamName": "Team 2 2026 Test",
-          "durationMs": 1289,
-          "formattedTime": "00:01:288",
-          "displayLabel": "00:01:288",
-          "imageUrl": "https://http.cat/501"
+          "playerName": "Balder Møller",
+          "teamName": "Pol-IT",
+          "durationMs": 1519,
+          "formattedTime": "00:01:518",
+          "displayLabel": "00:01:518",
+          "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn7fcggddrskx5g88ahxs1kfq18e2h0m",
+          "id": "jn7d4daqeczr7m2h46j3zhfpen8e5zct",
           "rank": 2,
-          "playerName": "Person 2.3",
-          "teamName": "Team 2 2026 Test",
-          "durationMs": 1347,
-          "formattedTime": "00:01:347",
-          "displayLabel": "+0.058s",
-          "imageUrl": "https://http.cat/501"
+          "playerName": "Daniel Fich",
+          "teamName": "Daniel",
+          "durationMs": 1802,
+          "formattedTime": "00:01:802",
+          "displayLabel": "+0.283s",
+          "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn7cyqxf6wrck52yk7qv62h1c98e3ptz",
+          "id": "jn7e2crygza4sj3kyswxknh8058e4w5b",
           "rank": 3,
-          "playerName": "Person 2 Test",
-          "teamName": "Team 1 2026 Test",
-          "durationMs": 1355,
-          "formattedTime": "00:01:355",
-          "displayLabel": "+0.066s",
-          "imageUrl": "https://http.cat/201"
+          "playerName": "Daniel Gottschalk",
+          "teamName": "Daniel",
+          "durationMs": 5127,
+          "formattedTime": "00:05:126",
+          "displayLabel": "+3.608s",
+          "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn72x1pbgyjegayg90gjqqtqan8e3g2x",
+          "id": "jn73bgjgmgrban854aaqqmde4d8e44td",
           "rank": 4,
-          "playerName": "Person 4 Test",
-          "teamName": "Team 1 2026 Test",
-          "durationMs": 1393,
-          "formattedTime": "00:01:393",
-          "displayLabel": "+0.104s",
-          "imageUrl": "https://http.cat/100"
+          "playerName": "Philip Quorning",
+          "teamName": "Pol-IT",
+          "durationMs": 5532,
+          "formattedTime": "00:05:532",
+          "displayLabel": "+4.013s",
+          "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn75qcn8z72jwh6sh09aravx5d8e3txd",
+          "id": "jn78zvjydz7a6wpbhvcnz1v1m58e4q5p",
           "rank": 5,
-          "playerName": "Person 1 Test",
-          "teamName": "Team 1 2026 Test",
-          "durationMs": 2470,
-          "formattedTime": "00:02:470",
-          "displayLabel": "+1.181s",
-          "imageUrl": "https://http.cat/200"
+          "playerName": "Andreas Schiøtt",
+          "teamName": "Pol-IT",
+          "durationMs": 11835,
+          "formattedTime": "00:11:835",
+          "displayLabel": "+10.316s",
+          "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn74a3nfwqjmm0r8w4xjfp5f2n8e254g",
+          "id": "jn70pe9cgek53fxktbe4x8sy1n8e4pzt",
           "rank": 6,
-          "playerName": "Person 2.2",
-          "teamName": "Team 2 2026 Test",
-          "durationMs": 2483,
-          "formattedTime": "00:02:483",
-          "displayLabel": "+1.194s",
-          "imageUrl": "https://http.cat/501"
-        },
-        {
-          "id": "jn7fkp2ka1x5gc9zh92qncy7b58e3sjh",
-          "rank": 7,
-          "playerName": "Person 3 Test",
-          "teamName": "Team 1 2026 Test",
-          "durationMs": 6026,
-          "formattedTime": "00:06:025",
-          "displayLabel": "+4.737s",
-          "imageUrl": "https://http.cat/200"
-        },
-        {
-          "id": "jn77rweh11hnx23fyfsbhf18gn8e3654",
-          "rank": 8,
-          "playerName": "Person 2.3",
-          "teamName": "Team 2 2026 Test",
-          "durationMs": 6073,
-          "formattedTime": "00:06:073",
-          "displayLabel": "+4.784s",
-          "imageUrl": "https://http.cat/501"
+          "playerName": "Daniel Larsen",
+          "teamName": "Daniel",
+          "durationMs": 12635,
+          "formattedTime": "00:12:634",
+          "displayLabel": "+11.116s",
+          "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch"
         }
       ],
       "active": [],
-      "attemptsStarted": 8,
-      "attemptsCompleted": 8
+      "attemptsStarted": 6,
+      "attemptsCompleted": 6
     },
     "spin": {
       "completed": [
         {
-          "id": "jn74j4tybpxwc6g1y0hgzc9bf18e2fay",
+          "id": "jn76p1rteepe5ym53v8f19mha18e51kf",
           "rank": 1,
-          "playerName": "Person 4 Test",
-          "teamName": "Team 1 2026 Test",
-          "durationMs": 1403,
-          "formattedTime": "00:01:403",
-          "displayLabel": "428 RPM",
-          "rpm": 427.6550249465431,
-          "displayRpmLabel": "428 RPM",
-          "imageUrl": "https://http.cat/100"
+          "playerName": "Daniel Fich",
+          "teamName": "Daniel",
+          "durationMs": 1560,
+          "formattedTime": "00:01:560",
+          "displayLabel": "385 RPM",
+          "rpm": 384.6153846153846,
+          "displayRpmLabel": "385 RPM",
+          "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn79g9bh0kc7b1b0ds0yv3c8vx8e221j",
+          "id": "jn700y976ewcj4exms6fmyrwr98e5779",
           "rank": 2,
-          "playerName": "Person 2.1",
-          "teamName": "Team 2 2026 Test",
-          "durationMs": 1529,
-          "formattedTime": "00:01:528",
-          "displayLabel": "-35 RPM",
-          "rpm": 392.41334205362983,
-          "displayRpmLabel": "392 RPM",
-          "imageUrl": "https://http.cat/501"
-        },
-        {
-          "id": "jn7734v8v3rfa8gram8s8q7kkx8e2qvx",
-          "rank": 3,
-          "playerName": "Person 3 Test",
-          "teamName": "Team 1 2026 Test",
-          "durationMs": 1569,
-          "formattedTime": "00:01:569",
-          "displayLabel": "-45 RPM",
-          "rpm": 382.4091778202677,
+          "playerName": "Balder Møller",
+          "teamName": "Pol-IT",
+          "durationMs": 1570,
+          "formattedTime": "00:01:570",
+          "displayLabel": "-2 RPM",
+          "rpm": 382.16560509554137,
           "displayRpmLabel": "382 RPM",
-          "imageUrl": "https://http.cat/200"
+          "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn71qtf9kyqt3k2bqh2psq94y98e2srd",
+          "id": "jn709ehemj2qrjdmzwkgb511ws8e4t97",
+          "rank": 3,
+          "playerName": "Philip Quorning",
+          "teamName": "Pol-IT",
+          "durationMs": 3850,
+          "formattedTime": "00:03:850",
+          "displayLabel": "-229 RPM",
+          "rpm": 155.84415584415584,
+          "displayRpmLabel": "156 RPM",
+          "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch"
+        },
+        {
+          "id": "jn7b314y86wnczdc42rkh29dcs8e51qd",
           "rank": 4,
-          "playerName": "Person 2.3",
-          "teamName": "Team 2 2026 Test",
-          "durationMs": 1581,
-          "formattedTime": "00:01:581",
-          "displayLabel": "-48 RPM",
-          "rpm": 379.5066413662239,
-          "displayRpmLabel": "380 RPM",
-          "imageUrl": "https://http.cat/501"
+          "playerName": "Daniel Gottschalk",
+          "teamName": "Daniel",
+          "durationMs": 3851,
+          "formattedTime": "00:03:851",
+          "displayLabel": "-229 RPM",
+          "rpm": 155.80368735393407,
+          "displayRpmLabel": "156 RPM",
+          "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn74rahbfentyze81gw1jdrkm58e25sb",
+          "id": "jn73pev474y67rmgq7ee2y36gh8e449f",
           "rank": 5,
-          "playerName": "Person 2.2",
-          "teamName": "Team 2 2026 Test",
-          "durationMs": 1828,
-          "formattedTime": "00:01:828",
-          "displayLabel": "-99 RPM",
-          "rpm": 328.2275711159737,
-          "displayRpmLabel": "328 RPM",
-          "imageUrl": "https://http.cat/501"
+          "playerName": "Andreas Schiøtt",
+          "teamName": "Pol-IT",
+          "durationMs": 6477,
+          "formattedTime": "00:06:477",
+          "displayLabel": "-292 RPM",
+          "rpm": 92.63547938860583,
+          "displayRpmLabel": "93 RPM",
+          "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch"
         },
         {
-          "id": "jn70rhcbzg03bwvcc0kqpxtc9x8e352e",
+          "id": "jn7dgwv19g5kxat1nad8c02dc98e5ext",
           "rank": 6,
-          "playerName": "Person 1 Test",
-          "teamName": "Team 1 2026 Test",
-          "durationMs": 1865,
-          "formattedTime": "00:01:865",
-          "displayLabel": "-106 RPM",
-          "rpm": 321.71581769437,
-          "displayRpmLabel": "322 RPM",
-          "imageUrl": "https://http.cat/200"
-        },
-        {
-          "id": "jn71m988y57w9a2ywtrx09hm6x8e2qds",
-          "rank": 7,
-          "playerName": "Person 2 Test",
-          "teamName": "Team 1 2026 Test",
-          "durationMs": 2019,
-          "formattedTime": "00:02:019",
-          "displayLabel": "-130 RPM",
-          "rpm": 297.17682020802374,
-          "displayRpmLabel": "297 RPM",
-          "imageUrl": "https://http.cat/201"
-        },
-        {
-          "id": "jn7821j8ds0pvkafpdyz803d8n8e3wev",
-          "rank": 8,
-          "playerName": "Person 2.3",
-          "teamName": "Team 2 2026 Test",
-          "durationMs": 2032,
-          "formattedTime": "00:02:032",
-          "displayLabel": "-132 RPM",
-          "rpm": 295.2755905511811,
-          "displayRpmLabel": "295 RPM",
-          "imageUrl": "https://http.cat/501"
+          "playerName": "Daniel Larsen",
+          "teamName": "Daniel",
+          "durationMs": 6499,
+          "formattedTime": "00:06:498",
+          "displayLabel": "-292 RPM",
+          "rpm": 92.32189567625788,
+          "displayRpmLabel": "92 RPM",
+          "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch"
         }
       ],
       "active": [],
-      "attemptsStarted": 8,
-      "attemptsCompleted": 8
+      "attemptsStarted": 6,
+      "attemptsCompleted": 6
     },
     "sail": {
       "teams": [
         {
-          "teamId": "jh72baxba02rtxs14j42zhkx958dwv4c",
-          "teamName": "Team 2 2026 Test",
-          "imageUrl": "https://http.cat/501",
-          "sailLogCount": 16,
-          "handoffCount": 7,
-          "completedLegCount": 7,
-          "status": "finished",
-          "currentPlayerName": "Person 2.3",
-          "startedAt": "2026-09-09T18:41:59.828Z",
-          "elapsedMsAtSnapshot": 1512321,
-          "finishedAt": "2026-09-09T18:44:21.609Z"
+          "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
+          "teamName": "Daniel",
+          "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch",
+          "sailLogCount": 10,
+          "handoffCount": 4,
+          "completedLegCount": 4,
+          "status": "racing",
+          "currentPlayerName": "Daniel Fich",
+          "startedAt": "2026-09-10T16:38:50.830Z",
+          "elapsedMsAtSnapshot": 261785
         },
         {
-          "teamId": "jh78w23a6ketvfbaqzbqszspb58dx5b2",
-          "teamName": "Team 1 2026 Test",
-          "imageUrl": "https://http.cat/500",
-          "sailLogCount": 16,
-          "handoffCount": 7,
-          "completedLegCount": 7,
+          "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+          "teamName": "Pol-IT",
+          "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch",
+          "sailLogCount": 10,
+          "handoffCount": 4,
+          "completedLegCount": 4,
           "status": "racing",
-          "currentPlayerName": "Person 2 Test",
-          "startedAt": "2026-09-09T18:41:59.828Z",
-          "elapsedMsAtSnapshot": 1512321
+          "currentPlayerName": "Balder Møller",
+          "startedAt": "2026-09-10T16:38:50.830Z",
+          "elapsedMsAtSnapshot": 261785
         }
       ]
     }

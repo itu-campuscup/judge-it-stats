@@ -1,0 +1,30 @@
+{
+  "playerId": "jd7ehsq6t581mfk7jff0x6b75x8e4n9y",
+  "playerName": "Daniel Larsen",
+  "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
+  "teamName": "Daniel",
+  "personalBests": {
+    "Sail": {
+      "duration": 30128,
+      "heat": 1,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 12635,
+      "heat": 1,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 6499,
+      "heat": 1,
+      "year": 2026
+    }
+  },
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-10T16:43:12.615Z"
+}

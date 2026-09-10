@@ -1,0 +1,43 @@
+{
+  "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
+  "teamName": "Daniel",
+  "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7ehsq6t581mfk7jff0x6b75x8e4n9y",
+      "playerName": "Daniel Larsen"
+    },
+    {
+      "playerId": "jd7akq8ttckxec451xqmg43spn8e4fee",
+      "playerName": "Daniel Gottschalk"
+    },
+    {
+      "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
+      "playerName": "Daniel Fich"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 22362,
+    "Beer": 6521.333333333333,
+    "Spin": 3970
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 79,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 35,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 100,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-10T16:43:12.615Z"
+}

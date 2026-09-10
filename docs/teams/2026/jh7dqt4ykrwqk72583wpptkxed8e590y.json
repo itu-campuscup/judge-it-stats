@@ -1,0 +1,43 @@
+{
+  "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+  "teamName": "Pol-IT",
+  "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
+      "playerName": "Andreas Schiøtt"
+    },
+    {
+      "playerId": "jd7d9wqvtwwdbp1nkbhywfdb397zah02",
+      "playerName": "Philip Quorning"
+    },
+    {
+      "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+      "playerName": "Balder Møller"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 22302.666666666668,
+    "Beer": 6295.333333333333,
+    "Spin": 3965.6666666666665
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 81,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 35,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 100,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-10T16:43:12.615Z"
+}

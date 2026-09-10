@@ -1,48 +1,40 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T19:07:12.149Z",
+  "generatedAt": "2026-09-10T16:43:12.615Z",
   "teams": [
     {
-      "teamId": "jh78w23a6ketvfbaqzbqszspb58dx5b2",
-      "teamName": "Team 1 2026 Test",
-      "imageUrl": "https://http.cat/500",
+      "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+      "teamName": "Pol-IT",
+      "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch",
       "isOut": false,
       "players": [
         {
-          "playerId": "jd7cg3jyzwcs5h34dyfyx2kmv18dxsvr",
-          "playerName": "Person 3 Test",
-          "imageUrl": "https://http.cat/200"
+          "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
+          "playerName": "Andreas Schiøtt"
         },
         {
-          "playerId": "jd7dgazgy32m1rd22n29dwf9518dwtx8",
-          "playerName": "Person 4 Test",
-          "imageUrl": "https://http.cat/100"
+          "playerId": "jd7d9wqvtwwdbp1nkbhywfdb397zah02",
+          "playerName": "Philip Quorning"
         },
         {
-          "playerId": "jd79qvxp5prbyhhz3wt0war9qd8dxg1w",
-          "playerName": "Person 1 Test",
-          "imageUrl": "https://http.cat/200"
-        },
-        {
-          "playerId": "jd78g09x7des7zhcy41zhc5sbx8dxqq9",
-          "playerName": "Person 2 Test",
-          "imageUrl": "https://http.cat/201"
+          "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+          "playerName": "Balder Møller"
         }
       ],
       "bestTimes": {
-        "Sail": 5685.75,
-        "Beer": 2811,
-        "Spin": 1714
+        "Sail": 22302.666666666668,
+        "Beer": 6295.333333333333,
+        "Spin": 3965.6666666666665
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 100,
+          "performance": 81,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 100,
+          "performance": 35,
           "fullMark": 100
         },
         {
@@ -53,38 +45,38 @@
       ]
     },
     {
-      "teamId": "jh72baxba02rtxs14j42zhkx958dwv4c",
-      "teamName": "Team 2 2026 Test",
-      "imageUrl": "https://http.cat/501",
+      "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
+      "teamName": "Daniel",
+      "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch",
       "isOut": false,
       "players": [
         {
-          "playerId": "jd78xrgwndvxzvh443t3c379ps8dx8r2",
-          "playerName": "Person 2.3"
+          "playerId": "jd7ehsq6t581mfk7jff0x6b75x8e4n9y",
+          "playerName": "Daniel Larsen"
         },
         {
-          "playerId": "jd73m73tnhb9kzefnkkxa9b9418dwq6y",
-          "playerName": "Person 2.1"
+          "playerId": "jd7akq8ttckxec451xqmg43spn8e4fee",
+          "playerName": "Daniel Gottschalk"
         },
         {
-          "playerId": "jd75bmq2eecatd4dgfh558qzax8dwg5w",
-          "playerName": "Person 2.2"
+          "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
+          "playerName": "Daniel Fich"
         }
       ],
       "bestTimes": {
-        "Sail": 3374,
-        "Beer": 1706.3333333333333,
-        "Spin": 1646
+        "Sail": 22362,
+        "Beer": 6521.333333333333,
+        "Spin": 3970
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 100,
+          "performance": 79,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 100,
+          "performance": 35,
           "fullMark": 100
         },
         {
