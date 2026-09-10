@@ -1,8 +1,8 @@
 {
   "playerId": "jd7d9wqvtwwdbp1nkbhywfdb397zah02",
   "playerName": "Philip Quorning",
-  "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
-  "teamName": "Pol-IT",
+  "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
+  "teamName": "Master Baiters",
   "personalBests": {
     "Sail": {
       "duration": 13941,
@@ -15,17 +15,16 @@
       "year": 2025
     },
     "Spin": {
-      "duration": 3850,
-      "heat": 1,
-      "year": 2026
+      "duration": 7865,
+      "heat": 10,
+      "year": 2025
     }
   },
   "participation": {
-    "totalHeats": 5,
+    "totalHeats": 4,
     "years": [
-      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-10T18:43:48.825Z"
+  "generatedAt": "2026-09-10T18:47:17.553Z"
 }
