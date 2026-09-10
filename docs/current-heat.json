@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T18:11:44.536Z",
-  "sourceFetchedAt": "2026-09-10T18:11:44.536Z",
+  "generatedAt": "2026-09-10T18:16:17.252Z",
+  "sourceFetchedAt": "2026-09-10T18:16:17.251Z",
   "currentHeat": {
     "id": "j974ttg760bsv3cjg7e9a0sjks8e563y",
     "number": 1,
@@ -213,7 +213,7 @@
           "status": "finished",
           "currentPlayerName": "Daniel Larsen",
           "startedAt": "2026-09-10T16:38:50.830Z",
-          "elapsedMsAtSnapshot": 5573706,
+          "elapsedMsAtSnapshot": 5846422,
           "finishedAt": "2026-09-10T16:45:02.979Z"
         },
         {
@@ -226,7 +226,7 @@
           "status": "racing",
           "currentPlayerName": "Lukas Pedersen",
           "startedAt": "2026-09-10T16:38:50.830Z",
-          "elapsedMsAtSnapshot": 5573706
+          "elapsedMsAtSnapshot": 5846422
         }
       ]
     }
