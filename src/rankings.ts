@@ -113,10 +113,13 @@ export function getPlayerImageUrl(
   playerId: string,
   players: Player[],
   teams: Team[],
+  teamId?: string,
 ): string {
   const player = players.find((p) => p._id === playerId);
   if (player?.image_url) return player.image_url;
-  const team = getPlayerTeam(playerId, teams);
+  const team = teamId
+    ? teams.find((candidate) => candidate._id === teamId)
+    : getPlayerTeam(playerId, teams);
   return team?.image_url || "";
 }
 
@@ -154,7 +157,7 @@ export function generateRankings(
         duration: actualTime,
         formattedTime: formatTime(actualTime),
         displayLabel,
-        imageUrl: getPlayerImageUrl(entry.playerId, players, teams),
+        imageUrl: getPlayerImageUrl(entry.playerId, players, teams, entry.teamId),
         rpm: calcRPM(actualTime),
         displayRpmLabel: displayLabel,
       };
@@ -179,7 +182,7 @@ export function generateRankings(
       duration: actualTime,
       formattedTime: formatTime(actualTime),
       displayLabel,
-      imageUrl: getPlayerImageUrl(entry.playerId, players, teams),
+      imageUrl: getPlayerImageUrl(entry.playerId, players, teams, entry.teamId),
     };
   });
 
