@@ -322,13 +322,37 @@ export function generateTeamProfiles(
   });
 }
 
+type DatedTeamParticipation = {
+  teamId: string;
+  timestamp: number;
+};
+
+function getLatestTeamParticipations(timeLogs: TimeLog[]): Map<string, DatedTeamParticipation> {
+  const latestByPlayer = new Map<string, DatedTeamParticipation>();
+  for (const log of timeLogs) {
+    if (!log.team_id || !log.time) continue;
+    const timestamp = Date.parse(log.time);
+    if (!Number.isFinite(timestamp)) continue;
+
+    const current = latestByPlayer.get(log.player_id);
+    if (current && timestamp <= current.timestamp) continue;
+    latestByPlayer.set(log.player_id, { teamId: log.team_id, timestamp });
+  }
+  return latestByPlayer;
+}
+
 export function generatePlayerProfiles(
   data: { players: Player[]; teams: Team[]; heats: Heat[]; timeTypes: TimeType[]; timeLogs: TimeLog[] },
 ): PlayerProfile[] {
   const { players, teams, heats, timeTypes, timeLogs } = data;
+  const latestTeamParticipations = getLatestTeamParticipations(timeLogs);
+  const teamsById = new Map(teams.map((team) => [team._id, team]));
 
   return players.map((player) => {
-    const team = getPlayerTeam(player._id, teams);
+    const datedParticipation = latestTeamParticipations.get(player._id);
+    const team = datedParticipation
+      ? teamsById.get(datedParticipation.teamId)
+      : getPlayerTeam(player._id, teams);
     const personalBests: PlayerProfile["personalBests"] = {};
     const participatedHeats = new Set<string>();
     const participatedYears = new Set<number>();

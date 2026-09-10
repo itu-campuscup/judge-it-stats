@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test";
-import { generateRankings } from "./rankings";
-import type { Heat, Player, Team, TimeEntry, TimeType } from "./types";
+import { generatePlayerProfiles, generateRankings } from "./rankings";
+import type { Heat, Player, Team, TimeEntry, TimeLog, TimeType } from "./types";
 
 const players: Player[] = [
   { _id: "player-1", name: "Ada", _creationTime: 1 },
@@ -36,6 +36,29 @@ const timeType: TimeType = {
   time_eng: "Beer",
   _creationTime: 1,
 };
+
+describe("player profiles", () => {
+  test("uses latest participation rather than the player's previous roster", () => {
+    const timeLogs: TimeLog[] = [
+      ["current-team", "2026-09-10T12:00:00.000Z"],
+      ["previous-team", "2025-09-10T12:00:00.000Z"],
+    ].map(([teamId, time]) => ({
+      _id: teamId,
+      player_id: "player-1",
+      team_id: teamId,
+      heat_id: "current-heat",
+      time_type_id: timeType._id,
+      time_seconds: 0,
+      time,
+      _creationTime: 1,
+    }));
+    const [profile] = generatePlayerProfiles({
+      players, teams, heats, timeTypes: [], timeLogs,
+    });
+
+    expect(profile.teamId).toBe("current-team");
+  });
+});
 
 describe("ranking images", () => {
   test("falls back to the team recorded on the ranked result", () => {

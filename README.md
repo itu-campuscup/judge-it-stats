@@ -37,6 +37,8 @@ docs/
   players/{playerId}.json        ← player personal bests & participation
 ```
 
+Player profiles use the team from the player's latest dated participation, independently of their personal-best year. Players without dated team participation retain the roster fallback.
+
 ## Setup
 
 ### 1. Clone and install
