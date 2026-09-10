@@ -23,6 +23,13 @@ const teams: Team[] = [
 ];
 const heats: Heat[] = [
   {
+    _id: "previous-heat",
+    heat: 1,
+    date: "2025-09-10",
+    is_current: false,
+    _creationTime: 1,
+  },
+  {
     _id: "current-heat",
     heat: 1,
     date: "2026-09-10",
@@ -40,18 +47,27 @@ const timeType: TimeType = {
 describe("player profiles", () => {
   test("uses latest participation rather than the player's previous roster", () => {
     const timeLogs: TimeLog[] = [
-      ["current-team", "2026-09-10T12:00:00.000Z"],
-      ["previous-team", "2025-09-10T12:00:00.000Z"],
-    ].map(([teamId, time]) => ({
-      _id: teamId,
-      player_id: "player-1",
-      team_id: teamId,
-      heat_id: "current-heat",
-      time_type_id: timeType._id,
-      time_seconds: 0,
-      time,
-      _creationTime: 1,
-    }));
+      {
+        _id: "current-log",
+        player_id: "player-1",
+        team_id: "current-team",
+        heat_id: "current-heat",
+        time_type_id: timeType._id,
+        time_seconds: 0,
+        time: "08:00:00.000",
+        _creationTime: 2,
+      },
+      {
+        _id: "previous-log",
+        player_id: "player-1",
+        team_id: "previous-team",
+        heat_id: "previous-heat",
+        time_type_id: timeType._id,
+        time_seconds: 0,
+        time: "20:00:00.000",
+        _creationTime: 1,
+      },
+    ];
     const [profile] = generatePlayerProfiles({
       players, teams, heats, timeTypes: [], timeLogs,
     });

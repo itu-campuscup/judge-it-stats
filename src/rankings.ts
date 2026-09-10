@@ -324,19 +324,37 @@ export function generateTeamProfiles(
 
 type DatedTeamParticipation = {
   teamId: string;
-  timestamp: number;
+  heatDate: number;
+  creationTime: number;
 };
 
-function getLatestTeamParticipations(timeLogs: TimeLog[]): Map<string, DatedTeamParticipation> {
+function getLatestTeamParticipations(
+  timeLogs: TimeLog[],
+  heats: Heat[],
+): Map<string, DatedTeamParticipation> {
+  const heatDates = new Map(
+    heats.map((heat) => [heat._id, Date.parse(heat.date)]),
+  );
   const latestByPlayer = new Map<string, DatedTeamParticipation>();
   for (const log of timeLogs) {
-    if (!log.team_id || !log.time) continue;
-    const timestamp = Date.parse(log.time);
-    if (!Number.isFinite(timestamp)) continue;
+    if (!log.team_id) continue;
+    const heatDate = heatDates.get(log.heat_id);
+    if (heatDate === undefined || !Number.isFinite(heatDate)) continue;
 
     const current = latestByPlayer.get(log.player_id);
-    if (current && timestamp <= current.timestamp) continue;
-    latestByPlayer.set(log.player_id, { teamId: log.team_id, timestamp });
+    if (
+      current &&
+      (heatDate < current.heatDate ||
+        (heatDate === current.heatDate &&
+          log._creationTime <= current.creationTime))
+    ) {
+      continue;
+    }
+    latestByPlayer.set(log.player_id, {
+      teamId: log.team_id,
+      heatDate,
+      creationTime: log._creationTime,
+    });
   }
   return latestByPlayer;
 }
@@ -345,7 +363,7 @@ export function generatePlayerProfiles(
   data: { players: Player[]; teams: Team[]; heats: Heat[]; timeTypes: TimeType[]; timeLogs: TimeLog[] },
 ): PlayerProfile[] {
   const { players, teams, heats, timeTypes, timeLogs } = data;
-  const latestTeamParticipations = getLatestTeamParticipations(timeLogs);
+  const latestTeamParticipations = getLatestTeamParticipations(timeLogs, heats);
   const teamsById = new Map(teams.map((team) => [team._id, team]));
 
   return players.map((player) => {
