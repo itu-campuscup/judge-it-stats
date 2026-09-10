@@ -1,7 +1,7 @@
 {
   "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
   "teamName": "Pol-IT",
-  "imageUrl": "https://lh3.google.com/u/0/d/1_1V8A6m1P5kuqSP_QQdX5cO_EbSBi1G7=w1940-h2196-iv1?auditContext=prefetch",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
   "isOut": false,
   "players": [
     {
@@ -15,22 +15,26 @@
     {
       "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
       "playerName": "Balder Møller"
+    },
+    {
+      "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
+      "playerName": "Lukas Pedersen"
     }
   ],
   "bestTimes": {
-    "Sail": 22302.666666666668,
-    "Beer": 6295.333333333333,
-    "Spin": 3965.6666666666665
+    "Sail": 14571.5,
+    "Beer": 5444,
+    "Spin": 3395.25
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 81,
+      "performance": 86,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 35,
+      "performance": 70,
       "fullMark": 100
     },
     {
@@ -39,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-10T16:43:12.615Z"
+  "generatedAt": "2026-09-10T17:30:45.394Z"
 }

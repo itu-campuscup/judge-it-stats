@@ -1,7 +1,7 @@
 {
   "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
   "teamName": "Daniel",
-  "imageUrl": "https://lh3.google.com/u/0/d/1uJWCL-muz5QcRwXOtSzItTsLkhyLwv6k=w1940-h2196-iv1?auditContext=prefetch",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0",
   "isOut": false,
   "players": [
     {
@@ -18,19 +18,19 @@
     }
   ],
   "bestTimes": {
-    "Sail": 22362,
-    "Beer": 6521.333333333333,
-    "Spin": 3970
+    "Sail": 9400.666666666666,
+    "Beer": 3228.3333333333335,
+    "Spin": 2346.3333333333335
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 79,
+      "performance": 99,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 35,
+      "performance": 94,
       "fullMark": 100
     },
     {
@@ -39,5 +39,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-10T16:43:12.615Z"
+  "generatedAt": "2026-09-10T17:30:45.394Z"
 }
