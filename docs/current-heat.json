@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T12:08:51.221Z",
-  "sourceFetchedAt": "2026-09-11T12:08:51.221Z",
+  "generatedAt": "2026-09-11T12:11:12.670Z",
+  "sourceFetchedAt": "2026-09-11T12:11:12.669Z",
   "currentHeat": {
     "id": "j977jesvvf6vrzj2383gs2y4t98e6x67",
     "number": 1,
@@ -21,7 +21,7 @@
           "durationMs": 7948,
           "formattedTime": "00:07:948",
           "displayLabel": "00:07:948",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch"
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
         },
         {
           "id": "jn77f041j7mxfj0ehw9d0ts3wx8e76sb",
@@ -31,7 +31,7 @@
           "durationMs": 11979,
           "formattedTime": "00:11:978",
           "displayLabel": "+4.031s",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch"
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
         },
         {
           "id": "jn785km3vjd7hj9xms09fwb3w58e73vg",
@@ -41,7 +41,7 @@
           "durationMs": 12945,
           "formattedTime": "00:12:945",
           "displayLabel": "+4.997s",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch"
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
         },
         {
           "id": "jn76h3yrqmfqfaqpn3jg7cwd8s8e7vka",
@@ -71,7 +71,7 @@
           "durationMs": 30132,
           "formattedTime": "00:30:132",
           "displayLabel": "+22.184s",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch"
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
         },
         {
           "id": "jn76pem10qe2p3b5bymzn1xsy18e7v4j",
@@ -110,7 +110,7 @@
           "displayLabel": "74 RPM",
           "rpm": 74.32181345224822,
           "displayRpmLabel": "74 RPM",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch"
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
         },
         {
           "id": "jn7amecrk26h6r3ksaa4sg66f18e6h66",
@@ -158,7 +158,7 @@
           "displayLabel": "-28 RPM",
           "rpm": 46.22496147919876,
           "displayRpmLabel": "46 RPM",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch"
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
         },
         {
           "id": "jn78vfdvv5vzz0kh860ex2mzg18e7ddd",
@@ -170,11 +170,23 @@
           "displayLabel": "-30 RPM",
           "rpm": 44.345898004434595,
           "displayRpmLabel": "44 RPM",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch"
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+        },
+        {
+          "id": "jn77c75r3tz43c4krnksyarpe18e6f5n",
+          "rank": 7,
+          "playerName": "Lauritz Jørgensen",
+          "teamName": "Pimp-n-strip",
+          "durationMs": 13618,
+          "formattedTime": "00:13:618",
+          "displayLabel": "-30 RPM",
+          "rpm": 44.05933323542371,
+          "displayRpmLabel": "44 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
         },
         {
           "id": "jn7818dc7p39ay7h7x2d22ry3n8e6fnk",
-          "rank": 7,
+          "rank": 8,
           "playerName": "Allan Petersen",
           "teamName": "Team ninjago",
           "durationMs": 18409,
@@ -182,20 +194,12 @@
           "displayLabel": "-42 RPM",
           "rpm": 32.59275354446195,
           "displayRpmLabel": "33 RPM",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch"
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
         }
       ],
-      "active": [
-        {
-          "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
-          "playerName": "Lauritz Jørgensen",
-          "teamName": "Pimp-n-strip",
-          "startedAt": "2026-09-11T12:08:42.474Z",
-          "elapsedMsAtSnapshot": 8747
-        }
-      ],
+      "active": [],
       "attemptsStarted": 8,
-      "attemptsCompleted": 7
+      "attemptsCompleted": 8
     },
     "sail": {
       "teams": [
@@ -203,25 +207,25 @@
           "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
           "teamName": "Pimp-n-strip",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
-          "sailLogCount": 14,
-          "handoffCount": 6,
-          "completedLegCount": 6,
+          "sailLogCount": 16,
+          "handoffCount": 7,
+          "completedLegCount": 7,
           "status": "racing",
           "currentPlayerName": "Lauritz Jørgensen",
           "startedAt": "2026-09-11T12:01:14.459Z",
-          "elapsedMsAtSnapshot": 456762
+          "elapsedMsAtSnapshot": 598211
         },
         {
           "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
           "teamName": "Team ninjago",
-          "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
           "sailLogCount": 16,
           "handoffCount": 7,
           "completedLegCount": 7,
           "status": "finished",
           "currentPlayerName": "Nikolai Patino",
           "startedAt": "2026-09-11T12:01:14.459Z",
-          "elapsedMsAtSnapshot": 456762,
+          "elapsedMsAtSnapshot": 598211,
           "finishedAt": "2026-09-11T12:08:06.922Z"
         }
       ]

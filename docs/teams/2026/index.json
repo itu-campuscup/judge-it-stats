@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T12:08:51.221Z",
+  "generatedAt": "2026-09-11T12:11:12.670Z",
   "teams": [
     {
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
       "teamName": "Team ninjago",
-      "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
       "isOut": false,
       "players": [
         {
@@ -72,9 +72,9 @@
         }
       ],
       "bestTimes": {
-        "Sail": 35295.25,
+        "Sail": 31832.25,
         "Beer": 30281.5,
-        "Spin": 10936
+        "Spin": 11606.5
       },
       "radarData": [
         {
@@ -89,7 +89,7 @@
         },
         {
           "subject": "Spin",
-          "performance": 60,
+          "performance": 56,
           "fullMark": 100
         }
       ]
