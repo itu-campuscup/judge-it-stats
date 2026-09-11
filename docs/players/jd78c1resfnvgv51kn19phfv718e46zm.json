@@ -3,10 +3,28 @@
   "playerName": "Thor Koefoed",
   "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
   "teamName": "THE WET WARRIORS",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 23848,
+      "heat": 5,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 16159,
+      "heat": 5,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 12056,
+      "heat": 5,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T12:42:36.295Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T12:50:20.457Z"
 }

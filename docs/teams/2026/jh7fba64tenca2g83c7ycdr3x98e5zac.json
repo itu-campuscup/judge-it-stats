@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
+  "teamName": "Team Worldwide",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7b90d2ebpvgrh1nq6s08t4598e47rw",
+      "playerName": "Christian Hetling"
+    },
+    {
+      "playerId": "jd7ch62k20ns97aghp0tdsffa18e4pgj",
+      "playerName": "Viggo Gascou"
+    },
+    {
+      "playerId": "jd7dtgcc0ccd60dzm7032zdqv18e42d9",
+      "playerName": "Marie Petersen"
+    },
+    {
+      "playerId": "jd77s93hsj5a5ng9nba410kwp18e5ssd",
+      "playerName": "Alexander Winther"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 26735.5,
+    "Beer": 14117,
+    "Spin": 9319.75
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 35,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 15,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 71,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T12:50:20.457Z"
+}

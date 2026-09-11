@@ -1,8 +1,8 @@
 {
   "playerId": "jd7ar0jqse4gfcc83adm1z1th17zawba",
   "playerName": "Tobias Hoffmann",
-  "teamId": "jh7eesykxkx6d1qk2p837bh3rh7zay8h",
-  "teamName": "The Wet Warriors of DRby River",
+  "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
+  "teamName": "THE WET WARRIORS",
   "personalBests": {
     "Sail": {
       "duration": 15825,
@@ -10,21 +10,22 @@
       "year": 2025
     },
     "Beer": {
-      "duration": 11251,
-      "heat": 7,
-      "year": 2025
+      "duration": 10230,
+      "heat": 5,
+      "year": 2026
     },
     "Spin": {
-      "duration": 12408,
-      "heat": 7,
-      "year": 2025
+      "duration": 10246,
+      "heat": 5,
+      "year": 2026
     }
   },
   "participation": {
-    "totalHeats": 3,
+    "totalHeats": 4,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-11T12:42:36.295Z"
+  "generatedAt": "2026-09-11T12:50:20.457Z"
 }

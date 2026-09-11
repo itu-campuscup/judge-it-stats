@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "generatedAt": "2026-09-11T12:42:36.295Z",
+  "generatedAt": "2026-09-11T12:50:20.457Z",
   "top5": {
     "Sail": [
       {
@@ -61,17 +61,17 @@
       },
       {
         "rank": 5,
-        "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
-        "playerName": "Hugo Nørløv",
-        "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
-        "teamName": "WeLoveBier",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
-        "heatNumber": 4,
-        "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
-        "duration": 21867,
-        "formattedTime": "00:21:867",
-        "displayLabel": "+8.971s",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
+        "playerId": "jd7614pg53xtxqwpnd4k4gmvds8e535s",
+        "playerName": "Louie Choheiber",
+        "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
+        "teamName": "THE WET WARRIORS",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0",
+        "heatNumber": 5,
+        "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
+        "duration": 21115,
+        "formattedTime": "00:21:114",
+        "displayLabel": "+8.219s",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
       }
     ],
     "Beer": [
@@ -105,6 +105,20 @@
       },
       {
         "rank": 3,
+        "playerId": "jd7614pg53xtxqwpnd4k4gmvds8e535s",
+        "playerName": "Louie Choheiber",
+        "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
+        "teamName": "THE WET WARRIORS",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0",
+        "heatNumber": 5,
+        "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
+        "duration": 7923,
+        "formattedTime": "00:07:923",
+        "displayLabel": "+1.539s",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
+      },
+      {
+        "rank": 4,
         "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
         "playerName": "Sebastian Howard",
         "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -118,7 +132,7 @@
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
         "playerName": "Lukas Pedersen",
         "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -130,20 +144,6 @@
         "formattedTime": "00:08:736",
         "displayLabel": "+2.352s",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
-      },
-      {
-        "rank": 5,
-        "playerId": "jd765bxwwr3085eh53vh7z5pb58e5wsy",
-        "playerName": "Alexander Hansen",
-        "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
-        "teamName": "Beerwatch",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
-        "heatNumber": 3,
-        "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
-        "duration": 9601,
-        "formattedTime": "00:09:601",
-        "displayLabel": "+3.217s",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
       }
     ],
     "Spin": [
@@ -181,6 +181,22 @@
       },
       {
         "rank": 3,
+        "playerId": "jd77s93hsj5a5ng9nba410kwp18e5ssd",
+        "playerName": "Alexander Winther",
+        "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
+        "teamName": "Team Worldwide",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
+        "heatNumber": 5,
+        "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
+        "duration": 7953,
+        "formattedTime": "00:07:953",
+        "displayLabel": "-40 RPM",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
+        "rpm": 75.44322897019993,
+        "displayRpmLabel": "-40 RPM"
+      },
+      {
+        "rank": 4,
         "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
         "playerName": "Nikolai Patino",
         "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -196,36 +212,20 @@
         "displayRpmLabel": "-41 RPM"
       },
       {
-        "rank": 4,
-        "playerId": "jd76zar0spjegr4dsye6q4edx98e54e6",
-        "playerName": "Frederik Petersen",
-        "teamId": "jh71pz24f42bpf8551f274beex8e5227",
-        "teamName": "Sea Men",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0",
-        "heatNumber": 3,
-        "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
-        "duration": 8381,
-        "formattedTime": "00:08:381",
-        "displayLabel": "-44 RPM",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0",
-        "rpm": 71.59050232669132,
-        "displayRpmLabel": "-44 RPM"
-      },
-      {
         "rank": 5,
-        "playerId": "jd7dqbqmn7d3jerkgqt6cpwmjh8e7zc5",
-        "playerName": "Niels Laier Jensen",
-        "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
-        "teamName": "Pol-IT",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-        "heatNumber": 4,
-        "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
-        "duration": 8465,
-        "formattedTime": "00:08:464",
-        "displayLabel": "-44 RPM",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-        "rpm": 70.88009450679267,
-        "displayRpmLabel": "-44 RPM"
+        "playerId": "jd7b90d2ebpvgrh1nq6s08t4598e47rw",
+        "playerName": "Christian Hetling",
+        "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
+        "teamName": "Team Worldwide",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
+        "heatNumber": 5,
+        "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
+        "duration": 8142,
+        "formattedTime": "00:08:141",
+        "displayLabel": "-41 RPM",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
+        "rpm": 73.69196757553428,
+        "displayRpmLabel": "-41 RPM"
       }
     ]
   }

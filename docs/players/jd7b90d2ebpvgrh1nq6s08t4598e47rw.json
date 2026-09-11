@@ -3,10 +3,28 @@
   "playerName": "Christian Hetling",
   "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
   "teamName": "Team Worldwide",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 22557,
+      "heat": 5,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 16158,
+      "heat": 5,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 8142,
+      "heat": 5,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T12:42:36.295Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T12:50:20.457Z"
 }

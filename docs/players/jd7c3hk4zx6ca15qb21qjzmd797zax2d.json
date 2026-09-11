@@ -1,25 +1,31 @@
 {
   "playerId": "jd7c3hk4zx6ca15qb21qjzmd797zax2d",
   "playerName": "Malthe Nielsen",
-  "teamId": "jh7eesykxkx6d1qk2p837bh3rh7zay8h",
-  "teamName": "The Wet Warriors of DRby River",
+  "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
+  "teamName": "THE WET WARRIORS",
   "personalBests": {
     "Sail": {
-      "duration": 34179,
-      "heat": 7,
-      "year": 2025
+      "duration": 26366,
+      "heat": 5,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 47657,
+      "heat": 5,
+      "year": 2026
     },
     "Spin": {
-      "duration": 13938,
-      "heat": 7,
-      "year": 2025
+      "duration": 12385,
+      "heat": 5,
+      "year": 2026
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-11T12:42:36.295Z"
+  "generatedAt": "2026-09-11T12:50:20.457Z"
 }

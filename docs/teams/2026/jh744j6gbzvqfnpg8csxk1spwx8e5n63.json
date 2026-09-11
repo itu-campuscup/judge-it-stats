@@ -1,0 +1,47 @@
+{
+  "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
+  "teamName": "THE WET WARRIORS",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7614pg53xtxqwpnd4k4gmvds8e535s",
+      "playerName": "Louie Choheiber"
+    },
+    {
+      "playerId": "jd78c1resfnvgv51kn19phfv718e46zm",
+      "playerName": "Thor Koefoed"
+    },
+    {
+      "playerId": "jd7ar0jqse4gfcc83adm1z1th17zawba",
+      "playerName": "Tobias Hoffmann"
+    },
+    {
+      "playerId": "jd7c3hk4zx6ca15qb21qjzmd797zax2d",
+      "playerName": "Malthe Nielsen"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 24182.25,
+    "Beer": 20492.25,
+    "Spin": 10946.75
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 26,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 60,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T12:50:20.457Z"
+}
