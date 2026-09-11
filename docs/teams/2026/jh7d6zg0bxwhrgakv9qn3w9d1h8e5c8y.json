@@ -22,7 +22,7 @@
     }
   ],
   "bestTimes": {
-    "Sail": 24550.25,
+    "Sail": 25528,
     "Beer": 19074.25,
     "Spin": 9555
   },
@@ -34,7 +34,7 @@
     },
     {
       "subject": "Sail",
-      "performance": 25,
+      "performance": 20,
       "fullMark": 100
     },
     {
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T13:38:35.405Z"
+  "generatedAt": "2026-09-11T13:49:50.534Z"
 }

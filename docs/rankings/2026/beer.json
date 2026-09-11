@@ -1,10 +1,24 @@
 {
   "timeType": "Beer",
   "year": 2026,
-  "generatedAt": "2026-09-11T13:38:35.405Z",
+  "generatedAt": "2026-09-11T13:49:50.534Z",
   "rankings": [
     {
       "rank": 1,
+      "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
+      "playerName": "Sebastian Howard",
+      "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+      "teamName": "Team ninjago",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
+      "heatNumber": 9,
+      "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
+      "duration": 2268,
+      "formattedTime": "00:02:267",
+      "displayLabel": "00:02:267",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+    },
+    {
+      "rank": 2,
       "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
       "playerName": "Andreas Schiøtt",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -14,11 +28,11 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 6384,
       "formattedTime": "00:06:384",
-      "displayLabel": "00:06:384",
+      "displayLabel": "+4.116s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "playerId": "jd74dnwvrymakrkzxbq2hcx1j18e4a3q",
       "playerName": "Tómas Stefánsson",
       "teamId": "jh71pz24f42bpf8551f274beex8e5227",
@@ -28,11 +42,11 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 6482,
       "formattedTime": "00:06:482",
-      "displayLabel": "+0.098s",
+      "displayLabel": "+4.214s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "playerId": "jd7ez8z72meys0m9d6ffb85cax8e4n68",
       "playerName": "Julia Biljak",
       "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
@@ -42,11 +56,11 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 6801,
       "formattedTime": "00:06:801",
-      "displayLabel": "+0.417s",
+      "displayLabel": "+4.533s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "playerId": "jd7614pg53xtxqwpnd4k4gmvds8e535s",
       "playerName": "Louie Choheiber",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -56,22 +70,8 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 7923,
       "formattedTime": "00:07:923",
-      "displayLabel": "+1.539s",
+      "displayLabel": "+5.655s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-    },
-    {
-      "rank": 5,
-      "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
-      "playerName": "Sebastian Howard",
-      "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
-      "teamName": "Team ninjago",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
-      "heatNumber": 1,
-      "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
-      "duration": 7948,
-      "formattedTime": "00:07:948",
-      "displayLabel": "+1.564s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
       "rank": 6,
@@ -84,7 +84,7 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 8736,
       "formattedTime": "00:08:736",
-      "displayLabel": "+2.352s",
+      "displayLabel": "+6.468s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
@@ -98,7 +98,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 9601,
       "formattedTime": "00:09:601",
-      "displayLabel": "+3.217s",
+      "displayLabel": "+7.333s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
@@ -112,7 +112,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 10200,
       "formattedTime": "00:10:199",
-      "displayLabel": "+3.816s",
+      "displayLabel": "+7.932s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
@@ -126,7 +126,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 10230,
       "formattedTime": "00:10:230",
-      "displayLabel": "+3.846s",
+      "displayLabel": "+7.962s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     },
     {
@@ -140,7 +140,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 10363,
       "formattedTime": "00:10:362",
-      "displayLabel": "+3.979s",
+      "displayLabel": "+8.095s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
@@ -154,7 +154,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 10400,
       "formattedTime": "00:10:400",
-      "displayLabel": "+4.016s",
+      "displayLabel": "+8.132s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0"
     },
     {
@@ -168,7 +168,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 10579,
       "formattedTime": "00:10:579",
-      "displayLabel": "+4.195s",
+      "displayLabel": "+8.311s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
@@ -182,7 +182,7 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 10859,
       "formattedTime": "00:10:859",
-      "displayLabel": "+4.475s",
+      "displayLabel": "+8.591s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
@@ -196,7 +196,7 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 11103,
       "formattedTime": "00:11:102",
-      "displayLabel": "+4.719s",
+      "displayLabel": "+8.835s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
@@ -210,7 +210,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 11190,
       "formattedTime": "00:11:189",
-      "displayLabel": "+4.806s",
+      "displayLabel": "+8.922s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
     },
     {
@@ -224,7 +224,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 11422,
       "formattedTime": "00:11:422",
-      "displayLabel": "+5.038s",
+      "displayLabel": "+9.154s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
@@ -238,7 +238,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 11580,
       "formattedTime": "00:11:580",
-      "displayLabel": "+5.196s",
+      "displayLabel": "+9.312s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
@@ -252,7 +252,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 11979,
       "formattedTime": "00:11:978",
-      "displayLabel": "+5.595s",
+      "displayLabel": "+9.711s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
@@ -266,7 +266,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 11979,
       "formattedTime": "00:11:978",
-      "displayLabel": "+5.595s",
+      "displayLabel": "+9.711s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
@@ -280,7 +280,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 12682,
       "formattedTime": "00:12:682",
-      "displayLabel": "+6.298s",
+      "displayLabel": "+10.414s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
@@ -294,7 +294,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 12851,
       "formattedTime": "00:12:851",
-      "displayLabel": "+6.467s",
+      "displayLabel": "+10.583s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
@@ -308,7 +308,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 12945,
       "formattedTime": "00:12:945",
-      "displayLabel": "+6.561s",
+      "displayLabel": "+10.677s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
@@ -322,7 +322,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 13759,
       "formattedTime": "00:13:759",
-      "displayLabel": "+7.375s",
+      "displayLabel": "+11.491s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
@@ -336,7 +336,7 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 13854,
       "formattedTime": "00:13:853",
-      "displayLabel": "+7.470s",
+      "displayLabel": "+11.586s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
@@ -350,7 +350,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 13869,
       "formattedTime": "00:13:868",
-      "displayLabel": "+7.485s",
+      "displayLabel": "+11.601s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
@@ -364,7 +364,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 14001,
       "formattedTime": "00:14:000",
-      "displayLabel": "+7.617s",
+      "displayLabel": "+11.733s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
@@ -378,7 +378,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 14467,
       "formattedTime": "00:14:467",
-      "displayLabel": "+8.083s",
+      "displayLabel": "+12.199s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
@@ -392,11 +392,25 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 14493,
       "formattedTime": "00:14:493",
-      "displayLabel": "+8.109s",
+      "displayLabel": "+12.225s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
       "rank": 29,
+      "playerId": "jd7dqbqmn7d3jerkgqt6cpwmjh8e7zc5",
+      "playerName": "Niels Laier Jensen",
+      "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+      "teamName": "Pol-IT",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
+      "heatNumber": 10,
+      "heatId": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
+      "duration": 14634,
+      "formattedTime": "00:14:634",
+      "displayLabel": "+12.366s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
+    },
+    {
+      "rank": 30,
       "playerId": "jd7ep6hqamx6gwkbz3hw55fw718e52fr",
       "playerName": "Yuliia Larsen",
       "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
@@ -406,11 +420,11 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 15680,
       "formattedTime": "00:15:679",
-      "displayLabel": "+9.296s",
+      "displayLabel": "+13.412s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "playerId": "jd7b90d2ebpvgrh1nq6s08t4598e47rw",
       "playerName": "Christian Hetling",
       "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
@@ -420,11 +434,11 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 16158,
       "formattedTime": "00:16:158",
-      "displayLabel": "+9.774s",
+      "displayLabel": "+13.890s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "playerId": "jd78c1resfnvgv51kn19phfv718e46zm",
       "playerName": "Thor Koefoed",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -434,22 +448,8 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 16159,
       "formattedTime": "00:16:158",
-      "displayLabel": "+9.775s",
+      "displayLabel": "+13.891s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-    },
-    {
-      "rank": 32,
-      "playerId": "jd7dqbqmn7d3jerkgqt6cpwmjh8e7zc5",
-      "playerName": "Niels Laier Jensen",
-      "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
-      "teamName": "Pol-IT",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-      "heatNumber": 4,
-      "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
-      "duration": 17366,
-      "formattedTime": "00:17:365",
-      "displayLabel": "+10.982s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
       "rank": 33,
@@ -462,7 +462,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 17501,
       "formattedTime": "00:17:501",
-      "displayLabel": "+11.117s",
+      "displayLabel": "+15.233s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
@@ -476,7 +476,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 18319,
       "formattedTime": "00:18:318",
-      "displayLabel": "+11.935s",
+      "displayLabel": "+16.051s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
@@ -490,7 +490,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 18803,
       "formattedTime": "00:18:803",
-      "displayLabel": "+12.419s",
+      "displayLabel": "+16.535s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0"
     },
     {
@@ -504,7 +504,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 18811,
       "formattedTime": "00:18:811",
-      "displayLabel": "+12.427s",
+      "displayLabel": "+16.543s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0"
     },
     {
@@ -518,7 +518,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 20217,
       "formattedTime": "00:20:216",
-      "displayLabel": "+13.833s",
+      "displayLabel": "+17.949s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
@@ -532,7 +532,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 20685,
       "formattedTime": "00:20:684",
-      "displayLabel": "+14.301s",
+      "displayLabel": "+18.417s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
     },
     {
@@ -546,11 +546,25 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 21600,
       "formattedTime": "00:21:600",
-      "displayLabel": "+15.216s",
+      "displayLabel": "+19.332s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
       "rank": 40,
+      "playerId": "jd7fpkv7vbbs293reeenqmtpv98e4404",
+      "playerName": "Marius Nunn",
+      "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+      "teamName": "Team ninjago",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
+      "heatNumber": 9,
+      "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
+      "duration": 22206,
+      "formattedTime": "00:22:205",
+      "displayLabel": "+19.938s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+    },
+    {
+      "rank": 41,
       "playerId": "jd72vjzvzqr3epgtvrb7sszhbh8e4gh6",
       "playerName": "Hannah Kemp",
       "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
@@ -560,11 +574,11 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 22340,
       "formattedTime": "00:22:339",
-      "displayLabel": "+15.956s",
+      "displayLabel": "+20.072s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "playerId": "jd74hpy7d2gc1q2043cj9p73ex8e4c0d",
       "playerName": "Sille Søndergaard",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -574,11 +588,11 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 23271,
       "formattedTime": "00:23:271",
-      "displayLabel": "+16.887s",
+      "displayLabel": "+21.003s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
       "playerName": "Hugo Nørløv",
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
@@ -588,11 +602,11 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 24961,
       "formattedTime": "00:24:960",
-      "displayLabel": "+18.577s",
+      "displayLabel": "+22.693s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "playerId": "jd77d31avqpts8d5pgjrkjy2498e437m",
       "playerName": "Mathilde Angelo",
       "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
@@ -602,11 +616,11 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 25391,
       "formattedTime": "00:25:390",
-      "displayLabel": "+19.007s",
+      "displayLabel": "+23.123s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "playerId": "jd75ttzyrxx4zd2z50hg0dqjyn8e5s40",
       "playerName": "Sara Vieira",
       "teamId": "jh71pz24f42bpf8551f274beex8e5227",
@@ -616,11 +630,11 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 26023,
       "formattedTime": "00:26:022",
-      "displayLabel": "+19.639s",
+      "displayLabel": "+23.755s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "playerId": "jd7fmbpa0acqrxnw8wwbe8e0sx8e4d2j",
       "playerName": "Lasse Vinding",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -630,11 +644,11 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 28196,
       "formattedTime": "00:28:196",
-      "displayLabel": "+21.812s",
+      "displayLabel": "+25.928s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "playerId": "jd70wwtwjryhdt2b8x96m8avfn8e4224",
       "playerName": "Xenia Rom",
       "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
@@ -644,22 +658,8 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 29485,
       "formattedTime": "00:29:484",
-      "displayLabel": "+23.101s",
+      "displayLabel": "+27.217s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
-    },
-    {
-      "rank": 47,
-      "playerId": "jd7fpkv7vbbs293reeenqmtpv98e4404",
-      "playerName": "Marius Nunn",
-      "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
-      "teamName": "Team ninjago",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
-      "heatNumber": 1,
-      "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
-      "duration": 30132,
-      "formattedTime": "00:30:132",
-      "displayLabel": "+23.748s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
       "rank": 48,
@@ -672,7 +672,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 31418,
       "formattedTime": "00:31:417",
-      "displayLabel": "+25.034s",
+      "displayLabel": "+29.150s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
@@ -686,7 +686,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 31715,
       "formattedTime": "00:31:714",
-      "displayLabel": "+25.331s",
+      "displayLabel": "+29.447s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
     },
     {
@@ -700,7 +700,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 38883,
       "formattedTime": "00:38:883",
-      "displayLabel": "+32.499s",
+      "displayLabel": "+36.615s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
@@ -714,7 +714,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 42302,
       "formattedTime": "00:42:301",
-      "displayLabel": "+35.918s",
+      "displayLabel": "+40.034s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
@@ -728,7 +728,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 42947,
       "formattedTime": "00:42:947",
-      "displayLabel": "+36.563s",
+      "displayLabel": "+40.679s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
@@ -742,7 +742,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 43142,
       "formattedTime": "00:43:142",
-      "displayLabel": "+36.758s",
+      "displayLabel": "+40.874s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
@@ -756,7 +756,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 46038,
       "formattedTime": "00:46:037",
-      "displayLabel": "+39.654s",
+      "displayLabel": "+43.770s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
@@ -770,7 +770,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 47657,
       "formattedTime": "00:47:656",
-      "displayLabel": "+41.273s",
+      "displayLabel": "+45.389s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     }
   ]

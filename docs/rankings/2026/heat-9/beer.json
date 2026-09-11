@@ -2,10 +2,24 @@
   "timeType": "Beer",
   "year": 2026,
   "heat": 9,
-  "generatedAt": "2026-09-11T13:38:35.405Z",
+  "generatedAt": "2026-09-11T13:49:50.534Z",
   "rankings": [
     {
       "rank": 1,
+      "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
+      "playerName": "Sebastian Howard",
+      "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+      "teamName": "Team ninjago",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
+      "heatNumber": 9,
+      "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
+      "duration": 2268,
+      "formattedTime": "00:02:267",
+      "displayLabel": "00:02:267",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+    },
+    {
+      "rank": 2,
       "playerId": "jd73nyyqbe8x1hs9g8d0p9zwxs8e50sm",
       "playerName": "Allan Petersen",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -15,11 +29,11 @@
       "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
       "duration": 15427,
       "formattedTime": "00:15:426",
-      "displayLabel": "00:15:426",
+      "displayLabel": "+13.159s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
       "playerName": "Nikolai Patino",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -29,22 +43,22 @@
       "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
       "duration": 16763,
       "formattedTime": "00:16:763",
-      "displayLabel": "+1.336s",
+      "displayLabel": "+14.495s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
-      "rank": 3,
-      "playerId": "jd74hpy7d2gc1q2043cj9p73ex8e4c0d",
-      "playerName": "Sille Søndergaard",
-      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
-      "teamName": "WINja Turtles",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "rank": 4,
+      "playerId": "jd7fpkv7vbbs293reeenqmtpv98e4404",
+      "playerName": "Marius Nunn",
+      "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+      "teamName": "Team ninjago",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
       "heatNumber": 9,
       "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
-      "duration": 25401,
-      "formattedTime": "00:25:400",
-      "displayLabel": "+9.974s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
+      "duration": 22206,
+      "formattedTime": "00:22:205",
+      "displayLabel": "+19.938s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     }
   ]
 }

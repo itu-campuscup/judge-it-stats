@@ -1,127 +1,131 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T13:38:35.405Z",
-  "sourceFetchedAt": "2026-09-11T13:38:35.404Z",
+  "generatedAt": "2026-09-11T13:49:50.534Z",
+  "sourceFetchedAt": "2026-09-11T13:49:50.533Z",
   "currentHeat": {
-    "id": "j976ck5765j4m3ce353xadbj618e7wpy",
-    "number": 9,
+    "id": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
+    "number": 10,
     "year": 2026,
     "date": "2026-09-11",
     "state": "running",
-    "activeActivity": null
+    "activeActivity": "sail"
   },
   "activities": {
     "beer": {
       "completed": [
         {
-          "id": "jn747qfvkfa3gkptth82nhd5xh8e797j",
+          "id": "jn718xr0p20mfezn92fha4dv318e7afr",
           "rank": 1,
-          "playerName": "Allan Petersen",
-          "teamName": "Team ninjago",
-          "durationMs": 15427,
-          "formattedTime": "00:15:426",
-          "displayLabel": "00:15:426",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+          "playerName": "Alexander Hansen",
+          "teamName": "Beerwatch",
+          "durationMs": 10146,
+          "formattedTime": "00:10:146",
+          "displayLabel": "00:10:146",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
         },
         {
-          "id": "jn7az72jv5vy1v2y40nz9x77hh8e7mv3",
+          "id": "jn7etkw3z6vy6b6rd0fy2z960n8e6z47",
           "rank": 2,
-          "playerName": "Nikolai Patino",
-          "teamName": "Team ninjago",
-          "durationMs": 16763,
-          "formattedTime": "00:16:763",
-          "displayLabel": "+1.336s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+          "playerName": "Niels Laier Jensen",
+          "teamName": "Pol-IT",
+          "durationMs": 14634,
+          "formattedTime": "00:14:634",
+          "displayLabel": "+4.488s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
         },
         {
-          "id": "jn74hksxyq27npm8qkk6n2mra18e6zfn",
+          "id": "jn72vq5s8vt5gp5kgd8h4ccer98e7q5c",
           "rank": 3,
-          "playerName": "Sille Søndergaard",
-          "teamName": "WINja Turtles",
-          "durationMs": 25401,
-          "formattedTime": "00:25:400",
-          "displayLabel": "+9.974s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
-        }
-      ],
-      "active": [
-        {
-          "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
-          "playerName": "Nikolai Patino",
-          "teamName": "Team ninjago",
-          "startedAt": "2026-09-11T13:36:57.143Z",
-          "elapsedMsAtSnapshot": 98262
+          "playerName": "Balder Møller",
+          "teamName": "Pol-IT",
+          "durationMs": 20439,
+          "formattedTime": "00:20:439",
+          "displayLabel": "+10.293s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
         },
         {
-          "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
-          "playerName": "Johan Becht",
-          "teamName": "WINja Turtles",
-          "startedAt": "2026-09-11T13:38:21.263Z",
-          "elapsedMsAtSnapshot": 14142
+          "id": "jn73bct85gvzmwztjx4yqygmzs8e7ss3",
+          "rank": 4,
+          "playerName": "Oline Krebs",
+          "teamName": "Beerwatch",
+          "durationMs": 32014,
+          "formattedTime": "00:32:014",
+          "displayLabel": "+21.868s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
         }
       ],
-      "attemptsStarted": 5,
-      "attemptsCompleted": 3
+      "active": [],
+      "attemptsStarted": 4,
+      "attemptsCompleted": 4
     },
     "spin": {
       "completed": [
         {
-          "id": "jn72t1qkx4xw8xxfkndmyhhs5d8e6evk",
+          "id": "jn7dgzc4jtrasvmyj9vgp8h8ah8e67xb",
           "rank": 1,
-          "playerName": "Sille Søndergaard",
-          "teamName": "WINja Turtles",
-          "durationMs": 8931,
-          "formattedTime": "00:08:930",
-          "displayLabel": "67 RPM",
-          "rpm": 67.18172657037287,
-          "displayRpmLabel": "67 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
-        }
-      ],
-      "active": [
-        {
-          "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
-          "playerName": "Nikolai Patino",
-          "teamName": "Team ninjago",
-          "startedAt": "2026-09-11T13:37:06.047Z",
-          "elapsedMsAtSnapshot": 89358
+          "playerName": "Oline Krebs",
+          "teamName": "Beerwatch",
+          "durationMs": 11119,
+          "formattedTime": "00:11:118",
+          "displayLabel": "54 RPM",
+          "rpm": 53.96168720208652,
+          "displayRpmLabel": "54 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
         },
         {
-          "playerId": "jd73nyyqbe8x1hs9g8d0p9zwxs8e50sm",
-          "playerName": "Allan Petersen",
-          "teamName": "Team ninjago",
-          "startedAt": "2026-09-11T13:38:28.533Z",
-          "elapsedMsAtSnapshot": 6872
+          "id": "jn79ywfhw3q7nce93j9v8ypabh8e7q34",
+          "rank": 2,
+          "playerName": "Balder Møller",
+          "teamName": "Pol-IT",
+          "durationMs": 15661,
+          "formattedTime": "00:15:660",
+          "displayLabel": "-16 RPM",
+          "rpm": 38.31172977459932,
+          "displayRpmLabel": "38 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
+        },
+        {
+          "id": "jn75gpjc7h95tee83qnvq3sq3s8e79zp",
+          "rank": 3,
+          "playerName": "Niels Laier Jensen",
+          "teamName": "Pol-IT",
+          "durationMs": 16540,
+          "formattedTime": "00:16:539",
+          "displayLabel": "-18 RPM",
+          "rpm": 36.27569528415962,
+          "displayRpmLabel": "36 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
         }
       ],
+      "active": [],
       "attemptsStarted": 3,
-      "attemptsCompleted": 1
+      "attemptsCompleted": 3
     },
     "sail": {
       "teams": [
         {
-          "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
-          "teamName": "Team ninjago",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
+          "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
+          "teamName": "Beerwatch",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
           "sailLogCount": 6,
           "handoffCount": 2,
           "completedLegCount": 2,
           "status": "racing",
-          "currentPlayerName": "Allan Petersen",
-          "startedAt": "2026-09-11T13:36:13.458Z",
-          "elapsedMsAtSnapshot": 141947
+          "currentPlayerName": "Alexander Hansen",
+          "startedAt": "2026-09-11T13:47:02.809Z",
+          "elapsedMsAtSnapshot": 167725
         },
         {
-          "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
-          "teamName": "WINja Turtles",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
-          "sailLogCount": 6,
-          "handoffCount": 2,
-          "completedLegCount": 2,
+          "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+          "teamName": "Pol-IT",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
+          "sailLogCount": 7,
+          "handoffCount": 3,
+          "completedLegCount": 3,
           "status": "racing",
-          "currentPlayerName": "Johan Becht",
-          "startedAt": "2026-09-11T13:36:13.458Z",
-          "elapsedMsAtSnapshot": 141947
+          "currentPlayerName": "Niels Laier Jensen",
+          "startedAt": "2026-09-11T13:47:02.809Z",
+          "elapsedMsAtSnapshot": 167725
         }
       ]
     }

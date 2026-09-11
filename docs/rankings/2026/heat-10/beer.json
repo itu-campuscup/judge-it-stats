@@ -1,0 +1,64 @@
+{
+  "timeType": "Beer",
+  "year": 2026,
+  "heat": 10,
+  "generatedAt": "2026-09-11T13:49:50.534Z",
+  "rankings": [
+    {
+      "rank": 1,
+      "playerId": "jd765bxwwr3085eh53vh7z5pb58e5wsy",
+      "playerName": "Alexander Hansen",
+      "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
+      "teamName": "Beerwatch",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
+      "heatNumber": 10,
+      "heatId": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
+      "duration": 10146,
+      "formattedTime": "00:10:146",
+      "displayLabel": "00:10:146",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
+    },
+    {
+      "rank": 2,
+      "playerId": "jd7dqbqmn7d3jerkgqt6cpwmjh8e7zc5",
+      "playerName": "Niels Laier Jensen",
+      "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+      "teamName": "Pol-IT",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
+      "heatNumber": 10,
+      "heatId": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
+      "duration": 14634,
+      "formattedTime": "00:14:634",
+      "displayLabel": "+4.488s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
+    },
+    {
+      "rank": 3,
+      "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+      "playerName": "Balder Møller",
+      "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+      "teamName": "Pol-IT",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
+      "heatNumber": 10,
+      "heatId": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
+      "duration": 20439,
+      "formattedTime": "00:20:439",
+      "displayLabel": "+10.293s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
+    },
+    {
+      "rank": 4,
+      "playerId": "jd79cfz18h3t3renva2mqag86h7zakdk",
+      "playerName": "Oline Krebs",
+      "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
+      "teamName": "Beerwatch",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
+      "heatNumber": 10,
+      "heatId": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
+      "duration": 32014,
+      "formattedTime": "00:32:014",
+      "displayLabel": "+21.868s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
+    }
+  ]
+}
