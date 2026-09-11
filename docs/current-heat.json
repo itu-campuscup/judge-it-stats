@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T13:36:11.121Z",
-  "sourceFetchedAt": "2026-09-11T13:36:11.121Z",
+  "generatedAt": "2026-09-11T13:38:35.405Z",
+  "sourceFetchedAt": "2026-09-11T13:38:35.404Z",
   "currentHeat": {
-    "id": "j97cq3bzvk8gta2n0s8eqq13218e6wer",
-    "number": 8,
+    "id": "j976ck5765j4m3ce353xadbj618e7wpy",
+    "number": 9,
     "year": 2026,
     "date": "2026-09-11",
     "state": "running",
@@ -12,19 +12,118 @@
   },
   "activities": {
     "beer": {
-      "completed": [],
-      "active": [],
-      "attemptsStarted": 0,
-      "attemptsCompleted": 0
+      "completed": [
+        {
+          "id": "jn747qfvkfa3gkptth82nhd5xh8e797j",
+          "rank": 1,
+          "playerName": "Allan Petersen",
+          "teamName": "Team ninjago",
+          "durationMs": 15427,
+          "formattedTime": "00:15:426",
+          "displayLabel": "00:15:426",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+        },
+        {
+          "id": "jn7az72jv5vy1v2y40nz9x77hh8e7mv3",
+          "rank": 2,
+          "playerName": "Nikolai Patino",
+          "teamName": "Team ninjago",
+          "durationMs": 16763,
+          "formattedTime": "00:16:763",
+          "displayLabel": "+1.336s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+        },
+        {
+          "id": "jn74hksxyq27npm8qkk6n2mra18e6zfn",
+          "rank": 3,
+          "playerName": "Sille Søndergaard",
+          "teamName": "WINja Turtles",
+          "durationMs": 25401,
+          "formattedTime": "00:25:400",
+          "displayLabel": "+9.974s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
+        }
+      ],
+      "active": [
+        {
+          "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
+          "playerName": "Nikolai Patino",
+          "teamName": "Team ninjago",
+          "startedAt": "2026-09-11T13:36:57.143Z",
+          "elapsedMsAtSnapshot": 98262
+        },
+        {
+          "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
+          "playerName": "Johan Becht",
+          "teamName": "WINja Turtles",
+          "startedAt": "2026-09-11T13:38:21.263Z",
+          "elapsedMsAtSnapshot": 14142
+        }
+      ],
+      "attemptsStarted": 5,
+      "attemptsCompleted": 3
     },
     "spin": {
-      "completed": [],
-      "active": [],
-      "attemptsStarted": 0,
-      "attemptsCompleted": 0
+      "completed": [
+        {
+          "id": "jn72t1qkx4xw8xxfkndmyhhs5d8e6evk",
+          "rank": 1,
+          "playerName": "Sille Søndergaard",
+          "teamName": "WINja Turtles",
+          "durationMs": 8931,
+          "formattedTime": "00:08:930",
+          "displayLabel": "67 RPM",
+          "rpm": 67.18172657037287,
+          "displayRpmLabel": "67 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
+        }
+      ],
+      "active": [
+        {
+          "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
+          "playerName": "Nikolai Patino",
+          "teamName": "Team ninjago",
+          "startedAt": "2026-09-11T13:37:06.047Z",
+          "elapsedMsAtSnapshot": 89358
+        },
+        {
+          "playerId": "jd73nyyqbe8x1hs9g8d0p9zwxs8e50sm",
+          "playerName": "Allan Petersen",
+          "teamName": "Team ninjago",
+          "startedAt": "2026-09-11T13:38:28.533Z",
+          "elapsedMsAtSnapshot": 6872
+        }
+      ],
+      "attemptsStarted": 3,
+      "attemptsCompleted": 1
     },
     "sail": {
-      "teams": []
+      "teams": [
+        {
+          "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+          "teamName": "Team ninjago",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
+          "sailLogCount": 6,
+          "handoffCount": 2,
+          "completedLegCount": 2,
+          "status": "racing",
+          "currentPlayerName": "Allan Petersen",
+          "startedAt": "2026-09-11T13:36:13.458Z",
+          "elapsedMsAtSnapshot": 141947
+        },
+        {
+          "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
+          "teamName": "WINja Turtles",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+          "sailLogCount": 6,
+          "handoffCount": 2,
+          "completedLegCount": 2,
+          "status": "racing",
+          "currentPlayerName": "Johan Becht",
+          "startedAt": "2026-09-11T13:36:13.458Z",
+          "elapsedMsAtSnapshot": 141947
+        }
+      ]
     }
   }
 }

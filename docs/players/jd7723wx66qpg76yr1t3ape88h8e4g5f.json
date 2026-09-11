@@ -5,8 +5,8 @@
   "teamName": "Team ninjago",
   "personalBests": {
     "Sail": {
-      "duration": 25802,
-      "heat": 1,
+      "duration": 20369,
+      "heat": 9,
       "year": 2026
     },
     "Beer": {
@@ -21,10 +21,10 @@
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
       2026
     ]
   },
-  "generatedAt": "2026-09-11T13:36:11.121Z"
+  "generatedAt": "2026-09-11T13:38:35.405Z"
 }

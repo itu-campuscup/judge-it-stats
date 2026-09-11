@@ -5,8 +5,8 @@
   "teamName": "WINja Turtles",
   "personalBests": {
     "Sail": {
-      "duration": 25685,
-      "heat": 2,
+      "duration": 21774,
+      "heat": 9,
       "year": 2026
     },
     "Beer": {
@@ -21,10 +21,10 @@
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
       2026
     ]
   },
-  "generatedAt": "2026-09-11T13:36:11.121Z"
+  "generatedAt": "2026-09-11T13:38:35.405Z"
 }

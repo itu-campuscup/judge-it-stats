@@ -1,7 +1,7 @@
 {
   "timeType": "Sail",
   "year": 2026,
-  "generatedAt": "2026-09-11T13:36:11.121Z",
+  "generatedAt": "2026-09-11T13:38:35.405Z",
   "rankings": [
     {
       "rank": 1,
@@ -47,6 +47,20 @@
     },
     {
       "rank": 4,
+      "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
+      "playerName": "Nikolai Patino",
+      "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+      "teamName": "Team ninjago",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
+      "heatNumber": 9,
+      "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
+      "duration": 20369,
+      "formattedTime": "00:20:368",
+      "displayLabel": "+7.473s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
+    },
+    {
+      "rank": 5,
       "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
       "playerName": "Johan Becht",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -60,7 +74,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
       "playerName": "Sebastian Howard",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -74,7 +88,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "playerId": "jd7614pg53xtxqwpnd4k4gmvds8e535s",
       "playerName": "Louie Choheiber",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -88,7 +102,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "playerId": "jd7ajx8a4yy3w75evzdj95wgh58e5d23",
       "playerName": "Celine Skjerven",
       "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
@@ -102,7 +116,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "playerId": "jd79py9k3wxjmyg3byzpmd0t698e4rta",
       "playerName": "Patryk Krynojewski",
       "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
@@ -116,7 +130,21 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "playerId": "jd74hpy7d2gc1q2043cj9p73ex8e4c0d",
+      "playerName": "Sille Søndergaard",
+      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
+      "teamName": "WINja Turtles",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "heatNumber": 9,
+      "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
+      "duration": 21774,
+      "formattedTime": "00:21:774",
+      "displayLabel": "+8.878s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
+    },
+    {
+      "rank": 11,
       "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
       "playerName": "Hugo Nørløv",
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
@@ -130,7 +158,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
       "playerName": "Balder Møller",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -144,7 +172,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "playerId": "jd765bxwwr3085eh53vh7z5pb58e5wsy",
       "playerName": "Alexander Hansen",
       "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
@@ -158,7 +186,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "playerId": "jd7b90d2ebpvgrh1nq6s08t4598e47rw",
       "playerName": "Christian Hetling",
       "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
@@ -172,7 +200,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "playerId": "jd7c1jwakxag6wq77gwx9gxrjs8e5mgj",
       "playerName": "Vincent Jørss Molenaar",
       "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
@@ -186,7 +214,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "playerId": "jd7fmbpa0acqrxnw8wwbe8e0sx8e4d2j",
       "playerName": "Lasse Vinding",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -200,7 +228,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "playerId": "jd78c1resfnvgv51kn19phfv718e46zm",
       "playerName": "Thor Koefoed",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -214,7 +242,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "playerId": "jd7demvd478egb5aghv886418n8e5d8x",
       "playerName": "Cecilie Goldenbaum",
       "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
@@ -228,7 +256,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "playerId": "jd7deeqkj2a33jyhtrejaj2gtn7zb7ts",
       "playerName": "Mark Assejev",
       "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
@@ -242,7 +270,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "playerId": "jd74dnwvrymakrkzxbq2hcx1j18e4a3q",
       "playerName": "Tómas Stefánsson",
       "teamId": "jh71pz24f42bpf8551f274beex8e5227",
@@ -256,7 +284,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "playerId": "jd72pn8k4brqadca74m6gpkhen7za27t",
       "playerName": "Morten Erlandsen",
       "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
@@ -270,7 +298,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
-      "rank": 20,
+      "rank": 22,
       "playerId": "jd7aap4karfyyd06hj7qzxjf0h8e491p",
       "playerName": "Hannibal Søby",
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
@@ -284,7 +312,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
-      "rank": 21,
+      "rank": 23,
       "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
       "playerName": "Andreas Schiøtt",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -298,7 +326,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "playerId": "jd7ep6hqamx6gwkbz3hw55fw718e52fr",
       "playerName": "Yuliia Larsen",
       "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
@@ -312,7 +340,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "playerId": "jd7ckfnvz5r8ddbc9h6sbr61f58e5b9z",
       "playerName": "Sebastian Hasselström",
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
@@ -326,7 +354,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "playerId": "jd7ar0jqse4gfcc83adm1z1th17zawba",
       "playerName": "Tobias Hoffmann",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -340,7 +368,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     },
     {
-      "rank": 25,
+      "rank": 27,
       "playerId": "jd77s93hsj5a5ng9nba410kwp18e5ssd",
       "playerName": "Alexander Winther",
       "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
@@ -354,7 +382,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "playerId": "jd727c8v921env9660ttnjsygh8e4sez",
       "playerName": "Rasmus Bondo Hansen",
       "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
@@ -366,34 +394,6 @@
       "formattedTime": "00:25:469",
       "displayLabel": "+12.573s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
-    },
-    {
-      "rank": 27,
-      "playerId": "jd74hpy7d2gc1q2043cj9p73ex8e4c0d",
-      "playerName": "Sille Søndergaard",
-      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
-      "teamName": "WINja Turtles",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
-      "heatNumber": 2,
-      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
-      "duration": 25685,
-      "formattedTime": "00:25:684",
-      "displayLabel": "+12.789s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
-    },
-    {
-      "rank": 28,
-      "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
-      "playerName": "Nikolai Patino",
-      "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
-      "teamName": "Team ninjago",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
-      "heatNumber": 1,
-      "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
-      "duration": 25802,
-      "formattedTime": "00:25:801",
-      "displayLabel": "+12.906s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
       "rank": 29,

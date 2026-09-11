@@ -1,0 +1,24 @@
+{
+  "timeType": "Spin",
+  "year": 2026,
+  "heat": 9,
+  "generatedAt": "2026-09-11T13:38:35.405Z",
+  "rankings": [
+    {
+      "rank": 1,
+      "playerId": "jd74hpy7d2gc1q2043cj9p73ex8e4c0d",
+      "playerName": "Sille Søndergaard",
+      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
+      "teamName": "WINja Turtles",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "heatNumber": 9,
+      "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
+      "duration": 8931,
+      "formattedTime": "00:08:930",
+      "displayLabel": "67 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "rpm": 67.18172657037287,
+      "displayRpmLabel": "67 RPM"
+    }
+  ]
+}
