@@ -5,16 +5,16 @@
   "isOut": false,
   "players": [
     {
-      "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
-      "playerName": "Andreas Schiøtt"
-    },
-    {
-      "playerId": "jd7d9wqvtwwdbp1nkbhywfdb397zah02",
-      "playerName": "Philip Quorning"
-    },
-    {
       "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
       "playerName": "Balder Møller"
+    },
+    {
+      "playerId": "jd7dqbqmn7d3jerkgqt6cpwmjh8e7zc5",
+      "playerName": "Niels Laier Jensen"
+    },
+    {
+      "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
+      "playerName": "Andreas Schiøtt"
     },
     {
       "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
@@ -22,26 +22,26 @@
     }
   ],
   "bestTimes": {
-    "Sail": 14571.5,
-    "Beer": 5444,
-    "Spin": 3395.25
+    "Sail": 25026.5,
+    "Beer": 11585,
+    "Spin": 9174.5
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 86,
+      "performance": 50,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 70,
+      "performance": 23,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 100,
+      "performance": 72,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-10T18:43:48.825Z"
+  "generatedAt": "2026-09-11T12:42:36.295Z"
 }

@@ -1,0 +1,47 @@
+{
+  "teamId": "jh71pz24f42bpf8551f274beex8e5227",
+  "teamName": "Sea Men",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd74dnwvrymakrkzxbq2hcx1j18e4a3q",
+      "playerName": "Tómas Stefánsson"
+    },
+    {
+      "playerId": "jd76zar0spjegr4dsye6q4edx98e54e6",
+      "playerName": "Frederik Petersen"
+    },
+    {
+      "playerId": "jd74qf5bkfs115bj65p6dxy7w18e42hy",
+      "playerName": "Sebastian Hylander"
+    },
+    {
+      "playerId": "jd75ttzyrxx4zd2z50hg0dqjyn8e5s40",
+      "playerName": "Sara Vieira"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 28139,
+    "Beer": 14176.5,
+    "Spin": 13143.25
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 34,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 8,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 46,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T12:42:36.295Z"
+}

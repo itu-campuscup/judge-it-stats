@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T12:20:04.193Z",
+  "generatedAt": "2026-09-11T12:42:36.295Z",
   "teams": [
     {
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -182,6 +182,186 @@
         {
           "subject": "Spin",
           "performance": 66,
+          "fullMark": 100
+        }
+      ]
+    },
+    {
+      "teamId": "jh71pz24f42bpf8551f274beex8e5227",
+      "teamName": "Sea Men",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0",
+      "isOut": false,
+      "players": [
+        {
+          "playerId": "jd74dnwvrymakrkzxbq2hcx1j18e4a3q",
+          "playerName": "Tómas Stefánsson"
+        },
+        {
+          "playerId": "jd76zar0spjegr4dsye6q4edx98e54e6",
+          "playerName": "Frederik Petersen"
+        },
+        {
+          "playerId": "jd74qf5bkfs115bj65p6dxy7w18e42hy",
+          "playerName": "Sebastian Hylander"
+        },
+        {
+          "playerId": "jd75ttzyrxx4zd2z50hg0dqjyn8e5s40",
+          "playerName": "Sara Vieira"
+        }
+      ],
+      "bestTimes": {
+        "Sail": 28139,
+        "Beer": 14176.5,
+        "Spin": 13143.25
+      },
+      "radarData": [
+        {
+          "subject": "Beer",
+          "performance": 34,
+          "fullMark": 100
+        },
+        {
+          "subject": "Sail",
+          "performance": 8,
+          "fullMark": 100
+        },
+        {
+          "subject": "Spin",
+          "performance": 46,
+          "fullMark": 100
+        }
+      ]
+    },
+    {
+      "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
+      "teamName": "Beerwatch",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
+      "isOut": false,
+      "players": [
+        {
+          "playerId": "jd79cfz18h3t3renva2mqag86h7zakdk",
+          "playerName": "Oline Krebs"
+        },
+        {
+          "playerId": "jd765bxwwr3085eh53vh7z5pb58e5wsy",
+          "playerName": "Alexander Hansen"
+        },
+        {
+          "playerId": "jd72pn8k4brqadca74m6gpkhen7za27t",
+          "playerName": "Morten Erlandsen"
+        }
+      ],
+      "bestTimes": {
+        "Sail": 28305.666666666668,
+        "Beer": 13465.666666666666,
+        "Spin": 13151
+      },
+      "radarData": [
+        {
+          "subject": "Beer",
+          "performance": 38,
+          "fullMark": 100
+        },
+        {
+          "subject": "Sail",
+          "performance": 8,
+          "fullMark": 100
+        },
+        {
+          "subject": "Spin",
+          "performance": 46,
+          "fullMark": 100
+        }
+      ]
+    },
+    {
+      "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
+      "teamName": "WeLoveBier",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
+      "isOut": false,
+      "players": [
+        {
+          "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
+          "playerName": "Hugo Nørløv"
+        },
+        {
+          "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
+          "playerName": "Noah Tøttrup"
+        },
+        {
+          "playerId": "jd7aap4karfyyd06hj7qzxjf0h8e491p",
+          "playerName": "Hannibal Søby"
+        },
+        {
+          "playerId": "jd7ckfnvz5r8ddbc9h6sbr61f58e5b9z",
+          "playerName": "Sebastian Hasselström"
+        }
+      ],
+      "bestTimes": {
+        "Sail": 27420,
+        "Beer": 15354,
+        "Spin": 11345
+      },
+      "radarData": [
+        {
+          "subject": "Beer",
+          "performance": 27,
+          "fullMark": 100
+        },
+        {
+          "subject": "Sail",
+          "performance": 12,
+          "fullMark": 100
+        },
+        {
+          "subject": "Spin",
+          "performance": 58,
+          "fullMark": 100
+        }
+      ]
+    },
+    {
+      "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+      "teamName": "Pol-IT",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
+      "isOut": false,
+      "players": [
+        {
+          "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+          "playerName": "Balder Møller"
+        },
+        {
+          "playerId": "jd7dqbqmn7d3jerkgqt6cpwmjh8e7zc5",
+          "playerName": "Niels Laier Jensen"
+        },
+        {
+          "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
+          "playerName": "Andreas Schiøtt"
+        },
+        {
+          "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
+          "playerName": "Lukas Pedersen"
+        }
+      ],
+      "bestTimes": {
+        "Sail": 25026.5,
+        "Beer": 11585,
+        "Spin": 9174.5
+      },
+      "radarData": [
+        {
+          "subject": "Beer",
+          "performance": 50,
+          "fullMark": 100
+        },
+        {
+          "subject": "Sail",
+          "performance": 23,
+          "fullMark": 100
+        },
+        {
+          "subject": "Spin",
+          "performance": 72,
           "fullMark": 100
         }
       ]

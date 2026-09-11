@@ -1,8 +1,8 @@
 {
   "playerId": "jd72pn8k4brqadca74m6gpkhen7za27t",
   "playerName": "Morten Erlandsen",
-  "teamId": "jh7eg46czc17ps6n1wq2wffbd57zb5sc",
-  "teamName": "Smølferne",
+  "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
+  "teamName": "Beerwatch",
   "personalBests": {
     "Sail": {
       "duration": 16775,
@@ -21,10 +21,11 @@
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-11T12:20:04.193Z"
+  "generatedAt": "2026-09-11T12:42:36.295Z"
 }

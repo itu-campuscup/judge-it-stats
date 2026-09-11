@@ -9,39 +9,39 @@
       "playerName": "Hugo Nørløv"
     },
     {
-      "playerId": "jd7ckfnvz5r8ddbc9h6sbr61f58e5b9z",
-      "playerName": "Sebastian Hasselström"
-    },
-    {
       "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
       "playerName": "Noah Tøttrup"
     },
     {
       "playerId": "jd7aap4karfyyd06hj7qzxjf0h8e491p",
       "playerName": "Hannibal Søby"
+    },
+    {
+      "playerId": "jd7ckfnvz5r8ddbc9h6sbr61f58e5b9z",
+      "playerName": "Sebastian Hasselström"
     }
   ],
   "bestTimes": {
-    "Sail": 5006.25,
-    "Beer": 1654.75,
-    "Spin": 9914.75
+    "Sail": 27420,
+    "Beer": 15354,
+    "Spin": 11345
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 100,
+      "performance": 27,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 100,
+      "performance": 12,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 67,
+      "performance": 58,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-10T18:43:48.825Z"
+  "generatedAt": "2026-09-11T12:42:36.295Z"
 }

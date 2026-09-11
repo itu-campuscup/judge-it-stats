@@ -1,8 +1,8 @@
 {
   "playerId": "jd79cfz18h3t3renva2mqag86h7zakdk",
   "playerName": "Oline Krebs",
-  "teamId": "jh7d2e9x6bm8dhavaztdxh62357zbxdp",
-  "teamName": "Avengers from Temu",
+  "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
+  "teamName": "Beerwatch",
   "personalBests": {
     "Sail": {
       "duration": 36371,
@@ -10,16 +10,22 @@
       "year": 2025
     },
     "Beer": {
-      "duration": 21882,
+      "duration": 20217,
       "heat": 3,
-      "year": 2025
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 14286,
+      "heat": 3,
+      "year": 2026
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-11T12:20:04.193Z"
+  "generatedAt": "2026-09-11T12:42:36.295Z"
 }

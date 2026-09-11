@@ -1,8 +1,8 @@
 {
   "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
   "playerName": "Andreas Schiøtt",
-  "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
-  "teamName": "Master Baiters",
+  "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+  "teamName": "Pol-IT",
   "personalBests": {
     "Sail": {
       "duration": 24454,
@@ -21,10 +21,11 @@
     }
   },
   "participation": {
-    "totalHeats": 3,
+    "totalHeats": 4,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-11T12:20:04.193Z"
+  "generatedAt": "2026-09-11T12:42:36.295Z"
 }

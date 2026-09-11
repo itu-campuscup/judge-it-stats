@@ -1,8 +1,8 @@
 {
   "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
   "playerName": "Lukas Pedersen",
-  "teamId": "jh75jn68ddndmbdbb1e9fesewd7zaefn",
-  "teamName": "Mændfrøskorpset",
+  "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+  "teamName": "Pol-IT",
   "personalBests": {
     "Sail": {
       "duration": 17597,
@@ -21,10 +21,11 @@
     }
   },
   "participation": {
-    "totalHeats": 4,
+    "totalHeats": 5,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-11T12:20:04.193Z"
+  "generatedAt": "2026-09-11T12:42:36.295Z"
 }

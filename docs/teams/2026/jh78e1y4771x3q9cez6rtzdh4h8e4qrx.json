@@ -1,0 +1,43 @@
+{
+  "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
+  "teamName": "Beerwatch",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd79cfz18h3t3renva2mqag86h7zakdk",
+      "playerName": "Oline Krebs"
+    },
+    {
+      "playerId": "jd765bxwwr3085eh53vh7z5pb58e5wsy",
+      "playerName": "Alexander Hansen"
+    },
+    {
+      "playerId": "jd72pn8k4brqadca74m6gpkhen7za27t",
+      "playerName": "Morten Erlandsen"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 28305.666666666668,
+    "Beer": 13465.666666666666,
+    "Spin": 13151
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 38,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 8,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 46,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T12:42:36.295Z"
+}
