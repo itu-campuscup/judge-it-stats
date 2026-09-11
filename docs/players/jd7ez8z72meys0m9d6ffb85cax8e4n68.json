@@ -5,26 +5,26 @@
   "teamName": "Pilsnerne",
   "personalBests": {
     "Sail": {
-      "duration": 28471,
-      "heat": 7,
+      "duration": 23844,
+      "heat": 12,
       "year": 2026
     },
     "Beer": {
-      "duration": 6801,
-      "heat": 7,
+      "duration": 5900,
+      "heat": 12,
       "year": 2026
     },
     "Spin": {
-      "duration": 13520,
-      "heat": 7,
+      "duration": 9102,
+      "heat": 12,
       "year": 2026
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
       2026
     ]
   },
-  "generatedAt": "2026-09-11T13:49:50.534Z"
+  "generatedAt": "2026-09-11T15:04:03.514Z"
 }

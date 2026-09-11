@@ -2,7 +2,7 @@
   "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
   "teamName": "Beerwatch",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd79cfz18h3t3renva2mqag86h7zakdk",
@@ -15,29 +15,33 @@
     {
       "playerId": "jd72pn8k4brqadca74m6gpkhen7za27t",
       "playerName": "Morten Erlandsen"
+    },
+    {
+      "playerId": "jd74e6wenyg1zwxk3t5jrhp9ex7zb10d",
+      "playerName": "Andreas Dunk"
     }
   ],
   "bestTimes": {
-    "Sail": 25090.666666666668,
-    "Beer": 13465.666666666666,
-    "Spin": 12095.333333333334
+    "Sail": 24640.25,
+    "Beer": 14925.25,
+    "Spin": 10511.25
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 38,
+      "performance": 30,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 22,
+      "performance": 24,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 53,
+      "performance": 63,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T13:49:50.534Z"
+  "generatedAt": "2026-09-11T15:04:03.514Z"
 }

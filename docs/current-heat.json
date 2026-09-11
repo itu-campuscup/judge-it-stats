@@ -1,131 +1,232 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T13:49:50.534Z",
-  "sourceFetchedAt": "2026-09-11T13:49:50.533Z",
+  "generatedAt": "2026-09-11T15:04:03.514Z",
+  "sourceFetchedAt": "2026-09-11T15:04:03.514Z",
   "currentHeat": {
-    "id": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
-    "number": 10,
+    "id": "j97dmjeycbe0q6tn8fjyxkbp818e7sjp",
+    "number": 12,
     "year": 2026,
     "date": "2026-09-11",
-    "state": "running",
-    "activeActivity": "sail"
+    "state": "completed",
+    "activeActivity": null
   },
   "activities": {
     "beer": {
       "completed": [
         {
-          "id": "jn718xr0p20mfezn92fha4dv318e7afr",
+          "id": "jn76ywmw7p85z9tv9jphx2qh318e6tw5",
           "rank": 1,
-          "playerName": "Alexander Hansen",
-          "teamName": "Beerwatch",
-          "durationMs": 10146,
-          "formattedTime": "00:10:146",
-          "displayLabel": "00:10:146",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
+          "playerName": "Daniel Fich",
+          "teamName": "Daniel",
+          "durationMs": 3259,
+          "formattedTime": "00:03:258",
+          "displayLabel": "00:03:258",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
         },
         {
-          "id": "jn7etkw3z6vy6b6rd0fy2z960n8e6z47",
+          "id": "jn7ddhpxb47m66gwaysxmbs2zd8e783j",
           "rank": 2,
-          "playerName": "Niels Laier Jensen",
-          "teamName": "Pol-IT",
-          "durationMs": 14634,
-          "formattedTime": "00:14:634",
-          "displayLabel": "+4.488s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
+          "playerName": "Julia Biljak",
+          "teamName": "Pilsnerne",
+          "durationMs": 5900,
+          "formattedTime": "00:05:900",
+          "displayLabel": "+2.641s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
         },
         {
-          "id": "jn72vq5s8vt5gp5kgd8h4ccer98e7q5c",
+          "id": "jn7eq800f1p3z5nakcrvvrbks18e7a8m",
           "rank": 3,
-          "playerName": "Balder Møller",
-          "teamName": "Pol-IT",
-          "durationMs": 20439,
-          "formattedTime": "00:20:439",
-          "displayLabel": "+10.293s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
+          "playerName": "Lisa Johansen",
+          "teamName": "Pilsnerne",
+          "durationMs": 8539,
+          "formattedTime": "00:08:538",
+          "displayLabel": "+5.280s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
         },
         {
-          "id": "jn73bct85gvzmwztjx4yqygmzs8e7ss3",
+          "id": "jn7fp34rpkh616rv3cghb0gy0n8e6nra",
           "rank": 4,
-          "playerName": "Oline Krebs",
-          "teamName": "Beerwatch",
-          "durationMs": 32014,
-          "formattedTime": "00:32:014",
-          "displayLabel": "+21.868s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
+          "playerName": "Daniel Fich",
+          "teamName": "Daniel",
+          "durationMs": 9975,
+          "formattedTime": "00:09:974",
+          "displayLabel": "+6.716s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
+        },
+        {
+          "id": "jn7bkt4rp6v176chjpr7c4brrx8e7zpj",
+          "rank": 5,
+          "playerName": "Daniel Gottschalk",
+          "teamName": "Daniel",
+          "durationMs": 11201,
+          "formattedTime": "00:11:201",
+          "displayLabel": "+7.942s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
+        },
+        {
+          "id": "jn73swbesbsbtbk1cg9g1pzwgh8e72v4",
+          "rank": 6,
+          "playerName": "Celine Skjerven",
+          "teamName": "Pilsnerne",
+          "durationMs": 12336,
+          "formattedTime": "00:12:336",
+          "displayLabel": "+9.077s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn733s9v4tx3wv4vves1at84ed8e63m5",
+          "rank": 7,
+          "playerName": "Hannah Kemp",
+          "teamName": "Pilsnerne",
+          "durationMs": 17930,
+          "formattedTime": "00:17:929",
+          "displayLabel": "+14.671s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn787q1tqxbd0d822amb7hyqm58e6xxp",
+          "rank": 8,
+          "playerName": "Daniel Larsen",
+          "teamName": "Daniel",
+          "durationMs": 18600,
+          "formattedTime": "00:18:600",
+          "displayLabel": "+15.341s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
         }
       ],
       "active": [],
-      "attemptsStarted": 4,
-      "attemptsCompleted": 4
+      "attemptsStarted": 8,
+      "attemptsCompleted": 8
     },
     "spin": {
       "completed": [
         {
-          "id": "jn7dgzc4jtrasvmyj9vgp8h8ah8e67xb",
+          "id": "jn73m7e37jmabgsnc1mdxk8sk98e7nz5",
           "rank": 1,
-          "playerName": "Oline Krebs",
-          "teamName": "Beerwatch",
-          "durationMs": 11119,
-          "formattedTime": "00:11:118",
-          "displayLabel": "54 RPM",
-          "rpm": 53.96168720208652,
-          "displayRpmLabel": "54 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
+          "playerName": "Daniel Fich",
+          "teamName": "Daniel",
+          "durationMs": 2641,
+          "formattedTime": "00:02:641",
+          "displayLabel": "227 RPM",
+          "rpm": 227.18667171525937,
+          "displayRpmLabel": "227 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
         },
         {
-          "id": "jn79ywfhw3q7nce93j9v8ypabh8e7q34",
+          "id": "jn70yy18q4hpzq7mtkh5tnspqn8e6f8b",
           "rank": 2,
-          "playerName": "Balder Møller",
-          "teamName": "Pol-IT",
-          "durationMs": 15661,
-          "formattedTime": "00:15:660",
-          "displayLabel": "-16 RPM",
-          "rpm": 38.31172977459932,
-          "displayRpmLabel": "38 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
+          "playerName": "Daniel Fich",
+          "teamName": "Daniel",
+          "durationMs": 4321,
+          "formattedTime": "00:04:320",
+          "displayLabel": "-88 RPM",
+          "rpm": 138.85674612358252,
+          "displayRpmLabel": "139 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
         },
         {
-          "id": "jn75gpjc7h95tee83qnvq3sq3s8e79zp",
+          "id": "jn7b8h3va927g1peaqr4dkaye58e74p5",
           "rank": 3,
-          "playerName": "Niels Laier Jensen",
-          "teamName": "Pol-IT",
-          "durationMs": 16540,
-          "formattedTime": "00:16:539",
-          "displayLabel": "-18 RPM",
-          "rpm": 36.27569528415962,
-          "displayRpmLabel": "36 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
+          "playerName": "Daniel Larsen",
+          "teamName": "Daniel",
+          "durationMs": 5536,
+          "formattedTime": "00:05:535",
+          "displayLabel": "-119 RPM",
+          "rpm": 108.38150289017342,
+          "displayRpmLabel": "108 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
+        },
+        {
+          "id": "jn728mhwpbr62679xcjcgv8p8n8e6tv3",
+          "rank": 4,
+          "playerName": "Julia Biljak",
+          "teamName": "Pilsnerne",
+          "durationMs": 9102,
+          "formattedTime": "00:09:102",
+          "displayLabel": "-161 RPM",
+          "rpm": 65.91957811470007,
+          "displayRpmLabel": "66 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn7cf4e7nx1c9a8501kk59hz1s8e694b",
+          "rank": 5,
+          "playerName": "Daniel Gottschalk",
+          "teamName": "Daniel",
+          "durationMs": 10311,
+          "formattedTime": "00:10:310",
+          "displayLabel": "-169 RPM",
+          "rpm": 58.19028222286878,
+          "displayRpmLabel": "58 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
+        },
+        {
+          "id": "jn7b8819xva6ge29jb0d2bcf498e7fr1",
+          "rank": 6,
+          "playerName": "Lisa Johansen",
+          "teamName": "Pilsnerne",
+          "durationMs": 11519,
+          "formattedTime": "00:11:519",
+          "displayLabel": "-175 RPM",
+          "rpm": 52.08785484851116,
+          "displayRpmLabel": "52 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn74ptyc966s8vy6x2mhz6hek98e6jb2",
+          "rank": 7,
+          "playerName": "Celine Skjerven",
+          "teamName": "Pilsnerne",
+          "durationMs": 11932,
+          "formattedTime": "00:11:932",
+          "displayLabel": "-177 RPM",
+          "rpm": 50.28494803888702,
+          "displayRpmLabel": "50 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn70ert77xvmw657g80vbefaah8e7eeg",
+          "rank": 8,
+          "playerName": "Hannah Kemp",
+          "teamName": "Pilsnerne",
+          "durationMs": 13120,
+          "formattedTime": "00:13:119",
+          "displayLabel": "-181 RPM",
+          "rpm": 45.73170731707317,
+          "displayRpmLabel": "46 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
         }
       ],
       "active": [],
-      "attemptsStarted": 3,
-      "attemptsCompleted": 3
+      "attemptsStarted": 8,
+      "attemptsCompleted": 8
     },
     "sail": {
       "teams": [
         {
-          "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
-          "teamName": "Beerwatch",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
-          "sailLogCount": 6,
-          "handoffCount": 2,
-          "completedLegCount": 2,
+          "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
+          "teamName": "Pilsnerne",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0",
+          "sailLogCount": 15,
+          "handoffCount": 7,
+          "completedLegCount": 7,
           "status": "racing",
-          "currentPlayerName": "Alexander Hansen",
-          "startedAt": "2026-09-11T13:47:02.809Z",
-          "elapsedMsAtSnapshot": 167725
+          "currentPlayerName": "Hannah Kemp",
+          "startedAt": "2026-09-11T14:58:00.786Z",
+          "elapsedMsAtSnapshot": 362728
         },
         {
-          "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
-          "teamName": "Pol-IT",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-          "sailLogCount": 7,
-          "handoffCount": 3,
-          "completedLegCount": 3,
-          "status": "racing",
-          "currentPlayerName": "Niels Laier Jensen",
-          "startedAt": "2026-09-11T13:47:02.809Z",
-          "elapsedMsAtSnapshot": 167725
+          "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
+          "teamName": "Daniel",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0",
+          "sailLogCount": 16,
+          "handoffCount": 7,
+          "completedLegCount": 7,
+          "status": "finished",
+          "currentPlayerName": "Daniel Fich",
+          "startedAt": "2026-09-11T14:58:00.786Z",
+          "elapsedMsAtSnapshot": 362728,
+          "finishedAt": "2026-09-11T15:03:33.857Z"
         }
       ]
     }

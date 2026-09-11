@@ -5,26 +5,26 @@
   "teamName": "Dora and friends",
   "personalBests": {
     "Sail": {
-      "duration": 25035,
-      "heat": 6,
+      "duration": 21757,
+      "heat": 11,
       "year": 2026
     },
     "Beer": {
-      "duration": 15680,
-      "heat": 6,
+      "duration": 15183,
+      "heat": 11,
       "year": 2026
     },
     "Spin": {
-      "duration": 10599,
-      "heat": 6,
+      "duration": 10129,
+      "heat": 11,
       "year": 2026
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
       2026
     ]
   },
-  "generatedAt": "2026-09-11T13:49:50.534Z"
+  "generatedAt": "2026-09-11T15:04:03.514Z"
 }

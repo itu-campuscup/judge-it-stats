@@ -22,9 +22,9 @@
     }
   ],
   "bestTimes": {
-    "Sail": 26218.25,
-    "Beer": 22864.75,
-    "Spin": 9565.75
+    "Sail": 25130,
+    "Beer": 21710.25,
+    "Spin": 9371
   },
   "radarData": [
     {
@@ -34,14 +34,14 @@
     },
     {
       "subject": "Sail",
-      "performance": 17,
+      "performance": 22,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 70,
+      "performance": 71,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T13:49:50.534Z"
+  "generatedAt": "2026-09-11T15:04:03.514Z"
 }

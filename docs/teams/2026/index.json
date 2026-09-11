@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T13:49:50.534Z",
+  "generatedAt": "2026-09-11T15:04:03.514Z",
   "teams": [
     {
       "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
@@ -52,7 +52,7 @@
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
       "teamName": "Team ninjago",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
@@ -282,7 +282,7 @@
       "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
       "teamName": "Beerwatch",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd79cfz18h3t3renva2mqag86h7zakdk",
@@ -295,27 +295,31 @@
         {
           "playerId": "jd72pn8k4brqadca74m6gpkhen7za27t",
           "playerName": "Morten Erlandsen"
+        },
+        {
+          "playerId": "jd74e6wenyg1zwxk3t5jrhp9ex7zb10d",
+          "playerName": "Andreas Dunk"
         }
       ],
       "bestTimes": {
-        "Sail": 25090.666666666668,
-        "Beer": 13465.666666666666,
-        "Spin": 12095.333333333334
+        "Sail": 24640.25,
+        "Beer": 14925.25,
+        "Spin": 10511.25
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 38,
+          "performance": 30,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 22,
+          "performance": 24,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 53,
+          "performance": 63,
           "fullMark": 100
         }
       ]
@@ -390,19 +394,19 @@
         }
       ],
       "bestTimes": {
-        "Sail": 24698,
-        "Beer": 10902,
+        "Sail": 21712.25,
+        "Beer": 9674.75,
         "Spin": 9174.5
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 54,
+          "performance": 61,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 24,
+          "performance": 38,
           "fullMark": 100
         },
         {
@@ -436,24 +440,24 @@
         }
       ],
       "bestTimes": {
-        "Sail": 26735.5,
-        "Beer": 14117,
-        "Spin": 9319.75
+        "Sail": 25487,
+        "Beer": 13562.25,
+        "Spin": 9205
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 35,
+          "performance": 38,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 15,
+          "performance": 21,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 71,
+          "performance": 72,
           "fullMark": 100
         }
       ]
@@ -528,9 +532,9 @@
         }
       ],
       "bestTimes": {
-        "Sail": 26218.25,
-        "Beer": 22864.75,
-        "Spin": 9565.75
+        "Sail": 25130,
+        "Beer": 21710.25,
+        "Spin": 9371
       },
       "radarData": [
         {
@@ -540,12 +544,12 @@
         },
         {
           "subject": "Sail",
-          "performance": 17,
+          "performance": 22,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 70,
+          "performance": 71,
           "fullMark": 100
         }
       ]
@@ -620,24 +624,66 @@
         }
       ],
       "bestTimes": {
-        "Sail": 26778.5,
-        "Beer": 13393,
-        "Spin": 13127.75
+        "Sail": 25621.75,
+        "Beer": 11176.25,
+        "Spin": 11191.5
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 39,
+          "performance": 52,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 15,
+          "performance": 20,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 46,
+          "performance": 59,
+          "fullMark": 100
+        }
+      ]
+    },
+    {
+      "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
+      "teamName": "Daniel",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0",
+      "isOut": false,
+      "players": [
+        {
+          "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
+          "playerName": "Daniel Fich"
+        },
+        {
+          "playerId": "jd7ehsq6t581mfk7jff0x6b75x8e4n9y",
+          "playerName": "Daniel Larsen"
+        },
+        {
+          "playerId": "jd7akq8ttckxec451xqmg43spn8e4fee",
+          "playerName": "Daniel Gottschalk"
+        }
+      ],
+      "bestTimes": {
+        "Sail": 23311.333333333332,
+        "Beer": 11020,
+        "Spin": 6162.666666666667
+      },
+      "radarData": [
+        {
+          "subject": "Beer",
+          "performance": 53,
+          "fullMark": 100
+        },
+        {
+          "subject": "Sail",
+          "performance": 30,
+          "fullMark": 100
+        },
+        {
+          "subject": "Spin",
+          "performance": 92,
           "fullMark": 100
         }
       ]
