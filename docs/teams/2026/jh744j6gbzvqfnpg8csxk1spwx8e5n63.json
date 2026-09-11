@@ -2,7 +2,7 @@
   "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
   "teamName": "THE WET WARRIORS",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd7614pg53xtxqwpnd4k4gmvds8e535s",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T13:12:21.677Z"
+  "generatedAt": "2026-09-11T13:36:11.121Z"
 }

@@ -2,7 +2,7 @@
   "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
   "teamName": "Beat it QUEENS",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd7f9wp3xkydsw928hyd0yxn3d8e4vqa",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T13:12:21.677Z"
+  "generatedAt": "2026-09-11T13:36:11.121Z"
 }

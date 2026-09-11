@@ -5,12 +5,17 @@
   "teamName": "(GTA VI) Get That Ass Sex",
   "personalBests": {
     "Sail": {
-      "duration": 33996,
+      "duration": 30445,
       "heat": 7,
       "year": 2026
     },
     "Beer": {
       "duration": 42302,
+      "heat": 7,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 16358,
       "heat": 7,
       "year": 2026
     }
@@ -21,5 +26,5 @@
       2026
     ]
   },
-  "generatedAt": "2026-09-11T13:12:21.677Z"
+  "generatedAt": "2026-09-11T13:36:11.121Z"
 }

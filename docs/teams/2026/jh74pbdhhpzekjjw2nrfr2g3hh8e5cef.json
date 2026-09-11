@@ -2,7 +2,7 @@
   "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
   "teamName": "WeLoveBier",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T13:12:21.677Z"
+  "generatedAt": "2026-09-11T13:36:11.121Z"
 }

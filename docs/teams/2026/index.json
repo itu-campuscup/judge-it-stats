@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T13:12:21.677Z",
+  "generatedAt": "2026-09-11T13:36:11.121Z",
   "teams": [
     {
       "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
       "teamName": "(GTA VI) Get That Ass Sex",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd7fgk0782zwzm4hged5s7d5018e4j69",
@@ -26,9 +26,9 @@
         }
       ],
       "bestTimes": {
-        "Sail": 27541.75,
+        "Sail": 26654,
         "Beer": 32161.5,
-        "Spin": 14293.333333333334
+        "Spin": 14809.5
       },
       "radarData": [
         {
@@ -38,12 +38,12 @@
         },
         {
           "subject": "Sail",
-          "performance": 11,
+          "performance": 15,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 38,
+          "performance": 35,
           "fullMark": 100
         }
       ]
@@ -98,7 +98,7 @@
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
       "teamName": "Pimp-n-strip",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
@@ -236,7 +236,7 @@
       "teamId": "jh71pz24f42bpf8551f274beex8e5227",
       "teamName": "Sea Men",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd74dnwvrymakrkzxbq2hcx1j18e4a3q",
@@ -324,7 +324,7 @@
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
       "teamName": "WeLoveBier",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
@@ -462,7 +462,7 @@
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
       "teamName": "THE WET WARRIORS",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd7614pg53xtxqwpnd4k4gmvds8e535s",
@@ -554,7 +554,7 @@
       "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
       "teamName": "Beat it QUEENS",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd7f9wp3xkydsw928hyd0yxn3d8e4vqa",

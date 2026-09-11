@@ -2,7 +2,7 @@
   "teamId": "jh71pz24f42bpf8551f274beex8e5227",
   "teamName": "Sea Men",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd74dnwvrymakrkzxbq2hcx1j18e4a3q",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T13:12:21.677Z"
+  "generatedAt": "2026-09-11T13:36:11.121Z"
 }

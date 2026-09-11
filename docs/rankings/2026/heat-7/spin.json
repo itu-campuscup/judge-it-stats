@@ -2,7 +2,7 @@
   "timeType": "Spin",
   "year": 2026,
   "heat": 7,
-  "generatedAt": "2026-09-11T13:12:21.677Z",
+  "generatedAt": "2026-09-11T13:36:11.121Z",
   "rankings": [
     {
       "rank": 1,
@@ -114,6 +114,22 @@
       "displayLabel": "-20 RPM",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0",
       "rpm": 36.99136868064119,
+      "displayRpmLabel": "-20 RPM"
+    },
+    {
+      "rank": 8,
+      "playerId": "jd74cp4yj1rxmg8qny7dq83ykh8e4n7d",
+      "playerName": "Dimitri Nielsen",
+      "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
+      "teamName": "(GTA VI) Get That Ass Sex",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0",
+      "heatNumber": 7,
+      "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
+      "duration": 16358,
+      "formattedTime": "00:16:358",
+      "displayLabel": "-20 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0",
+      "rpm": 36.679300648000975,
       "displayRpmLabel": "-20 RPM"
     }
   ]
