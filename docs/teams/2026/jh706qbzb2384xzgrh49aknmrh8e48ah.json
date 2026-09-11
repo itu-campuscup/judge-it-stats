@@ -1,0 +1,31 @@
+{
+  "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
+  "teamName": "(GTA VI) Get That Ass Sex",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7fgk0782zwzm4hged5s7d5018e4j69",
+      "playerName": "Eran Zejnelovski"
+    }
+  ],
+  "bestTimes": {},
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 0,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T13:05:32.147Z"
+}

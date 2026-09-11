@@ -1,7 +1,7 @@
 {
   "timeType": "Spin",
   "year": 2026,
-  "generatedAt": "2026-09-11T12:50:20.457Z",
+  "generatedAt": "2026-09-11T13:05:32.147Z",
   "rankings": [
     {
       "rank": 1,
@@ -117,6 +117,22 @@
     },
     {
       "rank": 8,
+      "playerId": "jd7deeqkj2a33jyhtrejaj2gtn7zb7ts",
+      "playerName": "Mark Assejev",
+      "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
+      "teamName": "Dora and friends",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+      "heatNumber": 6,
+      "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
+      "duration": 8520,
+      "formattedTime": "00:08:519",
+      "displayLabel": "-45 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+      "rpm": 70.42253521126761,
+      "displayRpmLabel": "-45 RPM"
+    },
+    {
+      "rank": 9,
       "playerId": "jd7fmbpa0acqrxnw8wwbe8e0sx8e4d2j",
       "playerName": "Lasse Vinding",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -132,7 +148,23 @@
       "displayRpmLabel": "-45 RPM"
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "playerId": "jd79py9k3wxjmyg3byzpmd0t698e4rta",
+      "playerName": "Patryk Krynojewski",
+      "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
+      "teamName": "Dora and friends",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+      "heatNumber": 6,
+      "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
+      "duration": 8599,
+      "formattedTime": "00:08:599",
+      "displayLabel": "-45 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+      "rpm": 69.77555529712757,
+      "displayRpmLabel": "-45 RPM"
+    },
+    {
+      "rank": 11,
       "playerId": "jd74hpy7d2gc1q2043cj9p73ex8e4c0d",
       "playerName": "Sille Søndergaard",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -148,7 +180,7 @@
       "displayRpmLabel": "-47 RPM"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "playerId": "jd76d5f81t3starvxeqhq5m2dx7zbf2j",
       "playerName": "Lukas Pedersen",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -164,7 +196,7 @@
       "displayRpmLabel": "-47 RPM"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "playerId": "jd7614pg53xtxqwpnd4k4gmvds8e535s",
       "playerName": "Louie Choheiber",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -180,7 +212,7 @@
       "displayRpmLabel": "-49 RPM"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "playerId": "jd76eb9setwd2ghkawgcf26h2n7za4nd",
       "playerName": "Andreas Schiøtt",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -196,7 +228,7 @@
       "displayRpmLabel": "-49 RPM"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "playerId": "jd71p25wwxrdgcb030d3pyv7z18e5ye6",
       "playerName": "Jacob Cordtz",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -212,7 +244,7 @@
       "displayRpmLabel": "-50 RPM"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
       "playerName": "Hassel Lauritzen",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -228,7 +260,7 @@
       "displayRpmLabel": "-50 RPM"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "playerId": "jd7ch62k20ns97aghp0tdsffa18e4pgj",
       "playerName": "Viggo Gascou",
       "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
@@ -244,7 +276,7 @@
       "displayRpmLabel": "-55 RPM"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "playerId": "jd7ar0jqse4gfcc83adm1z1th17zawba",
       "playerName": "Tobias Hoffmann",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -260,7 +292,23 @@
       "displayRpmLabel": "-57 RPM"
     },
     {
-      "rank": 17,
+      "rank": 19,
+      "playerId": "jd7d2w7tkj1hkp96f3p21pdek58e4afs",
+      "playerName": "Snæ Hjaltalín",
+      "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
+      "teamName": "Beat it QUEENS",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+      "heatNumber": 6,
+      "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
+      "duration": 10253,
+      "formattedTime": "00:10:253",
+      "displayLabel": "-57 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+      "rpm": 58.5194577196918,
+      "displayRpmLabel": "-57 RPM"
+    },
+    {
+      "rank": 20,
       "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
       "playerName": "Balder Møller",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -276,7 +324,7 @@
       "displayRpmLabel": "-57 RPM"
     },
     {
-      "rank": 18,
+      "rank": 21,
       "playerId": "jd74d6td8fv6ykj89xp0c3vpgs8e4jsy",
       "playerName": "Noah Tøttrup",
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
@@ -292,7 +340,55 @@
       "displayRpmLabel": "-57 RPM"
     },
     {
-      "rank": 19,
+      "rank": 22,
+      "playerId": "jd74hbc6b4kzzwnkjnctje3zs58e5jc6",
+      "playerName": "Mariia Zviahintseva",
+      "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
+      "teamName": "Dora and friends",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+      "heatNumber": 6,
+      "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
+      "duration": 10545,
+      "formattedTime": "00:10:544",
+      "displayLabel": "-58 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+      "rpm": 56.89900426742532,
+      "displayRpmLabel": "-58 RPM"
+    },
+    {
+      "rank": 23,
+      "playerId": "jd7ep6hqamx6gwkbz3hw55fw718e52fr",
+      "playerName": "Yuliia Larsen",
+      "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
+      "teamName": "Dora and friends",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+      "heatNumber": 6,
+      "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
+      "duration": 10599,
+      "formattedTime": "00:10:599",
+      "displayLabel": "-59 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+      "rpm": 56.60911406736485,
+      "displayRpmLabel": "-59 RPM"
+    },
+    {
+      "rank": 24,
+      "playerId": "jd7720ytk4ybrn5kqtqzq1832h8e5zf7",
+      "playerName": "Hans Albert Petersen",
+      "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
+      "teamName": "Beat it QUEENS",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+      "heatNumber": 6,
+      "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
+      "duration": 10739,
+      "formattedTime": "00:10:739",
+      "displayLabel": "-59 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+      "rpm": 55.871123940776606,
+      "displayRpmLabel": "-59 RPM"
+    },
+    {
+      "rank": 25,
       "playerId": "jd7aap4karfyyd06hj7qzxjf0h8e491p",
       "playerName": "Hannibal Søby",
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
@@ -308,7 +404,7 @@
       "displayRpmLabel": "-60 RPM"
     },
     {
-      "rank": 20,
+      "rank": 26,
       "playerId": "jd7dtgcc0ccd60dzm7032zdqv18e42d9",
       "playerName": "Marie Petersen",
       "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
@@ -324,7 +420,7 @@
       "displayRpmLabel": "-62 RPM"
     },
     {
-      "rank": 21,
+      "rank": 27,
       "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
       "playerName": "Julie Pedersen",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -340,7 +436,7 @@
       "displayRpmLabel": "-63 RPM"
     },
     {
-      "rank": 22,
+      "rank": 28,
       "playerId": "jd765bxwwr3085eh53vh7z5pb58e5wsy",
       "playerName": "Alexander Hansen",
       "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
@@ -356,7 +452,23 @@
       "displayRpmLabel": "-63 RPM"
     },
     {
-      "rank": 23,
+      "rank": 29,
+      "playerId": "jd7f9wp3xkydsw928hyd0yxn3d8e4vqa",
+      "playerName": "Anders Skousen",
+      "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
+      "teamName": "Beat it QUEENS",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+      "heatNumber": 6,
+      "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
+      "duration": 11542,
+      "formattedTime": "00:11:541",
+      "displayLabel": "-63 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+      "rpm": 51.98405822214521,
+      "displayRpmLabel": "-63 RPM"
+    },
+    {
+      "rank": 30,
       "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
       "playerName": "Johan Becht",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -372,7 +484,7 @@
       "displayRpmLabel": "-63 RPM"
     },
     {
-      "rank": 24,
+      "rank": 31,
       "playerId": "jd70wwtwjryhdt2b8x96m8avfn8e4224",
       "playerName": "Xenia Rom",
       "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
@@ -388,7 +500,7 @@
       "displayRpmLabel": "-64 RPM"
     },
     {
-      "rank": 25,
+      "rank": 32,
       "playerId": "jd74dnwvrymakrkzxbq2hcx1j18e4a3q",
       "playerName": "Tómas Stefánsson",
       "teamId": "jh71pz24f42bpf8551f274beex8e5227",
@@ -404,7 +516,7 @@
       "displayRpmLabel": "-65 RPM"
     },
     {
-      "rank": 26,
+      "rank": 33,
       "playerId": "jd78c1resfnvgv51kn19phfv718e46zm",
       "playerName": "Thor Koefoed",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -420,7 +532,7 @@
       "displayRpmLabel": "-65 RPM"
     },
     {
-      "rank": 27,
+      "rank": 34,
       "playerId": "jd72163197hg2zxe06qv4pzz2d8e4ndd",
       "playerName": "Jamie Rosenqvist",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -436,7 +548,7 @@
       "displayRpmLabel": "-66 RPM"
     },
     {
-      "rank": 28,
+      "rank": 35,
       "playerId": "jd74qf5bkfs115bj65p6dxy7w18e42hy",
       "playerName": "Sebastian Hylander",
       "teamId": "jh71pz24f42bpf8551f274beex8e5227",
@@ -452,7 +564,7 @@
       "displayRpmLabel": "-66 RPM"
     },
     {
-      "rank": 29,
+      "rank": 36,
       "playerId": "jd7c3hk4zx6ca15qb21qjzmd797zax2d",
       "playerName": "Malthe Nielsen",
       "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
@@ -468,7 +580,7 @@
       "displayRpmLabel": "-67 RPM"
     },
     {
-      "rank": 30,
+      "rank": 37,
       "playerId": "jd76a5yn1bx1pa37b3em25v1k58e56ft",
       "playerName": "Hugo Nørløv",
       "teamId": "jh74pbdhhpzekjjw2nrfr2g3hh8e5cef",
@@ -484,7 +596,7 @@
       "displayRpmLabel": "-68 RPM"
     },
     {
-      "rank": 31,
+      "rank": 38,
       "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
       "playerName": "Sebastian Howard",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -500,7 +612,23 @@
       "displayRpmLabel": "-69 RPM"
     },
     {
-      "rank": 32,
+      "rank": 39,
+      "playerId": "jd77d31avqpts8d5pgjrkjy2498e437m",
+      "playerName": "Mathilde Angelo",
+      "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
+      "teamName": "Beat it QUEENS",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+      "heatNumber": 6,
+      "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
+      "duration": 13280,
+      "formattedTime": "00:13:279",
+      "displayLabel": "-70 RPM",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+      "rpm": 45.18072289156627,
+      "displayRpmLabel": "-70 RPM"
+    },
+    {
+      "rank": 40,
       "playerId": "jd7fpkv7vbbs293reeenqmtpv98e4404",
       "playerName": "Marius Nunn",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -516,7 +644,7 @@
       "displayRpmLabel": "-71 RPM"
     },
     {
-      "rank": 33,
+      "rank": 41,
       "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
       "playerName": "Lauritz Jørgensen",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -532,7 +660,7 @@
       "displayRpmLabel": "-71 RPM"
     },
     {
-      "rank": 34,
+      "rank": 42,
       "playerId": "jd72pn8k4brqadca74m6gpkhen7za27t",
       "playerName": "Morten Erlandsen",
       "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
@@ -548,7 +676,7 @@
       "displayRpmLabel": "-71 RPM"
     },
     {
-      "rank": 35,
+      "rank": 43,
       "playerId": "jd79cfz18h3t3renva2mqag86h7zakdk",
       "playerName": "Oline Krebs",
       "teamId": "jh78e1y4771x3q9cez6rtzdh4h8e4qrx",
@@ -564,7 +692,7 @@
       "displayRpmLabel": "-73 RPM"
     },
     {
-      "rank": 36,
+      "rank": 44,
       "playerId": "jd7demvd478egb5aghv886418n8e5d8x",
       "playerName": "Cecilie Goldenbaum",
       "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
@@ -580,7 +708,7 @@
       "displayRpmLabel": "-78 RPM"
     },
     {
-      "rank": 37,
+      "rank": 45,
       "playerId": "jd73nyyqbe8x1hs9g8d0p9zwxs8e50sm",
       "playerName": "Allan Petersen",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -596,7 +724,7 @@
       "displayRpmLabel": "-83 RPM"
     },
     {
-      "rank": 38,
+      "rank": 46,
       "playerId": "jd75ttzyrxx4zd2z50hg0dqjyn8e5s40",
       "playerName": "Sara Vieira",
       "teamId": "jh71pz24f42bpf8551f274beex8e5227",

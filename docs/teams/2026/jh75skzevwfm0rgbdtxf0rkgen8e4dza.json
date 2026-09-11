@@ -1,0 +1,31 @@
+{
+  "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
+  "teamName": "Pilsnerne",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7ajx8a4yy3w75evzdj95wgh58e5d23",
+      "playerName": "Celine Skjerven"
+    }
+  ],
+  "bestTimes": {},
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 0,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T13:05:32.147Z"
+}

@@ -1,0 +1,47 @@
+{
+  "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
+  "teamName": "Beat it QUEENS",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7f9wp3xkydsw928hyd0yxn3d8e4vqa",
+      "playerName": "Anders Skousen"
+    },
+    {
+      "playerId": "jd77d31avqpts8d5pgjrkjy2498e437m",
+      "playerName": "Mathilde Angelo"
+    },
+    {
+      "playerId": "jd7720ytk4ybrn5kqtqzq1832h8e5zf7",
+      "playerName": "Hans Albert Petersen"
+    },
+    {
+      "playerId": "jd7d2w7tkj1hkp96f3p21pdek58e4afs",
+      "playerName": "Snæ Hjaltalín"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 29208.25,
+    "Beer": 18351.25,
+    "Spin": 11453.5
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 10,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 4,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 57,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T13:05:32.147Z"
+}

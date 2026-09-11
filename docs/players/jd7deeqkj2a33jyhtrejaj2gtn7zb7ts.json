@@ -1,8 +1,8 @@
 {
   "playerId": "jd7deeqkj2a33jyhtrejaj2gtn7zb7ts",
   "playerName": "Mark Assejev",
-  "teamId": "jh7br1vcgnnmepn51fv3aszxtn7zbyh3",
-  "teamName": "I used to do rowing when I was 14",
+  "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
+  "teamName": "Dora and friends",
   "personalBests": {
     "Sail": {
       "duration": 19905,
@@ -15,16 +15,17 @@
       "year": 2025
     },
     "Spin": {
-      "duration": 8609,
-      "heat": 8,
-      "year": 2025
+      "duration": 8520,
+      "heat": 6,
+      "year": 2026
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-11T12:50:20.457Z"
+  "generatedAt": "2026-09-11T13:05:32.147Z"
 }

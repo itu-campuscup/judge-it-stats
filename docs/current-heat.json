@@ -1,232 +1,53 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T12:50:20.457Z",
-  "sourceFetchedAt": "2026-09-11T12:50:20.456Z",
+  "generatedAt": "2026-09-11T13:05:32.147Z",
+  "sourceFetchedAt": "2026-09-11T13:05:32.147Z",
   "currentHeat": {
-    "id": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
-    "number": 5,
+    "id": "j972r385fhevdba3ra8dn2r2bs8e7sta",
+    "number": 7,
     "year": 2026,
     "date": "2026-09-11",
-    "state": "completed",
-    "activeActivity": null
+    "state": "running",
+    "activeActivity": "sail"
   },
   "activities": {
     "beer": {
-      "completed": [
-        {
-          "id": "jn72f5nxseyzjektg73bmdv3dn8e7kev",
-          "rank": 1,
-          "playerName": "Louie Choheiber",
-          "teamName": "THE WET WARRIORS",
-          "durationMs": 7923,
-          "formattedTime": "00:07:923",
-          "displayLabel": "00:07:923",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn780m3zn54c3cv5t2ksk82keh8e79g7",
-          "rank": 2,
-          "playerName": "Tobias Hoffmann",
-          "teamName": "THE WET WARRIORS",
-          "durationMs": 10230,
-          "formattedTime": "00:10:230",
-          "displayLabel": "+2.307s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn753w98z79743q76g1gk558t98e603x",
-          "rank": 3,
-          "playerName": "Alexander Winther",
-          "teamName": "Team Worldwide",
-          "durationMs": 12682,
-          "formattedTime": "00:12:682",
-          "displayLabel": "+4.759s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn76dcstxkewfkkz8fgasx8b9h8e6rdn",
-          "rank": 4,
-          "playerName": "Marie Petersen",
-          "teamName": "Team Worldwide",
-          "durationMs": 13759,
-          "formattedTime": "00:13:759",
-          "displayLabel": "+5.836s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn72dkvf2vgdgnsk6ggga67gs58e7z8d",
-          "rank": 5,
-          "playerName": "Viggo Gascou",
-          "teamName": "Team Worldwide",
-          "durationMs": 13869,
-          "formattedTime": "00:13:868",
-          "displayLabel": "+5.946s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn763gq7d9mc67yxje1f6490m98e733c",
-          "rank": 6,
-          "playerName": "Christian Hetling",
-          "teamName": "Team Worldwide",
-          "durationMs": 16158,
-          "formattedTime": "00:16:158",
-          "displayLabel": "+8.235s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn79j1att9yfaad6zbr0z0hy0x8e7r5m",
-          "rank": 7,
-          "playerName": "Thor Koefoed",
-          "teamName": "THE WET WARRIORS",
-          "durationMs": 16159,
-          "formattedTime": "00:16:158",
-          "displayLabel": "+8.236s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn7an0s70a62a6ymedmbf11kth8e6afk",
-          "rank": 8,
-          "playerName": "Malthe Nielsen",
-          "teamName": "THE WET WARRIORS",
-          "durationMs": 47657,
-          "formattedTime": "00:47:656",
-          "displayLabel": "+39.734s",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-        }
-      ],
+      "completed": [],
       "active": [],
-      "attemptsStarted": 8,
-      "attemptsCompleted": 8
+      "attemptsStarted": 0,
+      "attemptsCompleted": 0
     },
     "spin": {
-      "completed": [
-        {
-          "id": "jn7etfqtsa1v31e3j6gmm99cex8e7heg",
-          "rank": 1,
-          "playerName": "Alexander Winther",
-          "teamName": "Team Worldwide",
-          "durationMs": 7953,
-          "formattedTime": "00:07:953",
-          "displayLabel": "75 RPM",
-          "rpm": 75.44322897019993,
-          "displayRpmLabel": "75 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn75mxhd8274c475vbw3qdt2qh8e7qmb",
-          "rank": 2,
-          "playerName": "Christian Hetling",
-          "teamName": "Team Worldwide",
-          "durationMs": 8142,
-          "formattedTime": "00:08:141",
-          "displayLabel": "-2 RPM",
-          "rpm": 73.69196757553428,
-          "displayRpmLabel": "74 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn70kzgb67txaw8c5we9tw0tp98e7h65",
-          "rank": 3,
-          "playerName": "Louie Choheiber",
-          "teamName": "THE WET WARRIORS",
-          "durationMs": 9100,
-          "formattedTime": "00:09:099",
-          "displayLabel": "-10 RPM",
-          "rpm": 65.93406593406594,
-          "displayRpmLabel": "66 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn75vk3x4drq3gh5hfcvt0nab98e7kr9",
-          "rank": 4,
-          "playerName": "Viggo Gascou",
-          "teamName": "Team Worldwide",
-          "durationMs": 9916,
-          "formattedTime": "00:09:916",
-          "displayLabel": "-15 RPM",
-          "rpm": 60.50826946349334,
-          "displayRpmLabel": "61 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn725jbjfjdhdvmwf093hme7fd8e7zy8",
-          "rank": 5,
-          "playerName": "Tobias Hoffmann",
-          "teamName": "THE WET WARRIORS",
-          "durationMs": 10246,
-          "formattedTime": "00:10:246",
-          "displayLabel": "-17 RPM",
-          "rpm": 58.559437829396835,
-          "displayRpmLabel": "59 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn7914yz5m6x0c7w3cdpsx0rcs8e6rqy",
-          "rank": 6,
-          "playerName": "Marie Petersen",
-          "teamName": "Team Worldwide",
-          "durationMs": 11268,
-          "formattedTime": "00:11:268",
-          "displayLabel": "-22 RPM",
-          "rpm": 53.24813631522896,
-          "displayRpmLabel": "53 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn79jf5cv4dt6x16zt8jbvk9s58e771s",
-          "rank": 7,
-          "playerName": "Thor Koefoed",
-          "teamName": "THE WET WARRIORS",
-          "durationMs": 12056,
-          "formattedTime": "00:12:055",
-          "displayLabel": "-26 RPM",
-          "rpm": 49.767750497677504,
-          "displayRpmLabel": "50 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-        },
-        {
-          "id": "jn7564vp9t62tdj4vec3pcjfwd8e7192",
-          "rank": 8,
-          "playerName": "Malthe Nielsen",
-          "teamName": "THE WET WARRIORS",
-          "durationMs": 12385,
-          "formattedTime": "00:12:384",
-          "displayLabel": "-27 RPM",
-          "rpm": 48.44570044408559,
-          "displayRpmLabel": "48 RPM",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
-        }
-      ],
+      "completed": [],
       "active": [],
-      "attemptsStarted": 8,
-      "attemptsCompleted": 8
+      "attemptsStarted": 0,
+      "attemptsCompleted": 0
     },
     "sail": {
       "teams": [
         {
-          "teamId": "jh744j6gbzvqfnpg8csxk1spwx8e5n63",
-          "teamName": "THE WET WARRIORS",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0",
-          "sailLogCount": 16,
-          "handoffCount": 7,
-          "completedLegCount": 7,
+          "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0",
+          "sailLogCount": 1,
+          "handoffCount": 0,
+          "completedLegCount": 0,
           "status": "racing",
-          "currentPlayerName": "Malthe Nielsen",
-          "startedAt": "2026-09-11T12:43:31.788Z",
-          "elapsedMsAtSnapshot": 408669
+          "currentPlayerName": "Eran Zejnelovski",
+          "startedAt": "2026-09-11T13:05:22.720Z",
+          "elapsedMsAtSnapshot": 9427
         },
         {
-          "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
-          "teamName": "Team Worldwide",
-          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
-          "sailLogCount": 16,
-          "handoffCount": 7,
-          "completedLegCount": 7,
-          "status": "finished",
-          "currentPlayerName": "Alexander Winther",
-          "startedAt": "2026-09-11T12:43:31.788Z",
-          "elapsedMsAtSnapshot": 408669,
-          "finishedAt": "2026-09-11T12:49:32.545Z"
+          "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
+          "teamName": "Pilsnerne",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0",
+          "sailLogCount": 1,
+          "handoffCount": 0,
+          "completedLegCount": 0,
+          "status": "racing",
+          "currentPlayerName": "Celine Skjerven",
+          "startedAt": "2026-09-11T13:05:22.720Z",
+          "elapsedMsAtSnapshot": 9427
         }
       ]
     }

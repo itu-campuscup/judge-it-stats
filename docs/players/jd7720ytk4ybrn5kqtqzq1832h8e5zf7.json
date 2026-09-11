@@ -3,10 +3,28 @@
   "playerName": "Hans Albert Petersen",
   "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
   "teamName": "Beat it QUEENS",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 34759,
+      "heat": 6,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 18811,
+      "heat": 6,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 10739,
+      "heat": 6,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T12:50:20.457Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T13:05:32.147Z"
 }

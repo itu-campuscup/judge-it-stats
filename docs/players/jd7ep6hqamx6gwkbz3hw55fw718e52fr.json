@@ -3,10 +3,28 @@
   "playerName": "Yuliia Larsen",
   "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
   "teamName": "Dora and friends",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 25035,
+      "heat": 6,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 15680,
+      "heat": 6,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 10599,
+      "heat": 6,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T12:50:20.457Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T13:05:32.147Z"
 }

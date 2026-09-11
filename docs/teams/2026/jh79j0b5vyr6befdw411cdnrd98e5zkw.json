@@ -1,0 +1,47 @@
+{
+  "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
+  "teamName": "Dora and friends",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7ep6hqamx6gwkbz3hw55fw718e52fr",
+      "playerName": "Yuliia Larsen"
+    },
+    {
+      "playerId": "jd74hbc6b4kzzwnkjnctje3zs58e5jc6",
+      "playerName": "Mariia Zviahintseva"
+    },
+    {
+      "playerId": "jd7deeqkj2a33jyhtrejaj2gtn7zb7ts",
+      "playerName": "Mark Assejev"
+    },
+    {
+      "playerId": "jd79py9k3wxjmyg3byzpmd0t698e4rta",
+      "playerName": "Patryk Krynojewski"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 26218.25,
+    "Beer": 22864.75,
+    "Spin": 9565.75
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 17,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 70,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T13:05:32.147Z"
+}
