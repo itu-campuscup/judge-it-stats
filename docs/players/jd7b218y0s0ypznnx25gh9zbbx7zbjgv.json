@@ -1,18 +1,18 @@
 {
   "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
   "playerName": "Sebastian Howard",
-  "teamId": "jh7d2e9x6bm8dhavaztdxh62357zbxdp",
-  "teamName": "Avengers from Temu",
+  "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+  "teamName": "Team ninjago",
   "personalBests": {
     "Sail": {
-      "duration": 21381,
-      "heat": 3,
-      "year": 2025
+      "duration": 20934,
+      "heat": 1,
+      "year": 2026
     },
     "Beer": {
-      "duration": 17118,
-      "heat": 3,
-      "year": 2025
+      "duration": 7948,
+      "heat": 1,
+      "year": 2026
     },
     "Spin": {
       "duration": 11752,
@@ -21,10 +21,11 @@
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
+      2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-10T18:47:17.553Z"
+  "generatedAt": "2026-09-11T12:08:51.221Z"
 }

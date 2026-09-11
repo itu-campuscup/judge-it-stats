@@ -5,16 +5,16 @@
   "isOut": false,
   "players": [
     {
-      "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
-      "playerName": "Hassel Lauritzen"
+      "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
+      "playerName": "Julie Pedersen"
     },
     {
       "playerId": "jd72163197hg2zxe06qv4pzz2d8e4ndd",
       "playerName": "Jamie Rosenqvist"
     },
     {
-      "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
-      "playerName": "Julie Pedersen"
+      "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
+      "playerName": "Hassel Lauritzen"
     },
     {
       "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
@@ -22,26 +22,26 @@
     }
   ],
   "bestTimes": {
-    "Sail": 4793,
-    "Beer": 1497.75,
-    "Spin": 9971.25
+    "Sail": 35295.25,
+    "Beer": 30281.5,
+    "Spin": 10936
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 100,
+      "performance": 0,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 100,
+      "performance": 0,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 67,
+      "performance": 60,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-10T18:43:48.825Z"
+  "generatedAt": "2026-09-11T12:08:51.221Z"
 }

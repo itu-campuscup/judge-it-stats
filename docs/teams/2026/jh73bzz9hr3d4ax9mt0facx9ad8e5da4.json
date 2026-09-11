@@ -1,0 +1,47 @@
+{
+  "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+  "teamName": "Team ninjago",
+  "imageUrl": "https://lh3.google.com/u/0/d/1BkNV6J_DAGAQgbskrhVCey504uZFgsM2=w3206-h2196-iv1?auditContext=prefetch",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd7b218y0s0ypznnx25gh9zbbx7zbjgv",
+      "playerName": "Sebastian Howard"
+    },
+    {
+      "playerId": "jd7fpkv7vbbs293reeenqmtpv98e4404",
+      "playerName": "Marius Nunn"
+    },
+    {
+      "playerId": "jd73nyyqbe8x1hs9g8d0p9zwxs8e50sm",
+      "playerName": "Allan Petersen"
+    },
+    {
+      "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
+      "playerName": "Nikolai Patino"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 21939.25,
+    "Beer": 15751,
+    "Spin": 13248
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 25,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 37,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 45,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T12:08:51.221Z"
+}

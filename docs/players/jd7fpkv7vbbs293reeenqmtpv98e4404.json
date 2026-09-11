@@ -3,10 +3,28 @@
   "playerName": "Marius Nunn",
   "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
   "teamName": "Team ninjago",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 28125,
+      "heat": 1,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 30132,
+      "heat": 1,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 13530,
+      "heat": 1,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-10T18:47:17.553Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T12:08:51.221Z"
 }
