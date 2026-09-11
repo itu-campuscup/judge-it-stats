@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T12:11:12.670Z",
+  "generatedAt": "2026-09-11T12:20:04.193Z",
   "teams": [
     {
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -90,6 +90,98 @@
         {
           "subject": "Spin",
           "performance": 56,
+          "fullMark": 100
+        }
+      ]
+    },
+    {
+      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
+      "teamName": "WINja Turtles",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "isOut": false,
+      "players": [
+        {
+          "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
+          "playerName": "Johan Becht"
+        },
+        {
+          "playerId": "jd74hpy7d2gc1q2043cj9p73ex8e4c0d",
+          "playerName": "Sille Søndergaard"
+        },
+        {
+          "playerId": "jd7fmbpa0acqrxnw8wwbe8e0sx8e4d2j",
+          "playerName": "Lasse Vinding"
+        },
+        {
+          "playerId": "jd71p25wwxrdgcb030d3pyv7z18e5ye6",
+          "playerName": "Jacob Cordtz"
+        }
+      ],
+      "bestTimes": {
+        "Sail": 25528,
+        "Beer": 19074.25,
+        "Spin": 9555
+      },
+      "radarData": [
+        {
+          "subject": "Beer",
+          "performance": 5,
+          "fullMark": 100
+        },
+        {
+          "subject": "Sail",
+          "performance": 20,
+          "fullMark": 100
+        },
+        {
+          "subject": "Spin",
+          "performance": 70,
+          "fullMark": 100
+        }
+      ]
+    },
+    {
+      "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
+      "teamName": "MILF",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0",
+      "isOut": false,
+      "players": [
+        {
+          "playerId": "jd78y6rcrjnrp71jn9xgtm9c6n8e5xex",
+          "playerName": "Zofia Kalin-Czerska"
+        },
+        {
+          "playerId": "jd7demvd478egb5aghv886418n8e5d8x",
+          "playerName": "Cecilie Goldenbaum"
+        },
+        {
+          "playerId": "jd70wwtwjryhdt2b8x96m8avfn8e4224",
+          "playerName": "Xenia Rom"
+        },
+        {
+          "playerId": "jd7cfqvq1d1mkzn3jk5t7h8j058e4gn9",
+          "playerName": "Osvald Møller"
+        }
+      ],
+      "bestTimes": {
+        "Sail": 24836.5,
+        "Beer": 23268.75,
+        "Spin": 10169
+      },
+      "radarData": [
+        {
+          "subject": "Beer",
+          "performance": 0,
+          "fullMark": 100
+        },
+        {
+          "subject": "Sail",
+          "performance": 23,
+          "fullMark": 100
+        },
+        {
+          "subject": "Spin",
+          "performance": 66,
           "fullMark": 100
         }
       ]

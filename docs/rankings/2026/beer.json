@@ -1,7 +1,7 @@
 {
   "timeType": "Beer",
   "year": 2026,
-  "generatedAt": "2026-09-11T12:11:12.670Z",
+  "generatedAt": "2026-09-11T12:20:04.193Z",
   "rankings": [
     {
       "rank": 1,
@@ -19,6 +19,34 @@
     },
     {
       "rank": 2,
+      "playerId": "jd71p25wwxrdgcb030d3pyv7z18e5ye6",
+      "playerName": "Jacob Cordtz",
+      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
+      "teamName": "WINja Turtles",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
+      "duration": 10363,
+      "formattedTime": "00:10:362",
+      "displayLabel": "+2.415s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
+    },
+    {
+      "rank": 3,
+      "playerId": "jd7cfqvq1d1mkzn3jk5t7h8j058e4gn9",
+      "playerName": "Osvald Møller",
+      "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
+      "teamName": "MILF",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
+      "duration": 11190,
+      "formattedTime": "00:11:189",
+      "displayLabel": "+3.242s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
+    },
+    {
+      "rank": 4,
       "playerId": "jd7723wx66qpg76yr1t3ape88h8e4g5f",
       "playerName": "Nikolai Patino",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -32,7 +60,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "playerId": "jd73nyyqbe8x1hs9g8d0p9zwxs8e50sm",
       "playerName": "Allan Petersen",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -46,7 +74,21 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
+      "playerName": "Johan Becht",
+      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
+      "teamName": "WINja Turtles",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
+      "duration": 14467,
+      "formattedTime": "00:14:467",
+      "displayLabel": "+6.519s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
+    },
+    {
+      "rank": 7,
       "playerId": "jd72163197hg2zxe06qv4pzz2d8e4ndd",
       "playerName": "Jamie Rosenqvist",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -60,7 +102,21 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "playerId": "jd78y6rcrjnrp71jn9xgtm9c6n8e5xex",
+      "playerName": "Zofia Kalin-Czerska",
+      "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
+      "teamName": "MILF",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
+      "duration": 20685,
+      "formattedTime": "00:20:684",
+      "displayLabel": "+12.737s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
+    },
+    {
+      "rank": 9,
       "playerId": "jd75xkr12a3t0f1tyqbvdmtny98e535b",
       "playerName": "Julie Pedersen",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -74,7 +130,49 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
-      "rank": 6,
+      "rank": 10,
+      "playerId": "jd74hpy7d2gc1q2043cj9p73ex8e4c0d",
+      "playerName": "Sille Søndergaard",
+      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
+      "teamName": "WINja Turtles",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
+      "duration": 23271,
+      "formattedTime": "00:23:271",
+      "displayLabel": "+15.323s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
+    },
+    {
+      "rank": 11,
+      "playerId": "jd7fmbpa0acqrxnw8wwbe8e0sx8e4d2j",
+      "playerName": "Lasse Vinding",
+      "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
+      "teamName": "WINja Turtles",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
+      "duration": 28196,
+      "formattedTime": "00:28:196",
+      "displayLabel": "+20.248s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
+    },
+    {
+      "rank": 12,
+      "playerId": "jd70wwtwjryhdt2b8x96m8avfn8e4224",
+      "playerName": "Xenia Rom",
+      "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
+      "teamName": "MILF",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
+      "duration": 29485,
+      "formattedTime": "00:29:484",
+      "displayLabel": "+21.537s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
+    },
+    {
+      "rank": 13,
       "playerId": "jd7fpkv7vbbs293reeenqmtpv98e4404",
       "playerName": "Marius Nunn",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -88,7 +186,21 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
-      "rank": 7,
+      "rank": 14,
+      "playerId": "jd7demvd478egb5aghv886418n8e5d8x",
+      "playerName": "Cecilie Goldenbaum",
+      "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
+      "teamName": "MILF",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0",
+      "heatNumber": 2,
+      "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
+      "duration": 31715,
+      "formattedTime": "00:31:714",
+      "displayLabel": "+23.767s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
+    },
+    {
+      "rank": 15,
       "playerId": "jd75pmhk41ke77ctkse3e4sk358e48sq",
       "playerName": "Lauritz Jørgensen",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",
@@ -102,7 +214,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
-      "rank": 8,
+      "rank": 16,
       "playerId": "jd7dqsag6t43b4tsj6zqn0dqts8e5pj5",
       "playerName": "Hassel Lauritzen",
       "teamId": "jh710mwdzyf5nb0y8g7fk47t9x8e5td7",

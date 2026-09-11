@@ -1,0 +1,47 @@
+{
+  "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
+  "teamName": "MILF",
+  "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0",
+  "isOut": false,
+  "players": [
+    {
+      "playerId": "jd78y6rcrjnrp71jn9xgtm9c6n8e5xex",
+      "playerName": "Zofia Kalin-Czerska"
+    },
+    {
+      "playerId": "jd7demvd478egb5aghv886418n8e5d8x",
+      "playerName": "Cecilie Goldenbaum"
+    },
+    {
+      "playerId": "jd70wwtwjryhdt2b8x96m8avfn8e4224",
+      "playerName": "Xenia Rom"
+    },
+    {
+      "playerId": "jd7cfqvq1d1mkzn3jk5t7h8j058e4gn9",
+      "playerName": "Osvald Møller"
+    }
+  ],
+  "bestTimes": {
+    "Sail": 24836.5,
+    "Beer": 23268.75,
+    "Spin": 10169
+  },
+  "radarData": [
+    {
+      "subject": "Beer",
+      "performance": 0,
+      "fullMark": 100
+    },
+    {
+      "subject": "Sail",
+      "performance": 23,
+      "fullMark": 100
+    },
+    {
+      "subject": "Spin",
+      "performance": 66,
+      "fullMark": 100
+    }
+  ],
+  "generatedAt": "2026-09-11T12:20:04.193Z"
+}

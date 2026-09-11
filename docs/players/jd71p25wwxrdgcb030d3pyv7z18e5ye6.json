@@ -3,10 +3,28 @@
   "playerName": "Jacob Cordtz",
   "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
   "teamName": "WINja Turtles",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 32482,
+      "heat": 2,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 10363,
+      "heat": 2,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 9255,
+      "heat": 2,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T12:11:12.670Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T12:20:04.193Z"
 }

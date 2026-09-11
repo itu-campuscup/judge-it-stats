@@ -3,10 +3,28 @@
   "playerName": "Zofia Kalin-Czerska",
   "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
   "teamName": "MILF",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 19720,
+      "heat": 2,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 20685,
+      "heat": 2,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 7330,
+      "heat": 2,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T12:11:12.670Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T12:20:04.193Z"
 }
