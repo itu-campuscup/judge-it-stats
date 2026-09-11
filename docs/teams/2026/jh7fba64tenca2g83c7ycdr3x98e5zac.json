@@ -2,7 +2,7 @@
   "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
   "teamName": "Team Worldwide",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd7b90d2ebpvgrh1nq6s08t4598e47rw",
@@ -22,26 +22,26 @@
     }
   ],
   "bestTimes": {
-    "Sail": 25487,
-    "Beer": 13562.25,
-    "Spin": 9205
+    "Sail": 22659.75,
+    "Beer": 10404.5,
+    "Spin": 8073.25
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 38,
+      "performance": 56,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 21,
+      "performance": 33,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 72,
+      "performance": 80,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T15:04:03.514Z"
+  "generatedAt": "2026-09-11T16:24:56.141Z"
 }

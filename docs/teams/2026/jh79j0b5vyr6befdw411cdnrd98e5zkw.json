@@ -2,7 +2,7 @@
   "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
   "teamName": "Dora and friends",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd7ep6hqamx6gwkbz3hw55fw718e52fr",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T15:04:03.514Z"
+  "generatedAt": "2026-09-11T16:24:56.141Z"
 }

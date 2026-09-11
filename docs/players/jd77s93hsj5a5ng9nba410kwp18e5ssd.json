@@ -5,13 +5,13 @@
   "teamName": "Team Worldwide",
   "personalBests": {
     "Sail": {
-      "duration": 24911,
-      "heat": 11,
+      "duration": 21182,
+      "heat": 14,
       "year": 2026
     },
     "Beer": {
-      "duration": 11101,
-      "heat": 11,
+      "duration": 2790,
+      "heat": 14,
       "year": 2026
     },
     "Spin": {
@@ -21,10 +21,10 @@
     }
   },
   "participation": {
-    "totalHeats": 2,
+    "totalHeats": 3,
     "years": [
       2026
     ]
   },
-  "generatedAt": "2026-09-11T15:04:03.514Z"
+  "generatedAt": "2026-09-11T16:24:56.141Z"
 }

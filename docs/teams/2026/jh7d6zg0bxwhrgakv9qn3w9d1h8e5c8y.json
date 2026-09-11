@@ -2,7 +2,7 @@
   "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
   "teamName": "WINja Turtles",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
@@ -22,26 +22,26 @@
     }
   ],
   "bestTimes": {
-    "Sail": 25528,
-    "Beer": 19074.25,
-    "Spin": 9555
+    "Sail": 22848,
+    "Beer": 16108.75,
+    "Spin": 7454.5
   },
   "radarData": [
     {
       "subject": "Beer",
-      "performance": 5,
+      "performance": 23,
       "fullMark": 100
     },
     {
       "subject": "Sail",
-      "performance": 20,
+      "performance": 33,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 70,
+      "performance": 84,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T15:04:03.514Z"
+  "generatedAt": "2026-09-11T16:24:56.141Z"
 }

@@ -5,8 +5,8 @@
   "teamName": "Pol-IT",
   "personalBests": {
     "Sail": {
-      "duration": 24315,
-      "heat": 10,
+      "duration": 22974,
+      "heat": 13,
       "year": 2026
     },
     "Beer": {
@@ -21,11 +21,11 @@
     }
   },
   "participation": {
-    "totalHeats": 5,
+    "totalHeats": 7,
     "years": [
       2026,
       2025
     ]
   },
-  "generatedAt": "2026-09-11T15:04:03.514Z"
+  "generatedAt": "2026-09-11T16:24:56.141Z"
 }

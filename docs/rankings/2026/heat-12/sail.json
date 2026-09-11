@@ -2,7 +2,7 @@
   "timeType": "Sail",
   "year": 2026,
   "heat": 12,
-  "generatedAt": "2026-09-11T15:04:03.514Z",
+  "generatedAt": "2026-09-11T16:24:56.141Z",
   "rankings": [
     {
       "rank": 1,
@@ -76,6 +76,20 @@
     },
     {
       "rank": 6,
+      "playerId": "jd72vjzvzqr3epgtvrb7sszhbh8e4gh6",
+      "playerName": "Hannah Kemp",
+      "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
+      "teamName": "Pilsnerne",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0",
+      "heatNumber": 12,
+      "heatId": "j97dmjeycbe0q6tn8fjyxkbp818e7sjp",
+      "duration": 30453,
+      "formattedTime": "00:30:452",
+      "displayLabel": "+11.816s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+    },
+    {
+      "rank": 7,
       "playerId": "jd7f8eh1c067bf2keafvtf0m0n8e4x8p",
       "playerName": "Lisa Johansen",
       "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
@@ -86,20 +100,6 @@
       "duration": 31712,
       "formattedTime": "00:31:711",
       "displayLabel": "+13.075s",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
-    },
-    {
-      "rank": 7,
-      "playerId": "jd72vjzvzqr3epgtvrb7sszhbh8e4gh6",
-      "playerName": "Hannah Kemp",
-      "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
-      "teamName": "Pilsnerne",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0",
-      "heatNumber": 12,
-      "heatId": "j97dmjeycbe0q6tn8fjyxkbp818e7sjp",
-      "duration": 37453,
-      "formattedTime": "00:37:453",
-      "displayLabel": "+18.816s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     }
   ]

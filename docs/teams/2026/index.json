@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T15:04:03.514Z",
+  "generatedAt": "2026-09-11T16:24:56.141Z",
   "teams": [
     {
       "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
@@ -144,7 +144,7 @@
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
       "teamName": "WINja Turtles",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
@@ -164,24 +164,24 @@
         }
       ],
       "bestTimes": {
-        "Sail": 25528,
-        "Beer": 19074.25,
-        "Spin": 9555
+        "Sail": 22848,
+        "Beer": 16108.75,
+        "Spin": 7454.5
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 5,
+          "performance": 23,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 20,
+          "performance": 33,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 70,
+          "performance": 84,
           "fullMark": 100
         }
       ]
@@ -190,7 +190,7 @@
       "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
       "teamName": "MILF",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd78y6rcrjnrp71jn9xgtm9c6n8e5xex",
@@ -394,24 +394,24 @@
         }
       ],
       "bestTimes": {
-        "Sail": 21712.25,
-        "Beer": 9674.75,
-        "Spin": 9174.5
+        "Sail": 16450.25,
+        "Beer": 8460.5,
+        "Spin": 8997.75
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 61,
+          "performance": 68,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 38,
+          "performance": 62,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 72,
+          "performance": 73,
           "fullMark": 100
         }
       ]
@@ -420,7 +420,7 @@
       "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
       "teamName": "Team Worldwide",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd7b90d2ebpvgrh1nq6s08t4598e47rw",
@@ -440,24 +440,24 @@
         }
       ],
       "bestTimes": {
-        "Sail": 25487,
-        "Beer": 13562.25,
-        "Spin": 9205
+        "Sail": 22659.75,
+        "Beer": 10404.5,
+        "Spin": 8073.25
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 38,
+          "performance": 56,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 21,
+          "performance": 33,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 72,
+          "performance": 80,
           "fullMark": 100
         }
       ]
@@ -512,7 +512,7 @@
       "teamId": "jh79j0b5vyr6befdw411cdnrd98e5zkw",
       "teamName": "Dora and friends",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd7ep6hqamx6gwkbz3hw55fw718e52fr",
@@ -604,7 +604,7 @@
       "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
       "teamName": "Pilsnerne",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0",
-      "isOut": false,
+      "isOut": true,
       "players": [
         {
           "playerId": "jd7ajx8a4yy3w75evzdj95wgh58e5d23",
@@ -666,24 +666,24 @@
         }
       ],
       "bestTimes": {
-        "Sail": 23311.333333333332,
-        "Beer": 11020,
-        "Spin": 6162.666666666667
+        "Sail": 18192.666666666668,
+        "Beer": 10654.333333333334,
+        "Spin": 5912.666666666667
       },
       "radarData": [
         {
           "subject": "Beer",
-          "performance": 53,
+          "performance": 55,
           "fullMark": 100
         },
         {
           "subject": "Sail",
-          "performance": 30,
+          "performance": 54,
           "fullMark": 100
         },
         {
           "subject": "Spin",
-          "performance": 92,
+          "performance": 94,
           "fullMark": 100
         }
       ]

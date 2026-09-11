@@ -2,7 +2,7 @@
   "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
   "teamName": "MILF",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd78y6rcrjnrp71jn9xgtm9c6n8e5xex",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T15:04:03.514Z"
+  "generatedAt": "2026-09-11T16:24:56.141Z"
 }

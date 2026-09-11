@@ -10,21 +10,21 @@
       "year": 2026
     },
     "Beer": {
-      "duration": 28196,
-      "heat": 2,
+      "duration": 16334,
+      "heat": 13,
       "year": 2026
     },
     "Spin": {
-      "duration": 8574,
-      "heat": 2,
+      "duration": 8060,
+      "heat": 13,
       "year": 2026
     }
   },
   "participation": {
-    "totalHeats": 1,
+    "totalHeats": 2,
     "years": [
       2026
     ]
   },
-  "generatedAt": "2026-09-11T15:04:03.514Z"
+  "generatedAt": "2026-09-11T16:24:56.141Z"
 }
