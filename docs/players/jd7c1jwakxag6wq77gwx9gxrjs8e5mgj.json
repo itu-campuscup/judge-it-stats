@@ -3,10 +3,28 @@
   "playerName": "Vincent Jørss Molenaar",
   "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
   "teamName": "(GTA VI) Get That Ass Sex",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 23075,
+      "heat": 7,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 11979,
+      "heat": 7,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 10545,
+      "heat": 7,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T13:05:32.147Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T13:12:21.677Z"
 }

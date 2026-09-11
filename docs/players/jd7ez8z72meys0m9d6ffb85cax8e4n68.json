@@ -3,10 +3,28 @@
   "playerName": "Julia Biljak",
   "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
   "teamName": "Pilsnerne",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 28471,
+      "heat": 7,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 6801,
+      "heat": 7,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 13520,
+      "heat": 7,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T13:05:32.147Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T13:12:21.677Z"
 }

@@ -3,12 +3,28 @@
   "playerName": "Celine Skjerven",
   "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
   "teamName": "Pilsnerne",
-  "personalBests": {},
+  "personalBests": {
+    "Sail": {
+      "duration": 21166,
+      "heat": 7,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 12851,
+      "heat": 7,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 13840,
+      "heat": 7,
+      "year": 2026
+    }
+  },
   "participation": {
     "totalHeats": 1,
     "years": [
       2026
     ]
   },
-  "generatedAt": "2026-09-11T13:05:32.147Z"
+  "generatedAt": "2026-09-11T13:12:21.677Z"
 }

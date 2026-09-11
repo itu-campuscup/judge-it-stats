@@ -1,27 +1,201 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T13:05:32.147Z",
-  "sourceFetchedAt": "2026-09-11T13:05:32.147Z",
+  "generatedAt": "2026-09-11T13:12:21.677Z",
+  "sourceFetchedAt": "2026-09-11T13:12:21.676Z",
   "currentHeat": {
     "id": "j972r385fhevdba3ra8dn2r2bs8e7sta",
     "number": 7,
     "year": 2026,
     "date": "2026-09-11",
-    "state": "running",
-    "activeActivity": "sail"
+    "state": "completed",
+    "activeActivity": null
   },
   "activities": {
     "beer": {
-      "completed": [],
+      "completed": [
+        {
+          "id": "jn7cd2d6sva81x58q2nf164ddh8e7b3j",
+          "rank": 1,
+          "playerName": "Julia Biljak",
+          "teamName": "Pilsnerne",
+          "durationMs": 6801,
+          "formattedTime": "00:06:801",
+          "displayLabel": "00:06:801",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn79k1qy6f6vmfs1kynvagk1cn8e6n19",
+          "rank": 2,
+          "playerName": "Lisa Johansen",
+          "teamName": "Pilsnerne",
+          "durationMs": 11580,
+          "formattedTime": "00:11:580",
+          "displayLabel": "+4.779s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn755eqgznmtqqrj01vpgb88498e6jpz",
+          "rank": 3,
+          "playerName": "Vincent Jørss Molenaar",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "durationMs": 11979,
+          "formattedTime": "00:11:978",
+          "displayLabel": "+5.178s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
+        },
+        {
+          "id": "jn70b0zs3vykprwfyftfpxga1n8e6kjs",
+          "rank": 4,
+          "playerName": "Celine Skjerven",
+          "teamName": "Pilsnerne",
+          "durationMs": 12851,
+          "formattedTime": "00:12:851",
+          "displayLabel": "+6.050s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn7c0v3fykp75rdnqbdh2kfwqx8e6hzk",
+          "rank": 5,
+          "playerName": "Hannah Kemp",
+          "teamName": "Pilsnerne",
+          "durationMs": 22340,
+          "formattedTime": "00:22:339",
+          "displayLabel": "+15.539s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn7aw2znhs7kcaf5kzvbwsdrz18e6kf0",
+          "rank": 6,
+          "playerName": "Rasmus Bondo Hansen",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "durationMs": 31418,
+          "formattedTime": "00:31:417",
+          "displayLabel": "+24.617s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
+        },
+        {
+          "id": "jn785q13wa6ksfezz9k1g23bws8e7bxc",
+          "rank": 7,
+          "playerName": "Dimitri Nielsen",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "durationMs": 42302,
+          "formattedTime": "00:42:301",
+          "displayLabel": "+35.501s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
+        },
+        {
+          "id": "jn7e7c1s5fewkyd8qffjn8793s8e7fx4",
+          "rank": 8,
+          "playerName": "Eran Zejnelovski",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "durationMs": 42947,
+          "formattedTime": "00:42:947",
+          "displayLabel": "+36.146s",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
+        }
+      ],
       "active": [],
-      "attemptsStarted": 0,
-      "attemptsCompleted": 0
+      "attemptsStarted": 8,
+      "attemptsCompleted": 8
     },
     "spin": {
-      "completed": [],
-      "active": [],
-      "attemptsStarted": 0,
-      "attemptsCompleted": 0
+      "completed": [
+        {
+          "id": "jn7fmvvjvy6dhzsbnyp1rpzfrs8e7sen",
+          "rank": 1,
+          "playerName": "Vincent Jørss Molenaar",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "durationMs": 10545,
+          "formattedTime": "00:10:544",
+          "displayLabel": "57 RPM",
+          "rpm": 56.89900426742532,
+          "displayRpmLabel": "57 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
+        },
+        {
+          "id": "jn740pg944p1cp0esds1rn0n7s8e70jw",
+          "rank": 2,
+          "playerName": "Hannah Kemp",
+          "teamName": "Pilsnerne",
+          "durationMs": 12213,
+          "formattedTime": "00:12:212",
+          "displayLabel": "-8 RPM",
+          "rpm": 49.127978383689516,
+          "displayRpmLabel": "49 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn7av4h874nyftjd5nj4eqr66s8e6wpb",
+          "rank": 3,
+          "playerName": "Lisa Johansen",
+          "teamName": "Pilsnerne",
+          "durationMs": 12938,
+          "formattedTime": "00:12:938",
+          "displayLabel": "-11 RPM",
+          "rpm": 46.375019322924715,
+          "displayRpmLabel": "46 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn7dbzn0w5sz1kprgzy32zx27x8e71z4",
+          "rank": 4,
+          "playerName": "Julia Biljak",
+          "teamName": "Pilsnerne",
+          "durationMs": 13520,
+          "formattedTime": "00:13:519",
+          "displayLabel": "-13 RPM",
+          "rpm": 44.37869822485207,
+          "displayRpmLabel": "44 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn7fc13n4r2zdr4x5jy49n0vnn8e7tz1",
+          "rank": 5,
+          "playerName": "Celine Skjerven",
+          "teamName": "Pilsnerne",
+          "durationMs": 13840,
+          "formattedTime": "00:13:839",
+          "displayLabel": "-14 RPM",
+          "rpm": 43.35260115606937,
+          "displayRpmLabel": "43 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
+        },
+        {
+          "id": "jn7fpjv9vypwtk4c1x4fk10a7n8e64es",
+          "rank": 6,
+          "playerName": "Eran Zejnelovski",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "durationMs": 16115,
+          "formattedTime": "00:16:114",
+          "displayLabel": "-20 RPM",
+          "rpm": 37.232392181197646,
+          "displayRpmLabel": "37 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
+        },
+        {
+          "id": "jn75z7ykk72e6kjj27xb1z45z18e7yr0",
+          "rank": 7,
+          "playerName": "Rasmus Bondo Hansen",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "durationMs": 16220,
+          "formattedTime": "00:16:219",
+          "displayLabel": "-20 RPM",
+          "rpm": 36.99136868064119,
+          "displayRpmLabel": "37 RPM",
+          "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
+        }
+      ],
+      "active": [
+        {
+          "playerId": "jd74cp4yj1rxmg8qny7dq83ykh8e4n7d",
+          "playerName": "Dimitri Nielsen",
+          "teamName": "(GTA VI) Get That Ass Sex",
+          "startedAt": "2026-09-11T13:12:08.182Z",
+          "elapsedMsAtSnapshot": 13495
+        }
+      ],
+      "attemptsStarted": 8,
+      "attemptsCompleted": 7
     },
     "sail": {
       "teams": [
@@ -29,25 +203,26 @@
           "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
           "teamName": "(GTA VI) Get That Ass Sex",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0",
-          "sailLogCount": 1,
-          "handoffCount": 0,
-          "completedLegCount": 0,
+          "sailLogCount": 14,
+          "handoffCount": 6,
+          "completedLegCount": 6,
           "status": "racing",
-          "currentPlayerName": "Eran Zejnelovski",
+          "currentPlayerName": "Dimitri Nielsen",
           "startedAt": "2026-09-11T13:05:22.720Z",
-          "elapsedMsAtSnapshot": 9427
+          "elapsedMsAtSnapshot": 418957
         },
         {
           "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
           "teamName": "Pilsnerne",
           "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0",
-          "sailLogCount": 1,
-          "handoffCount": 0,
-          "completedLegCount": 0,
-          "status": "racing",
-          "currentPlayerName": "Celine Skjerven",
+          "sailLogCount": 16,
+          "handoffCount": 7,
+          "completedLegCount": 7,
+          "status": "finished",
+          "currentPlayerName": "Hannah Kemp",
           "startedAt": "2026-09-11T13:05:22.720Z",
-          "elapsedMsAtSnapshot": 9427
+          "elapsedMsAtSnapshot": 418957,
+          "finishedAt": "2026-09-11T13:12:00.589Z"
         }
       ]
     }

@@ -7,9 +7,25 @@
     {
       "playerId": "jd7fgk0782zwzm4hged5s7d5018e4j69",
       "playerName": "Eran Zejnelovski"
+    },
+    {
+      "playerId": "jd727c8v921env9660ttnjsygh8e4sez",
+      "playerName": "Rasmus Bondo Hansen"
+    },
+    {
+      "playerId": "jd7c1jwakxag6wq77gwx9gxrjs8e5mgj",
+      "playerName": "Vincent Jørss Molenaar"
+    },
+    {
+      "playerId": "jd74cp4yj1rxmg8qny7dq83ykh8e4n7d",
+      "playerName": "Dimitri Nielsen"
     }
   ],
-  "bestTimes": {},
+  "bestTimes": {
+    "Sail": 27541.75,
+    "Beer": 32161.5,
+    "Spin": 14293.333333333334
+  },
   "radarData": [
     {
       "subject": "Beer",
@@ -18,14 +34,14 @@
     },
     {
       "subject": "Sail",
-      "performance": 0,
+      "performance": 11,
       "fullMark": 100
     },
     {
       "subject": "Spin",
-      "performance": 0,
+      "performance": 38,
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-11T13:05:32.147Z"
+  "generatedAt": "2026-09-11T13:12:21.677Z"
 }

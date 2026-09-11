@@ -3,10 +3,28 @@
   "playerName": "Lisa Johansen",
   "teamId": "jh75skzevwfm0rgbdtxf0rkgen8e4dza",
   "teamName": "Pilsnerne",
-  "personalBests": {},
-  "participation": {
-    "totalHeats": 0,
-    "years": []
+  "personalBests": {
+    "Sail": {
+      "duration": 28812,
+      "heat": 7,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 11580,
+      "heat": 7,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 12938,
+      "heat": 7,
+      "year": 2026
+    }
   },
-  "generatedAt": "2026-09-11T13:05:32.147Z"
+  "participation": {
+    "totalHeats": 1,
+    "years": [
+      2026
+    ]
+  },
+  "generatedAt": "2026-09-11T13:12:21.677Z"
 }

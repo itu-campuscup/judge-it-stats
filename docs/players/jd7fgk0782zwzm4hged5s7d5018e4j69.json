@@ -3,12 +3,28 @@
   "playerName": "Eran Zejnelovski",
   "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
   "teamName": "(GTA VI) Get That Ass Sex",
-  "personalBests": {},
+  "personalBests": {
+    "Sail": {
+      "duration": 27627,
+      "heat": 7,
+      "year": 2026
+    },
+    "Beer": {
+      "duration": 42947,
+      "heat": 7,
+      "year": 2026
+    },
+    "Spin": {
+      "duration": 16115,
+      "heat": 7,
+      "year": 2026
+    }
+  },
   "participation": {
     "totalHeats": 1,
     "years": [
       2026
     ]
   },
-  "generatedAt": "2026-09-11T13:05:32.147Z"
+  "generatedAt": "2026-09-11T13:12:21.677Z"
 }
