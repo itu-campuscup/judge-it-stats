@@ -2,7 +2,7 @@
   "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
   "teamName": "Pol-IT",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
@@ -43,5 +43,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-12T06:05:57.435Z"
+  "generatedAt": "2026-09-12T06:52:32.432Z"
 }

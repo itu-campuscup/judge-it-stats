@@ -2,7 +2,7 @@
   "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
   "teamName": "Daniel",
   "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0",
-  "isOut": false,
+  "isOut": true,
   "players": [
     {
       "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
@@ -39,5 +39,5 @@
       "fullMark": 100
     }
   ],
-  "generatedAt": "2026-09-12T06:05:57.435Z"
+  "generatedAt": "2026-09-12T06:52:32.432Z"
 }
