@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "heat": 14,
-  "generatedAt": "2026-09-13T10:06:18.484Z",
+  "generatedAt": "2026-09-13T10:35:23.057Z",
   "top5": {
     "Sail": [
       {
@@ -150,22 +150,6 @@
     "Spin": [
       {
         "rank": 1,
-        "playerId": "jd7b90d2ebpvgrh1nq6s08t4598e47rw",
-        "playerName": "Christian Hetling",
-        "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
-        "teamName": "Team Worldwide",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
-        "heatNumber": 14,
-        "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
-        "duration": 3275,
-        "formattedTime": "00:03:274",
-        "displayLabel": "183 RPM",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
-        "rpm": 183.206106870229,
-        "displayRpmLabel": "183 RPM"
-      },
-      {
-        "rank": 2,
         "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
         "playerName": "Daniel Fich",
         "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
@@ -175,10 +159,26 @@
         "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
         "duration": 6254,
         "formattedTime": "00:06:253",
-        "displayLabel": "-87 RPM",
+        "displayLabel": "96 RPM",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0",
         "rpm": 95.93859929645028,
-        "displayRpmLabel": "-87 RPM"
+        "displayRpmLabel": "96 RPM"
+      },
+      {
+        "rank": 2,
+        "playerId": "jd7b90d2ebpvgrh1nq6s08t4598e47rw",
+        "playerName": "Christian Hetling",
+        "teamId": "jh7fba64tenca2g83c7ycdr3x98e5zac",
+        "teamName": "Team Worldwide",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
+        "heatNumber": 14,
+        "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
+        "duration": 7802,
+        "formattedTime": "00:07:801",
+        "displayLabel": "-19 RPM",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
+        "rpm": 76.9033581133043,
+        "displayRpmLabel": "-19 RPM"
       },
       {
         "rank": 3,
@@ -191,10 +191,10 @@
         "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
         "duration": 9060,
         "formattedTime": "00:09:060",
-        "displayLabel": "-117 RPM",
+        "displayLabel": "-30 RPM",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
         "rpm": 66.2251655629139,
-        "displayRpmLabel": "-117 RPM"
+        "displayRpmLabel": "-30 RPM"
       },
       {
         "rank": 4,
@@ -207,10 +207,10 @@
         "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
         "duration": 9561,
         "formattedTime": "00:09:561",
-        "displayLabel": "-120 RPM",
+        "displayLabel": "-33 RPM",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0",
         "rpm": 62.7549419516787,
-        "displayRpmLabel": "-120 RPM"
+        "displayRpmLabel": "-33 RPM"
       },
       {
         "rank": 5,
@@ -223,10 +223,10 @@
         "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
         "duration": 10143,
         "formattedTime": "00:10:143",
-        "displayLabel": "-124 RPM",
+        "displayLabel": "-37 RPM",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0",
         "rpm": 59.154096421177165,
-        "displayRpmLabel": "-124 RPM"
+        "displayRpmLabel": "-37 RPM"
       }
     ]
   }
