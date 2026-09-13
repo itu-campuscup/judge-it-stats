@@ -1,23 +1,9 @@
 {
-  "generatedAt": "2026-09-13T09:55:25.392Z",
+  "generatedAt": "2026-09-13T10:06:18.484Z",
   "allTimeTop5": {
     "Sail": [
       {
         "rank": 1,
-        "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
-        "playerName": "Balder Møller",
-        "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
-        "teamName": "Pol-IT",
-        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-        "heatNumber": 15,
-        "heatId": "j97cz7jgjxn9nqqjhf6px5t2g18e6pqr",
-        "duration": 1983,
-        "formattedTime": "00:01:983",
-        "displayLabel": "00:01:983",
-        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
-      },
-      {
-        "rank": 2,
         "playerId": "jd7dv1egepc1a2prtn26ttx7yh7zbsx7",
         "playerName": "Matteo Guglielmi",
         "teamId": "jh7fpya78hw0rsjr004skm2fe17zb67f",
@@ -27,11 +13,11 @@
         "heatId": "j97f955b7x76s1zky5bpbs9b617zbdwq",
         "duration": 10334,
         "formattedTime": "00:10:333",
-        "displayLabel": "+8.351s",
+        "displayLabel": "00:10:333",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM3hRQzAqUajmmcrcM9wKhYU9XIdU395IOxMyQmbcM3EqDbwnj7juNU8tGeTeReMz2N5UCy7-EGD3Du11Je6600gdWvXZ1cqCml-17-3hnt74jjSqy19ePzz9W123iNpO6kDqpkW-SX9hT85-NiN6ma=w1536-h1024-s-no?authuser=1"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "playerId": "jd7dg2vbd8d228kypvv618x8c17zavvp",
         "playerName": "August Thomsen",
         "teamId": "jh7c86cxt8e68pzb37cyg6x4y97zbgx1",
@@ -41,11 +27,11 @@
         "heatId": "j977pnnjjk8anbzb9q5ardsj6d7zbbmg",
         "duration": 10381,
         "formattedTime": "00:10:381",
-        "displayLabel": "+8.398s",
+        "displayLabel": "+0.047s",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPwVKakAMxz5eyvR4e0m0yDz6-c3llqjK7N0yul0qXheNhkLhiMlYDbhWJMmPoUR3JeQqFLCMBJO8VwsaLfRLsZwLsZq2s3BfmmrBQoLrb7nZCjGwRHUOrFF4TEbF3x6HGVUB150vkSi7ZrJgGC0_dW=w1080-h1080-s-no?authuser=1"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "playerId": "jd7akq8ttckxec451xqmg43spn8e4fee",
         "playerName": "Daniel Gottschalk",
         "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
@@ -55,11 +41,11 @@
         "heatId": "j97cz7jgjxn9nqqjhf6px5t2g18e6pqr",
         "duration": 10389,
         "formattedTime": "00:10:388",
-        "displayLabel": "+8.406s",
+        "displayLabel": "+0.055s",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "playerId": "jd75z67brvqkg64gt682eaepax7zayqz",
         "playerName": "Alfred Damgaard",
         "teamId": "jh7e6qjtx6ehbgm2nt3pnnemb17zag13",
@@ -69,8 +55,22 @@
         "heatId": "j97c2gdc3k1x2190px1gtaxf7n7zbhae",
         "duration": 12596,
         "formattedTime": "00:12:596",
-        "displayLabel": "+10.613s",
+        "displayLabel": "+2.262s",
         "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO7O9VFjA5PyTJGVUrIpoWwlApWIplOgEUXU68pIJtqfXO3MYSG8UhPvsnG9i8pWWgRpH63L8WW-8knQiiZAtZgX6F0vgO6E6QX_Nc4x1xaXMF_Diw52kYuN0PU60QQzaTaU_TNbN-eoWRplKdAoFeh=w970-h1292-s-no?authuser=1"
+      },
+      {
+        "rank": 5,
+        "playerId": "jd73nyyqbe8x1hs9g8d0p9zwxs8e50sm",
+        "playerName": "Allan Petersen",
+        "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
+        "teamName": "Team ninjago",
+        "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0",
+        "heatNumber": 1,
+        "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
+        "duration": 12896,
+        "formattedTime": "00:12:896",
+        "displayLabel": "+2.562s",
+        "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
       }
     ],
     "Beer": [

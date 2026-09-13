@@ -1,24 +1,10 @@
 {
   "timeType": "Sail",
   "year": 2026,
-  "generatedAt": "2026-09-13T09:55:25.392Z",
+  "generatedAt": "2026-09-13T10:06:18.484Z",
   "rankings": [
     {
       "rank": 1,
-      "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
-      "playerName": "Balder Møller",
-      "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
-      "teamName": "Pol-IT",
-      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
-      "heatNumber": 15,
-      "heatId": "j97cz7jgjxn9nqqjhf6px5t2g18e6pqr",
-      "duration": 1983,
-      "formattedTime": "00:01:983",
-      "displayLabel": "00:01:983",
-      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
-    },
-    {
-      "rank": 2,
       "playerId": "jd7akq8ttckxec451xqmg43spn8e4fee",
       "playerName": "Daniel Gottschalk",
       "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
@@ -28,11 +14,11 @@
       "heatId": "j97cz7jgjxn9nqqjhf6px5t2g18e6pqr",
       "duration": 10389,
       "formattedTime": "00:10:388",
-      "displayLabel": "+8.406s",
+      "displayLabel": "00:10:388",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "playerId": "jd73nyyqbe8x1hs9g8d0p9zwxs8e50sm",
       "playerName": "Allan Petersen",
       "teamId": "jh73bzz9hr3d4ax9mt0facx9ad8e5da4",
@@ -42,11 +28,11 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 12896,
       "formattedTime": "00:12:896",
-      "displayLabel": "+10.913s",
+      "displayLabel": "+2.507s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "playerId": "jd7dqbqmn7d3jerkgqt6cpwmjh8e7zc5",
       "playerName": "Niels Laier Jensen",
       "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -56,11 +42,11 @@
       "heatId": "j97cz7jgjxn9nqqjhf6px5t2g18e6pqr",
       "duration": 17388,
       "formattedTime": "00:17:388",
-      "displayLabel": "+15.405s",
+      "displayLabel": "+6.999s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "playerId": "jd78mbrtw80d2zxtvgph5nc6gx7zbr9p",
       "playerName": "Daniel Fich",
       "teamId": "jh7dn7cac8xhsakfw90kssm91x8e5h02",
@@ -70,11 +56,11 @@
       "heatId": "j97dmjeycbe0q6tn8fjyxkbp818e7sjp",
       "duration": 18637,
       "formattedTime": "00:18:637",
-      "displayLabel": "+16.654s",
+      "displayLabel": "+8.248s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "playerId": "jd7f9wp3xkydsw928hyd0yxn3d8e4vqa",
       "playerName": "Anders Skousen",
       "teamId": "jh78m5bkwhp5qe1b9vnafhsnhh8e46wr",
@@ -84,11 +70,11 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 18806,
       "formattedTime": "00:18:806",
-      "displayLabel": "+16.823s",
+      "displayLabel": "+8.417s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "playerId": "jd73z3qcdrxza4saht6tg47qcs8e5nz2",
       "playerName": "Johan Becht",
       "teamId": "jh7d6zg0bxwhrgakv9qn3w9d1h8e5c8y",
@@ -98,11 +84,11 @@
       "heatId": "j970vgh0sdx6ntmz323att2ea58e736y",
       "duration": 19696,
       "formattedTime": "00:19:696",
-      "displayLabel": "+17.713s",
+      "displayLabel": "+9.307s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "playerId": "jd78y6rcrjnrp71jn9xgtm9c6n8e5xex",
       "playerName": "Zofia Kalin-Czerska",
       "teamId": "jh7enhyz0a790943kj64f2s72s8e58kv",
@@ -112,8 +98,22 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 19720,
       "formattedTime": "00:19:719",
-      "displayLabel": "+17.737s",
+      "displayLabel": "+9.331s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
+    },
+    {
+      "rank": 8,
+      "playerId": "jd7864becmwbvcexqzejhpgx2s7zbr64",
+      "playerName": "Balder Møller",
+      "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
+      "teamName": "Pol-IT",
+      "teamImageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0",
+      "heatNumber": 15,
+      "heatId": "j97cz7jgjxn9nqqjhf6px5t2g18e6pqr",
+      "duration": 20108,
+      "formattedTime": "00:20:108",
+      "displayLabel": "+9.719s",
+      "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
       "rank": 9,
@@ -126,7 +126,7 @@
       "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
       "duration": 20369,
       "formattedTime": "00:20:368",
-      "displayLabel": "+18.386s",
+      "displayLabel": "+9.980s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
@@ -140,7 +140,7 @@
       "heatId": "j97a870f8y7px55828r26yh2w18e6gx0",
       "duration": 20698,
       "formattedTime": "00:20:698",
-      "displayLabel": "+18.715s",
+      "displayLabel": "+10.309s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
@@ -154,7 +154,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 20934,
       "formattedTime": "00:20:934",
-      "displayLabel": "+18.951s",
+      "displayLabel": "+10.545s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
@@ -168,7 +168,7 @@
       "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
       "duration": 20934,
       "formattedTime": "00:20:934",
-      "displayLabel": "+18.951s",
+      "displayLabel": "+10.545s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
@@ -182,7 +182,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 21115,
       "formattedTime": "00:21:114",
-      "displayLabel": "+19.132s",
+      "displayLabel": "+10.726s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     },
     {
@@ -196,7 +196,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 21166,
       "formattedTime": "00:21:166",
-      "displayLabel": "+19.183s",
+      "displayLabel": "+10.777s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
@@ -210,7 +210,7 @@
       "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
       "duration": 21182,
       "formattedTime": "00:21:181",
-      "displayLabel": "+19.199s",
+      "displayLabel": "+10.793s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
@@ -224,7 +224,7 @@
       "heatId": "j97a870f8y7px55828r26yh2w18e6gx0",
       "duration": 21757,
       "formattedTime": "00:21:757",
-      "displayLabel": "+19.774s",
+      "displayLabel": "+11.368s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
@@ -238,7 +238,7 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 21867,
       "formattedTime": "00:21:867",
-      "displayLabel": "+19.884s",
+      "displayLabel": "+11.478s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
@@ -252,7 +252,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 22486,
       "formattedTime": "00:22:486",
-      "displayLabel": "+20.503s",
+      "displayLabel": "+12.097s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
@@ -266,7 +266,7 @@
       "heatId": "j970vgh0sdx6ntmz323att2ea58e736y",
       "duration": 22844,
       "formattedTime": "00:22:844",
-      "displayLabel": "+20.861s",
+      "displayLabel": "+12.455s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
@@ -280,7 +280,7 @@
       "heatId": "j970vgh0sdx6ntmz323att2ea58e736y",
       "duration": 22974,
       "formattedTime": "00:22:974",
-      "displayLabel": "+20.991s",
+      "displayLabel": "+12.585s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
@@ -294,7 +294,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 23075,
       "formattedTime": "00:23:074",
-      "displayLabel": "+21.092s",
+      "displayLabel": "+12.686s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
@@ -308,7 +308,7 @@
       "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
       "duration": 23224,
       "formattedTime": "00:23:224",
-      "displayLabel": "+21.241s",
+      "displayLabel": "+12.835s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
@@ -322,7 +322,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 23265,
       "formattedTime": "00:23:265",
-      "displayLabel": "+21.282s",
+      "displayLabel": "+12.876s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
@@ -336,7 +336,7 @@
       "heatId": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
       "duration": 23289,
       "formattedTime": "00:23:289",
-      "displayLabel": "+21.306s",
+      "displayLabel": "+12.900s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
@@ -350,7 +350,7 @@
       "heatId": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
       "duration": 23456,
       "formattedTime": "00:23:455",
-      "displayLabel": "+21.473s",
+      "displayLabel": "+13.067s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczOu34q6OkO-2X9xQBW7TwKOx2xSR6Vz3mFNwiUy_1t2n3aJ5bDJGx0Qk_vWKHMvZFbtqgeUTfhiLNOyLRkQoFfifkRsj2kROAp1mz83NaOhsq54Nhkmpwy7-XGHqsbQLvnSO1kxMBlhsgNwZFF-4U4W=w1179-h1817-s-no?authuser=0"
     },
     {
@@ -364,7 +364,7 @@
       "heatId": "j97a870f8y7px55828r26yh2w18e6gx0",
       "duration": 23760,
       "formattedTime": "00:23:760",
-      "displayLabel": "+21.777s",
+      "displayLabel": "+13.371s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
@@ -378,7 +378,7 @@
       "heatId": "j97dmjeycbe0q6tn8fjyxkbp818e7sjp",
       "duration": 23844,
       "formattedTime": "00:23:844",
-      "displayLabel": "+21.861s",
+      "displayLabel": "+13.455s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
@@ -392,7 +392,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 23848,
       "formattedTime": "00:23:847",
-      "displayLabel": "+21.865s",
+      "displayLabel": "+13.459s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     },
     {
@@ -406,7 +406,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 23849,
       "formattedTime": "00:23:849",
-      "displayLabel": "+21.866s",
+      "displayLabel": "+13.460s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
     },
     {
@@ -420,7 +420,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 24524,
       "formattedTime": "00:24:524",
-      "displayLabel": "+22.541s",
+      "displayLabel": "+14.135s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
@@ -434,7 +434,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 24692,
       "formattedTime": "00:24:692",
-      "displayLabel": "+22.709s",
+      "displayLabel": "+14.303s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
@@ -448,7 +448,7 @@
       "heatId": "j976ck5765j4m3ce353xadbj618e7wpy",
       "duration": 24730,
       "formattedTime": "00:24:730",
-      "displayLabel": "+22.747s",
+      "displayLabel": "+14.341s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMgO9NAXzSOksoLUOX_wfhsLBtrxh3hovDzJww3P2Og0yX6u1npQ7VNtomWEwdi4S-_b_95u5tPcCI9V5Ei28ZjqMNalw124rtoBXfGM1JkCZdv13FYpf8s5ARmPFMH3gwGvtgWqgmW6PJpvqDeJBO=w1940-h1300-s-no?authuser=0"
     },
     {
@@ -462,7 +462,7 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 25001,
       "formattedTime": "00:25:001",
-      "displayLabel": "+23.018s",
+      "displayLabel": "+14.612s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
@@ -476,7 +476,7 @@
       "heatId": "j972rcrdfvg15q9ftjvx2ve7a98e7q8q",
       "duration": 25299,
       "formattedTime": "00:25:298",
-      "displayLabel": "+23.316s",
+      "displayLabel": "+14.910s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNaAID140c9UijZUbFGqItk2W0HzlqSIrQTk-wp4TZT-iguZKbNeKhj-6WVNuOyuTXVz9bUU0F0794YtK2tidvEhb8ug1Nv5svcY4RDfA8nz7e7DH_D-6OWgXvKIV4Al-Ib0QIUhq7MnXdHzwBVQyNd=w1220-h814-s-no?authuser=0"
     },
     {
@@ -490,7 +490,7 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 25305,
       "formattedTime": "00:25:304",
-      "displayLabel": "+23.322s",
+      "displayLabel": "+14.916s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     },
     {
@@ -504,7 +504,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 25400,
       "formattedTime": "00:25:399",
-      "displayLabel": "+23.417s",
+      "displayLabel": "+15.011s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     },
     {
@@ -518,7 +518,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 25469,
       "formattedTime": "00:25:469",
-      "displayLabel": "+23.486s",
+      "displayLabel": "+15.080s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
@@ -532,7 +532,7 @@
       "heatId": "j97cz7jgjxn9nqqjhf6px5t2g18e6pqr",
       "duration": 25552,
       "formattedTime": "00:25:551",
-      "displayLabel": "+23.569s",
+      "displayLabel": "+15.163s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNDEN1aeAa4iKck1L-E-x7hWQ1E4Zv3QoypUlXYFNZwNpNYKQUT3HF0vcJBYadhVYPd-svoO8BYmtHPCZKA39Zxyb0dzD54CKp_x8LHDO1lbAfMbo4DNbUZyGsLO2xvyACkoXfZWv-09SxFSRTAfbWA=w1220-h1066-s-no?authuser=0"
     },
     {
@@ -546,7 +546,7 @@
       "heatId": "j970vgh0sdx6ntmz323att2ea58e736y",
       "duration": 25587,
       "formattedTime": "00:25:586",
-      "displayLabel": "+23.604s",
+      "displayLabel": "+15.198s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2bz3Z41X5F0YXAajZxUqaAT2qVABXnYCFPqpkX-3Eaf33PunL5_d4Fu55ih-y8x_6hcu9Tifa17JwP1fc0cWHtXcVP1LBcpR2AuiU5gcc-g3Jc4iqcQbmpgb8W4bMlfatVTHg7d4AZNw11uKm1ZTO=w1206-h1010-s-no?authuser=0"
     },
     {
@@ -560,7 +560,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 25998,
       "formattedTime": "00:25:998",
-      "displayLabel": "+24.015s",
+      "displayLabel": "+15.609s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
@@ -574,7 +574,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 26199,
       "formattedTime": "00:26:199",
-      "displayLabel": "+24.216s",
+      "displayLabel": "+15.810s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
     },
     {
@@ -588,7 +588,7 @@
       "heatId": "j970epekttyfb1kwr1pbq5jdhx8e6a0r",
       "duration": 26366,
       "formattedTime": "00:26:365",
-      "displayLabel": "+24.383s",
+      "displayLabel": "+15.977s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgIZlweKDiiecAfkKcaWegzk6TqkR9V5E9b1DmqIvZlS9VyMZ8pSeUJiWtzd-fdcDVIFOq9ZNoQL0aX98VeCrmXKJcgsWsHCxwY28eoiYZJx_9_M2e-yujt-p4k_dbncYWyWc-MY26-10A_cCAZHQp=w1220-h814-s-no?authuser=0"
     },
     {
@@ -602,7 +602,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 27217,
       "formattedTime": "00:27:216",
-      "displayLabel": "+25.234s",
+      "displayLabel": "+16.828s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
@@ -616,7 +616,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 27627,
       "formattedTime": "00:27:626",
-      "displayLabel": "+25.644s",
+      "displayLabel": "+17.238s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
@@ -630,7 +630,7 @@
       "heatId": "j9735f67481dgdwa5wdxp8gk2x8e7xn7",
       "duration": 28094,
       "formattedTime": "00:28:094",
-      "displayLabel": "+26.111s",
+      "displayLabel": "+17.705s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczONquGo3fZ1bvlK7GyYS0orTzPdKPPwIgOBu98sy1WV-c3939-yLdoFJa0ybQ0MkqUpznMBPx2jma7PzEeY0wLbeCTjBV_lB6LgUvLyq3unq27Uv3MkNe9aedfCfYwG9E6HXQx_AzGDdFPMDOiEAxwD=w1105-h1106-s-no?authuser=0"
     },
     {
@@ -644,7 +644,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 28665,
       "formattedTime": "00:28:664",
-      "displayLabel": "+26.682s",
+      "displayLabel": "+18.276s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
@@ -658,7 +658,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 28812,
       "formattedTime": "00:28:812",
-      "displayLabel": "+26.829s",
+      "displayLabel": "+18.423s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczO_MV1kxtr8fnr9kDDXQ6rtLzgRG2ixvtIhZqvSV9PHC1WqIyIBTd9v6YUpGlih-AqPtZCDE1xf1_wa4gKJPwwWlQRTTtdrTzTa2RgDj6IU4zdGqHh8v7MuyG8E8Il2W0u_GSnAsGDPYLlH7yyDdPLh=w1220-h916-s-no?authuser=0"
     },
     {
@@ -672,7 +672,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 29117,
       "formattedTime": "00:29:117",
-      "displayLabel": "+27.134s",
+      "displayLabel": "+18.728s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
@@ -686,7 +686,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 29230,
       "formattedTime": "00:29:230",
-      "displayLabel": "+27.247s",
+      "displayLabel": "+18.841s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
@@ -700,7 +700,7 @@
       "heatId": "j97c99hdfk5ysc2jnkr74qjw7x8e7snt",
       "duration": 29578,
       "formattedTime": "00:29:577",
-      "displayLabel": "+27.595s",
+      "displayLabel": "+19.189s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczNu4dizZVg89S4rwQq13l4Vgq23EJCOp8QRcNsDRkD5Q2rokTsnufwAuv5Jp8Bhv2Q3K_-8WO0vVtLUXikDtB44kR5lMaAEZ5j5uN-fx2kSFHSsUJeyGCuDlJbJbtOxZvxL-0Nz3Xpu1Hf5Z2W_ngdn=w883-h1541-s-no?authuser=0"
     },
     {
@@ -714,7 +714,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 29860,
       "formattedTime": "00:29:859",
-      "displayLabel": "+27.877s",
+      "displayLabel": "+19.471s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0"
     },
     {
@@ -728,7 +728,7 @@
       "heatId": "j972r385fhevdba3ra8dn2r2bs8e7sta",
       "duration": 30445,
       "formattedTime": "00:30:445",
-      "displayLabel": "+28.462s",
+      "displayLabel": "+20.056s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczN5ROJVB9W6T9F0cjIwQFdfjtl0UhjgZxtoQq-wfmkavq3mtmeWgV8f1rOtOZ2ZlbgPnIPte2tNp-0dh9u9Mi48rllkrxYXjMW5RFXvxrTFLxkGjAgDkwizGvHHe77mzgcAvfa4mfO-x5wgkDy5Pbxl=w1220-h914-s-no?authuser=0"
     },
     {
@@ -742,7 +742,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 31931,
       "formattedTime": "00:31:931",
-      "displayLabel": "+29.948s",
+      "displayLabel": "+21.542s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
@@ -756,7 +756,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 33408,
       "formattedTime": "00:33:408",
-      "displayLabel": "+31.425s",
+      "displayLabel": "+23.019s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0"
     },
     {
@@ -770,7 +770,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 34305,
       "formattedTime": "00:34:304",
-      "displayLabel": "+32.322s",
+      "displayLabel": "+23.916s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczM8B5bFRKHMtafsm5MzOvYGRVAUCRjh3PL0rHLl0tKxXTWowt9-AZyuZBjuHJ3CE-DSi5A4SQK39WDYIDtBrVVzIUD77mQC25VfdAfAcApFLUAvVa7OUjNNpY0gnTlAYNN8optZPQPCrYXiO1UqlU2P=w1220-h862-s-no?authuser=0"
     },
     {
@@ -784,7 +784,7 @@
       "heatId": "j97c151thy7r8cykw8vmypssz18e6feq",
       "duration": 34759,
       "formattedTime": "00:34:759",
-      "displayLabel": "+32.776s",
+      "displayLabel": "+24.370s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczP6pVfgQMsvT9DmJeAhr1vZ_CoWUjr0ZJHhcPx98Y0YEywjVBny6Y-JhgPF3es3H2i6E8WX50JpqY_C6nqylNvkEkCIkJtyNaEMhg23cLCBaEX7MGrXadiJ9zyg3KUnJsQy4ur3IWoUT60jl_jVjeJE=w1220-h1580-s-no?authuser=0"
     },
     {
@@ -798,7 +798,7 @@
       "heatId": "j97a7e659rd3f50bar0cvxb6bs8e6kb2",
       "duration": 34817,
       "formattedTime": "00:34:817",
-      "displayLabel": "+32.834s",
+      "displayLabel": "+24.428s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPJNPxVRIvzjAf1v_JRjcxey4j3kAMnZGnGBi3PAADOfHVFXSe4INcEH7cX19RUfSq8Ocle35ZSYyNRMu4QZ00l31z03JrOltnVIN8JhlakGjbRWKdNaeZlhzcqq13depB20SzBDa4uSEG-YD0sQaBh=w1080-h1350-s-no?authuser=0"
     },
     {
@@ -812,7 +812,7 @@
       "heatId": "j977jesvvf6vrzj2383gs2y4t98e6x67",
       "duration": 37051,
       "formattedTime": "00:37:051",
-      "displayLabel": "+35.068s",
+      "displayLabel": "+26.662s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPRorzJZ1slN3iDo8Mplbz_-YMZrDUNBlly8us4xVKS4V3NPI-GrZNSUYiNCjqqaOjXSBVhpje50GAl2tc63ABAsjzOzbURmx6wTe0b2aZTfEhVyu_cv3fNadCpVT5U9tLpg9xgAlPTSiA3IVbzVpog=w1220-h914-s-no?authuser=0"
     },
     {
@@ -826,7 +826,7 @@
       "heatId": "j97416hambtmx23ap9fvk6pzed8e795q",
       "duration": 37507,
       "formattedTime": "00:37:506",
-      "displayLabel": "+35.524s",
+      "displayLabel": "+27.118s",
       "imageUrl": "https://lh3.googleusercontent.com/pw/AP1GczPNoDYax55oPRpb88zoKniV2DezxYFRhsGY6bSjOUkySuLt_jF40ZU4UrH0Qg-IEBgPLcNqPujCX5MvNdXltPbyCFM-SotK7QK7TtvleQ5zNJkym_yohRveL06EVIl_yMXqcUnAQB_YaaB-c3X1-58V=w944-h1035-s-no?authuser=0"
     }
   ]

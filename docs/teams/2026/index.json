@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T09:55:25.392Z",
+  "generatedAt": "2026-09-13T10:06:18.484Z",
   "teams": [
     {
       "teamId": "jh706qbzb2384xzgrh49aknmrh8e48ah",
@@ -394,7 +394,7 @@
         }
       ],
       "bestTimes": {
-        "Sail": 16450.25,
+        "Sail": 20981.5,
         "Beer": 8460.5,
         "Spin": 8997.75
       },
@@ -406,7 +406,7 @@
         },
         {
           "subject": "Sail",
-          "performance": 62,
+          "performance": 41,
           "fullMark": 100
         },
         {
