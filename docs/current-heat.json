@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T10:35:23.057Z",
-  "sourceFetchedAt": "2026-09-13T10:35:23.057Z",
+  "generatedAt": "2026-09-13T14:22:11.332Z",
+  "sourceFetchedAt": "2026-09-13T14:22:11.332Z",
   "currentHeat": {
     "id": "j97cz7jgjxn9nqqjhf6px5t2g18e6pqr",
     "number": 15,
@@ -213,7 +213,7 @@
           "status": "racing",
           "currentPlayerName": "Daniel Fich",
           "startedAt": "2026-09-11T15:40:47.073Z",
-          "elapsedMsAtSnapshot": 154475984
+          "elapsedMsAtSnapshot": 168084259
         },
         {
           "teamId": "jh7dqt4ykrwqk72583wpptkxed8e590y",
@@ -225,7 +225,7 @@
           "status": "finished",
           "currentPlayerName": "Lukas Pedersen",
           "startedAt": "2026-09-11T15:40:47.073Z",
-          "elapsedMsAtSnapshot": 154475984,
+          "elapsedMsAtSnapshot": 168084259,
           "finishedAt": "2026-09-11T15:46:10.409Z"
         }
       ]
