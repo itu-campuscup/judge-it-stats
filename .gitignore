@@ -135,9 +135,13 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
-.env.test
+# Plaintext environment files; examples and Fafnir ciphertext stay trackable
+.env*
+!.env.example
+!.env.fafnir
+!.env.local.fafnir
+!.env.prod.fafnir
+!.env.prod.example
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -176,5 +180,8 @@ docs/teams/
 docs/players/
 docs/index.json
 
-# Local env
-.env.local
+
+# fafnir managed paths
+/.env.prod
+!/.env.prod.fafnir
+# fafnir managed end

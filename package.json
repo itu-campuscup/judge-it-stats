@@ -6,6 +6,13 @@
   "scripts": {
     "generate": "bun run generate-stats.ts",
     "generate:full": "bun run generate-stats.ts --full",
+    "generate:shared": "fafnir run --file .env.local -- bun run generate-stats.ts",
+    "generate:prod": "fafnir run --file .env.prod -- bun run generate-stats.ts",
+    "fafnir:init": "fafnir init --file .env.local",
+    "fafnir:seal": "fafnir seal --file .env.local",
+    "fafnir:check": "fafnir check --decrypt",
+    "fafnir:check:structure": "fafnir check",
+    "fafnir:run": "fafnir run --file .env.local --",
     "test": "bun test"
   },
   "dependencies": {},

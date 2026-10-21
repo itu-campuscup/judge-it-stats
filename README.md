@@ -2,6 +2,8 @@
 
 Generates static JSON statistics for the Judge-It Campus Cup application from Convex data, deployed to GitHub Pages.
 
+[![Fafnir: secrets](./assets/fafnir-badge.svg)](https://github.com/lucasfth/fafnir)
+
 ## How It Works
 
 Every 5 minutes (via GitHub Actions cron), this script:
@@ -41,39 +43,35 @@ Player profiles use the team from the player's latest dated participation, indep
 
 ## Setup
 
-### 1. Clone and install
+Install [Bun](https://bun.com) and [Fafnir](./FAFNIR.md#new-laptop-the-short-path) once. Then:
 
 ```bash
-git clone git@github.com:itu-campuscup/judge-it-stats.git
+git clone --recurse-submodules git@github.com:itu-campuscup/judge-it-stats.git
 cd judge-it-stats
 bun install
+fafnir key create  # once per laptop; skip if you already have an identity
+fafnir key public  # send this PUBLIC recipient to a maintainer
 ```
 
-### 2. Configure Convex environment
-
-Set the `STATS_API_KEY` in the judge-it Convex deployment:
-```bash
-cd ../judge-it
-bun secrets:set STATS_API_KEY="your-secret-key"
-bun push
-```
-
-### 3. Configure stats generator
-
-Create `.env.local`:
-```
-CONVEX_URL=https://your-deployment-name.convex.cloud
-STATS_API_KEY=your-secret-key
-```
-
-### 4. Run locally
+After the maintainer grants access, pull the updated policy and ciphertext:
 
 ```bash
-bun run generate        # incremental (current year + uncached)
-bun run generate:full   # regenerate all years
+git pull --rebase
+fafnir trust       # review and approve the recipients
+bun run fafnir:check
 ```
 
-For local isolation, `DOCS_DIR` is an optional output-directory override; omit it to write to `docs/`.
+**The shared configuration is production-only:** use `bun run generate:prod` (or append `--full`) only when deliberately reading production data, after receiving access to `.env.prod.fafnir`. The generator writes local output; it does not publish or deploy it. Optional `generate:shared` requires a separately initialized `.env.local.fafnir`; no shared development scope is currently configured. Never share private decryption keys.
+
+[Fafnir onboarding and maintainer setup](./FAFNIR.md) covers grants, backend API-key provisioning and recovery. The production policy and ciphertext are included; new contributors still need a recipient grant. Successful decryption does not prove the API key matches the live backend.
+
+Fafnir is experimental and not independently audited. CampusCup has chosen to use it for production too; keep independent recovery copies and restrict production recipients. GitHub Actions continues using its existing repository secrets.
+
+### Without shared access
+
+Copy `.env.example` to ignored `.env.local`, set your own `CONVEX_URL` and matching `STATS_API_KEY`, then run `bun run generate` or `bun run generate:full`. A maintainer must configure the same key on the source Convex deployment; see [backend provisioning](./FAFNIR.md#backend-api-key). Do not commit plaintext or private keys.
+
+For isolated local output, set `DOCS_DIR` to a temporary directory; omit it to write to `docs/`.
 
 ## GitHub Actions Setup
 
